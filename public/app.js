@@ -142,7 +142,7 @@
       if (opts.language !== 'all' && (repo.language || '未标注') !== opts.language) return false;
       if (opts.license !== 'all' && (repo.license || '未标注') !== opts.license) return false;
       if (opts.activity !== 'all' && (Date.now() - new Date(repo.pushedAt || 0).getTime()) > Number(opts.activity) * 86400000) return false;
-      if (opts.sort === 'growth' && repo.deltas['1d'] == null) return false;
+      if (opts.sort === 'growth' && growthValue(repo, '1d') == null) return false;
       if (opts.tab === 'featured' && !repo.featured) return false;
       if (opts.tab === 'new' && (Date.now() - new Date(repo.createdAt || 0).getTime()) > 1000 * 60 * 60 * 24 * 90) return false;
       if (!query) return true;
@@ -151,7 +151,7 @@
     });
     const sorters = {
       stars: (a, b) => num(b.stars) - num(a.stars),
-      growth: (a, b) => num(b.deltas && b.deltas['1d'], -Infinity) - num(a.deltas && a.deltas['1d'], -Infinity),
+      growth: (a, b) => num(growthValue(b, '1d'), -Infinity) - num(growthValue(a, '1d'), -Infinity),
       recent: (a, b) => new Date(b.pushedAt || b.createdAt || 0) - new Date(a.pushedAt || a.createdAt || 0),
       forks: (a, b) => num(b.forks) - num(a.forks)
     };
@@ -159,6 +159,12 @@
     return result;
   };
 
+  const growthValue = (repo, window = '1d') => {
+    const value = repo.growthRates && repo.growthRates[window];
+    if (value != null && !Number.isNaN(Number(value))) return Number(value);
+    const delta = repo.deltas && repo.deltas[window];
+    return delta != null && !Number.isNaN(Number(delta)) ? Number(delta) : null;
+  };
   const growthLabel = (repo, window = '1d') => {
     const value = repo.growthRates && repo.growthRates[window];
     if (value == null || Number.isNaN(Number(value))) return '趋势积累中';
@@ -208,7 +214,7 @@
     if (ordered.length) return ordered;
     if (key === 'growth1d' || key === 'growth7d' || key === 'growth30d') {
       const window = key.replace('growth', '');
-      return repos().filter(repo => repo.deltas && repo.deltas[window] != null).sort((a, b) => num(b.deltas[window], -Infinity) - num(a.deltas[window], -Infinity));
+      return repos().filter(repo => growthValue(repo, window) != null).sort((a, b) => num(growthValue(b, window), -Infinity) - num(growthValue(a, window), -Infinity));
     }
     if (key === 'newcomers') return [];
     return repos().slice().sort((a,b)=>b.stars-a.stars);
