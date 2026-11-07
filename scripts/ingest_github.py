@@ -11,6 +11,7 @@ import argparse
 import json
 import os
 import random
+import re
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -77,7 +78,7 @@ CURATED: Dict[str, Dict[str, Any]] = {
     "denoland/deno": {"summary": "内置 TypeScript、权限和工具链的 JavaScript 运行时。", "category": "开发工具", "reasons": ["开箱即用的开发体验", "持续探索 Web 标准"]},
     "oven-sh/bun": {"summary": "面向 JavaScript 和 TypeScript 的快速运行时与工具链。", "category": "开发工具", "reasons": ["启动和安装速度快", "整合常用开发工具"]},
     "vercel/next.js": {"summary": "用于生产级 React 应用的全栈框架。", "category": "开发工具", "reasons": ["渲染和部署能力完整", "生产案例与文档丰富"]},
-    "playwright-community/playwright": {"summary": "跨浏览器端到端测试与自动化框架。", "category": "开发工具", "reasons": ["覆盖现代浏览器", "适合稳定回归测试"]},
+    "microsoft/playwright": {"summary": "跨浏览器端到端测试与自动化框架。", "category": "开发工具", "reasons": ["覆盖现代浏览器", "适合稳定回归测试"]},
     "pytest-dev/pytest": {"summary": "Python 测试框架，强调可读性和插件扩展。", "category": "开发工具", "reasons": ["测试表达清晰", "插件生态成熟"]},
     "eslint/eslint": {"summary": "可配置的 JavaScript 和 TypeScript 静态检查器。", "category": "开发工具", "reasons": ["前端质量门槛常用", "规则和插件丰富"]},
     "prettier/prettier": {"summary": "统一代码格式的多语言 formatter。", "category": "开发工具", "reasons": ["减少团队格式争议", "编辑器和 CI 集成方便"]},
@@ -87,6 +88,23 @@ CURATED: Dict[str, Dict[str, Any]] = {
 }
 
 CATEGORIES = ("AI 与智能体", "开发工具", "自托管", "数据与分析", "设计与创作", "学习资源", "安全与隐私", "效率工具")
+
+# GitHub can transfer a popular project to a new owner. Keep these aliases so
+# the editorial summary/category follows the repository's current full_name.
+CURATED_ALIASES: Dict[str, str] = {
+    "react/react": "facebook/react",
+    "ggml-org/llama.cpp": "ggerganov/llama.cpp",
+    "Comfy-Org/ComfyUI": "comfyanonymous/ComfyUI",
+}
+
+CATEGORY_KEYWORDS: Dict[str, Tuple[str, ...]] = {
+    "学习资源": ("education", "book", "books", "course", "curriculum", "tutorial", "tutorials", "tutorial-code", "tutorial-exercises", "learning", "learn", "roadmap", "study", "interview-prep", "cheatsheet"),
+    "安全与隐私": ("security", "privacy", "encryption", "encrypted", "cryptography", "vpn", "wireguard", "firewall", "pentest", "penetration", "audit", "audits", "security-audit", "security audit", "provenance", "osint"),
+    "自托管": ("self-hosted", "selfhosted", "homelab", "home-server", "self-host", "own-your-data", "local-first", "local-only"),
+    "AI 与智能体": ("ai", "llm", "agent", "agents", "inference", "transformer", "diffusion", "machine-learning", "machine learning", "deep-learning", "deep learning", "large language model", "artificial intelligence", "model-provider", "generative-ai"),
+    "数据与分析": ("analytics", "dataset", "data-science", "data-analysis", "metrics", "monitoring", "observability", "prometheus", "grafana", "geospatial", "gis", "etl", "ocr"),
+    "设计与创作": ("image", "image-editing", "photo-editing", "video", "video-editing", "illustration", "creative", "design-tool", "stable-diffusion", "comfyui"),
+}
 
 
 def utc_now() -> datetime:
@@ -201,12 +219,56 @@ def _safe_category(value: Any) -> str:
     return value if value in CATEGORIES else "效率工具"
 
 
-def _curated(repo_id: str) -> Dict[str, Any]:
-    item = CURATED.get(repo_id, {})
+def _canonical_repo_id(repo_id: str) -> str:
+    if repo_id in CURATED_ALIASES:
+        return CURATED_ALIASES[repo_id]
+    lowered = repo_id.casefold()
+    for alias, canonical in CURATED_ALIASES.items():
+        if alias.casefold() == lowered:
+            return canonical
+    for curated_id in CURATED:
+        if curated_id.casefold() == lowered:
+            return curated_id
+    return repo_id
+
+
+def _infer_category(raw: Dict[str, Any]) -> str:
+    """Infer a broad category from GitHub topics and description.
+
+    This is intentionally conservative: one strong topic is enough, while
+    generic words such as ``tool`` or ``app`` never move a project out of the
+    efficiency fallback. Editorial categories still take precedence.
+    """
+    topics = {str(topic).strip().lower() for topic in (raw.get("topics") or []) if str(topic).strip()}
+    description = str(raw.get("description") or "").lower()
+
+    def matches(keyword: str) -> bool:
+        # A topic is a structured GitHub field, so exact matching is safe.
+        if keyword in topics:
+            return True
+        # Descriptions are free text; use boundaries so ``ai`` does not match
+        # ``chair`` and ``book`` does not match ``bookkeeping``.
+        pattern = rf"(?<![a-z0-9]){re.escape(keyword)}(?![a-z0-9])"
+        return bool(re.search(pattern, description))
+
+    scores = {category: sum(1 for keyword in keywords if matches(keyword)) for category, keywords in CATEGORY_KEYWORDS.items()}
+    # Topics are stronger evidence than an incidental description mention.
+    topic_scores = {category: sum(1 for keyword in keywords if keyword in topics) for category, keywords in CATEGORY_KEYWORDS.items()}
+    candidates = tuple(CATEGORY_KEYWORDS)
+    best = max(candidates, key=lambda category: (topic_scores[category], scores[category]))
+    if topic_scores[best] > 0 or scores[best] >= 2:
+        return best
+    return "效率工具"
+
+
+def _curated(repo_id: str, raw: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
+    item = CURATED.get(_canonical_repo_id(repo_id), {})
+    category = _safe_category(item.get("category")) if item.get("category") else _infer_category(raw or {})
     return {
         "summary": item.get("summary"),
-        "category": _safe_category(item.get("category")),
+        "category": category,
         "reasons": list(item.get("reasons") or []),
+        "editorial": bool(item),
     }
 
 
@@ -325,7 +387,7 @@ def normalise_repo(raw: Dict[str, Any], history_root: Path, now: datetime) -> Di
     repo_id = raw.get("full_name") or raw.get("name")
     if not repo_id or "/" not in repo_id:
         raise ValueError("GitHub response has no full_name")
-    curated = _curated(repo_id)
+    curated = _curated(repo_id, raw)
     topics = list(raw.get("topics") or [])
     language = raw.get("language") or None
     summary = curated["summary"] or _fallback_summary(raw, language, topics)
@@ -355,7 +417,7 @@ def normalise_repo(raw: Dict[str, Any], history_root: Path, now: datetime) -> Di
         "pushedAt": raw.get("pushed_at"),
         "fetchedAt": iso(now),
         "archived": bool(raw.get("archived", False)),
-        "featured": repo_id in CURATED,
+        "featured": _canonical_repo_id(repo_id) in CURATED,
         "reasons": reasons,
         "deltas": deltas,
         "growthRates": growth_rates(history, deltas, now=now),

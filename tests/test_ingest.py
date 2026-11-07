@@ -40,6 +40,48 @@ class IngestTests(unittest.TestCase):
         assert len(merged) == 1
         assert merged[0]["stars"] == 12
 
+    def test_curated_aliases_match_current_github_repository_names(self):
+        fixtures = [
+            ("react/react", "构建用户界面的 JavaScript 库。", "开发工具"),
+            ("ggml-org/llama.cpp", "在多种硬件上高效运行大语言模型的 C/C++ 实现。", "AI 与智能体"),
+            ("Comfy-Org/ComfyUI", "基于节点工作流的生成式图像界面。", "设计与创作"),
+        ]
+        with tempfile.TemporaryDirectory() as folder:
+            for repo_id, summary, category in fixtures:
+                repo = normalise_repo({
+                    "full_name": repo_id, "name": repo_id.split("/", 1)[1],
+                    "owner": {"login": repo_id.split("/", 1)[0]}, "description": "live description",
+                    "stargazers_count": 100, "language": "Python", "topics": [],
+                }, Path(folder), datetime(2026, 11, 7, tzinfo=timezone.utc))
+                assert repo["summary"] == summary
+                assert repo["category"] == category
+                assert repo["featured"] is True
+
+    def test_category_keywords_do_not_match_inside_unrelated_words(self):
+        with tempfile.TemporaryDirectory() as folder:
+            repo = normalise_repo({
+                "full_name": "example/chair", "name": "chair", "owner": {"login": "example"},
+                "description": "A lightweight chair companion app for office desks.",
+                "topics": [], "stargazers_count": 10,
+            }, Path(folder), datetime(2026, 11, 7, tzinfo=timezone.utc))
+        assert repo["category"] == "效率工具"
+
+    def test_topics_and_description_assign_non_default_categories(self):
+        fixtures = [
+            ({"full_name": "example/books", "description": "A free programming course and study guide.", "topics": ["education", "books", "curriculum"]}, "学习资源"),
+            ({"full_name": "example/vault", "description": "Private encrypted network utility.", "topics": ["security", "privacy", "encryption"]}, "安全与隐私"),
+            ({"full_name": "example/server", "description": "Self-hosted home server dashboard.", "topics": ["self-hosted", "homelab"]}, "自托管"),
+            ({"full_name": "example/model", "description": "Run large language models locally.", "topics": ["llm", "inference"]}, "AI 与智能体"),
+            ({"full_name": "example/metrics", "description": "Metrics and monitoring dashboard.", "topics": ["observability", "metrics"]}, "数据与分析"),
+            ({"full_name": "example/audit", "description": "A security audit skill for repositories.", "topics": []}, "安全与隐私"),
+            ({"full_name": "example/tutorials", "description": "Recreate technologies from scratch.", "topics": ["tutorial-code", "tutorial-exercises"]}, "学习资源"),
+        ]
+        with tempfile.TemporaryDirectory() as folder:
+            for raw, category in fixtures:
+                raw = {**raw, "name": raw["full_name"].split("/", 1)[1], "owner": {"login": "example"}, "stargazers_count": 100}
+                repo = normalise_repo(raw, Path(folder), datetime(2026, 11, 7, tzinfo=timezone.utc))
+                assert repo["category"] == category, (raw["full_name"], repo["category"])
+
     def test_unknown_repository_copy_uses_observable_description_and_evidence(self):
         with tempfile.TemporaryDirectory() as folder:
             repo = normalise_repo({
