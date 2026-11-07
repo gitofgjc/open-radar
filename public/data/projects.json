@@ -1,8 +1,8 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "generatedAt": "2026-11-07T15:37:23Z",
-    "lastSuccessAt": "2026-11-07T15:37:23Z",
+    "generatedAt": "2026-11-07T15:46:14Z",
+    "lastSuccessAt": "2026-11-07T15:46:14Z",
     "status": "live",
     "statusLabel": "最新采集快照",
     "statusMessage": "本次已成功获取 GitHub 候选快照",
@@ -23,7 +23,7 @@
       "homepage": "https://codecrafters.io",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "summary": "Markdown 项目，主题包括 awesome-list, free, programming。基于 GitHub 描述：Master programming by recreating your favorite technologies from scratch.",
-      "category": "效率工具",
+      "category": "学习资源",
       "topics": [
         "awesome-list",
         "free",
@@ -34,16 +34,16 @@
       ],
       "language": "Markdown",
       "license": null,
-      "stars": 560673,
+      "stars": 560675,
       "forks": 52455,
       "openIssues": 691,
       "createdAt": "2018-05-09T12:03:18Z",
       "pushedAt": "2026-07-14T19:25:58Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：560,673",
+        "当前观测 Stars：560,675",
         "主要语言：Markdown",
         "GitHub 主题：awesome-list, free, programming, tutorial-code",
         "最近推送：2026-07-14T19:25:58Z（约 115 天前）",
@@ -66,8 +66,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 560673
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 560675
         }
       ]
     },
@@ -90,16 +90,16 @@
       ],
       "language": null,
       "license": "CC0-1.0",
-      "stars": 532954,
-      "forks": 38201,
+      "stars": 532960,
+      "forks": 38202,
       "openIssues": 103,
       "createdAt": "2014-07-11T13:42:37Z",
       "pushedAt": "2026-09-02T02:10:47Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：532,954",
+        "当前观测 Stars：532,960",
         "GitHub 主题：awesome, awesome-list, lists, resources",
         "最近推送：2026-09-02T02:10:47Z（约 66 天前）",
         "许可证：CC0-1.0",
@@ -122,8 +122,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 532954
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 532960
         }
       ]
     },
@@ -136,7 +136,7 @@
       "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
       "description": "A collective list of free APIs",
       "summary": "Python 项目，主题包括 api, apis, dataset。基于 GitHub 描述：A collective list of free APIs",
-      "category": "效率工具",
+      "category": "数据与分析",
       "topics": [
         "api",
         "apis",
@@ -154,16 +154,16 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 496921,
-      "forks": 55533,
-      "openIssues": 2607,
+      "stars": 496923,
+      "forks": 55534,
+      "openIssues": 2608,
       "createdAt": "2016-03-20T23:49:42Z",
       "pushedAt": "2026-11-05T18:06:53Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：496,921",
+        "当前观测 Stars：496,923",
         "主要语言：Python",
         "GitHub 主题：api, apis, dataset, development",
         "最近推送：2026-11-05T18:06:53Z（约 1 天前）",
@@ -187,8 +187,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 496921
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 496923
         }
       ]
     },
@@ -201,7 +201,7 @@
       "homepage": "https://contribute.freecodecamp.org",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "summary": "TypeScript 项目，主题包括 careers, certification, community。基于 GitHub 描述：freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "category": "效率工具",
+      "category": "学习资源",
       "topics": [
         "careers",
         "certification",
@@ -221,16 +221,16 @@
       ],
       "language": "TypeScript",
       "license": "BSD-3-Clause",
-      "stars": 458703,
+      "stars": 458704,
       "forks": 48135,
       "openIssues": 184,
       "createdAt": "2014-12-24T17:49:19Z",
       "pushedAt": "2026-11-06T18:01:25Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：458,703",
+        "当前观测 Stars：458,704",
         "主要语言：TypeScript",
         "GitHub 主题：careers, certification, community, curriculum",
         "最近推送：2026-11-06T18:01:25Z（约 0 天前）",
@@ -254,8 +254,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 458703
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 458704
         }
       ]
     },
@@ -268,7 +268,7 @@
       "homepage": "https://rea.tools",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "summary": "TypeScript 项目，主题包括 agent-skills, ai, android。基于 GitHub 描述：Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "category": "效率工具",
+      "category": "AI 与智能体",
       "topics": [
         "agent-skills",
         "ai",
@@ -293,19 +293,19 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 440017,
-      "forks": 108930,
-      "openIssues": 1614,
+      "stars": 440046,
+      "forks": 108934,
+      "openIssues": 1615,
       "createdAt": "2026-04-14T00:51:32Z",
-      "pushedAt": "2026-11-07T15:37:21Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "pushedAt": "2026-11-07T15:40:36Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：440,017",
+        "当前观测 Stars：440,046",
         "主要语言：TypeScript",
         "GitHub 主题：agent-skills, ai, android, claude-code",
-        "最近推送：2026-11-07T15:37:21Z（约 0 天前）",
+        "最近推送：2026-11-07T15:40:36Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
@@ -326,8 +326,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 440017
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 440046
         }
       ]
     },
@@ -340,7 +340,7 @@
       "homepage": "https://ebookfoundation.github.io/free-programming-books/",
       "description": ":books: Freely available programming books",
       "summary": "Python 项目，主题包括 books, education, hacktoberfest。基于 GitHub 描述：:books: Freely available programming books",
-      "category": "效率工具",
+      "category": "学习资源",
       "topics": [
         "books",
         "education",
@@ -350,16 +350,16 @@
       ],
       "language": "Python",
       "license": "CC-BY-4.0",
-      "stars": 401199,
+      "stars": 401202,
       "forks": 67318,
       "openIssues": 103,
       "createdAt": "2013-10-11T06:50:37Z",
       "pushedAt": "2026-11-01T02:48:06Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：401,199",
+        "当前观测 Stars：401,202",
         "主要语言：Python",
         "GitHub 主题：books, education, hacktoberfest, list",
         "最近推送：2026-11-01T02:48:06Z（约 6 天前）",
@@ -383,8 +383,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 401199
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 401202
         }
       ]
     },
@@ -397,7 +397,7 @@
       "homepage": "https://openclaw.ai",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
       "summary": "TypeScript 项目，主题包括 ai, assistant, crustacean。基于 GitHub 描述：The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "category": "效率工具",
+      "category": "自托管",
       "topics": [
         "ai",
         "assistant",
@@ -411,17 +411,17 @@
       "license": "MIT",
       "stars": 394107,
       "forks": 82818,
-      "openIssues": 7653,
+      "openIssues": 7646,
       "createdAt": "2025-11-24T10:16:47Z",
-      "pushedAt": "2026-11-07T15:35:57Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "pushedAt": "2026-11-07T15:45:25Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
         "当前观测 Stars：394,107",
         "主要语言：TypeScript",
         "GitHub 主题：ai, assistant, crustacean, molty",
-        "最近推送：2026-11-07T15:35:57Z（约 0 天前）",
+        "最近推送：2026-11-07T15:45:25Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
@@ -442,7 +442,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 394107
         }
       ]
@@ -474,16 +474,16 @@
       ],
       "language": "Python",
       "license": "NOASSERTION",
-      "stars": 377217,
+      "stars": 377218,
       "forks": 59207,
       "openIssues": 641,
       "createdAt": "2017-02-26T16:15:28Z",
       "pushedAt": "2026-09-15T01:10:09Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：377,217",
+        "当前观测 Stars：377,218",
         "主要语言：Python",
         "GitHub 主题：design, design-patterns, design-system, development",
         "最近推送：2026-09-15T01:10:09Z（约 53 天前）",
@@ -507,8 +507,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 377217
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 377218
         }
       ]
     },
@@ -521,7 +521,7 @@
       "homepage": "https://roadmap.sh",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "summary": "TypeScript 项目，主题包括 angular-roadmap, backend-roadmap, blockchain-roadmap。基于 GitHub 描述：Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "category": "效率工具",
+      "category": "学习资源",
       "topics": [
         "angular-roadmap",
         "backend-roadmap",
@@ -544,16 +544,16 @@
       ],
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "stars": 371466,
-      "forks": 45415,
+      "stars": 371467,
+      "forks": 45414,
       "openIssues": 4,
       "createdAt": "2017-03-15T13:45:52Z",
       "pushedAt": "2026-11-06T11:53:17Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：371,466",
+        "当前观测 Stars：371,467",
         "主要语言：TypeScript",
         "GitHub 主题：angular-roadmap, backend-roadmap, blockchain-roadmap, computer-science",
         "最近推送：2026-11-06T11:53:17Z（约 1 天前）",
@@ -577,8 +577,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 371466
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 371467
         }
       ]
     },
@@ -591,7 +591,7 @@
       "homepage": null,
       "description": "A complete computer science study plan to become a software engineer.",
       "summary": "开源项目，主题包括 algorithm, algorithms, coding-interview。基于 GitHub 描述：A complete computer science study plan to become a software engineer.",
-      "category": "效率工具",
+      "category": "学习资源",
       "topics": [
         "algorithm",
         "algorithms",
@@ -608,18 +608,18 @@
       ],
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "stars": 364066,
-      "forks": 85388,
+      "stars": 364065,
+      "forks": 85390,
       "openIssues": 46,
       "createdAt": "2016-06-06T02:34:12Z",
-      "pushedAt": "2026-11-07T14:52:23Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "pushedAt": "2026-11-07T15:41:01Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：364,066",
+        "当前观测 Stars：364,065",
         "GitHub 主题：algorithm, algorithms, coding-interview, coding-interviews",
-        "最近推送：2026-11-07T14:52:23Z（约 0 天前）",
+        "最近推送：2026-11-07T15:41:01Z（约 0 天前）",
         "许可证：CC-BY-SA-4.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
@@ -640,8 +640,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 364066
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 364065
         }
       ]
     },
@@ -654,7 +654,7 @@
       "homepage": "https://awesome-selfhosted.net/",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "summary": "开源项目，主题包括 awesome, awesome-list, cloud。基于 GitHub 描述：A list of Free Software network services and web applications which can be hosted on your own servers",
-      "category": "效率工具",
+      "category": "自托管",
       "topics": [
         "awesome",
         "awesome-list",
@@ -667,16 +667,16 @@
       ],
       "language": null,
       "license": "NOASSERTION",
-      "stars": 334731,
+      "stars": 334728,
       "forks": 15758,
       "openIssues": 0,
       "createdAt": "2015-06-01T02:33:17Z",
       "pushedAt": "2026-11-07T11:49:42Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：334,731",
+        "当前观测 Stars：334,728",
         "GitHub 主题：awesome, awesome-list, cloud, free-software",
         "最近推送：2026-11-07T11:49:42Z（约 0 天前）",
         "许可证：NOASSERTION",
@@ -699,8 +699,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 334731
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 334728
         }
       ]
     },
@@ -729,7 +729,7 @@
       "openIssues": 19,
       "createdAt": "2014-06-27T21:00:06Z",
       "pushedAt": "2026-11-06T17:47:24Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -757,7 +757,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 333143
         }
       ]
@@ -775,16 +775,16 @@
       "topics": [],
       "language": "Shell",
       "license": "MIT",
-      "stars": 317345,
+      "stars": 317354,
       "forks": 26556,
       "openIssues": 219,
       "createdAt": "2026-02-03T11:15:53Z",
       "pushedAt": "2026-11-05T10:40:01Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：317,345",
+        "当前观测 Stars：317,354",
         "主要语言：Shell",
         "最近推送：2026-11-05T10:40:01Z（约 2 天前）",
         "许可证：MIT",
@@ -807,8 +807,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 317345
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 317354
         }
       ]
     },
@@ -821,7 +821,7 @@
       "homepage": null,
       "description": "An agentic skills framework & software development methodology that works.",
       "summary": "Shell 项目，主题包括 ai, brainstorming, coding。基于 GitHub 描述：An agentic skills framework & software development methodology that works.",
-      "category": "效率工具",
+      "category": "AI 与智能体",
       "topics": [
         "ai",
         "brainstorming",
@@ -834,16 +834,16 @@
       ],
       "language": "Shell",
       "license": "MIT",
-      "stars": 313938,
+      "stars": 313942,
       "forks": 27929,
       "openIssues": 342,
       "createdAt": "2025-10-09T19:45:18Z",
       "pushedAt": "2026-11-03T23:24:58Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：313,938",
+        "当前观测 Stars：313,942",
         "主要语言：Shell",
         "GitHub 主题：ai, brainstorming, coding, obra",
         "最近推送：2026-11-03T23:24:58Z（约 3 天前）",
@@ -867,8 +867,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 313938
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 313942
         }
       ]
     },
@@ -881,7 +881,7 @@
       "homepage": "https://ecc.tools",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "summary": "JavaScript 项目，主题包括 ai-agents, anthropic, claude。基于 GitHub 描述：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "category": "效率工具",
+      "category": "AI 与智能体",
       "topics": [
         "ai-agents",
         "anthropic",
@@ -894,16 +894,16 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 298950,
+      "stars": 298951,
       "forks": 44173,
       "openIssues": 241,
       "createdAt": "2026-01-18T00:51:51Z",
       "pushedAt": "2026-11-06T21:21:50Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：298,950",
+        "当前观测 Stars：298,951",
         "主要语言：JavaScript",
         "GitHub 主题：ai-agents, anthropic, claude, claude-code",
         "最近推送：2026-11-06T21:21:50Z（约 0 天前）",
@@ -927,8 +927,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 298950
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 298951
         }
       ]
     },
@@ -941,7 +941,7 @@
       "homepage": null,
       "description": "Curated list of project-based tutorials",
       "summary": "Python 项目，主题包括 beginner-project, cpp, golang。基于 GitHub 描述：Curated list of project-based tutorials",
-      "category": "效率工具",
+      "category": "学习资源",
       "topics": [
         "beginner-project",
         "cpp",
@@ -959,7 +959,7 @@
       "openIssues": 239,
       "createdAt": "2017-04-12T05:07:46Z",
       "pushedAt": "2026-11-02T06:38:53Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -987,7 +987,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 289270
         }
       ]
@@ -1010,7 +1010,7 @@
       "openIssues": 16684,
       "createdAt": "2019-03-26T07:31:14Z",
       "pushedAt": "2025-08-22T06:01:29Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -1036,7 +1036,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 277213
         }
       ]
@@ -1059,16 +1059,16 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 275557,
-      "forks": 33697,
+      "stars": 275569,
+      "forks": 33699,
       "openIssues": 0,
       "createdAt": "2026-08-13T11:56:32Z",
       "pushedAt": "2026-11-04T13:06:39Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：275,557",
+        "当前观测 Stars：275,569",
         "主要语言：TypeScript",
         "GitHub 主题：ai-agents, cordis, dsh, dsh-plugin",
         "最近推送：2026-11-04T13:06:39Z（约 3 天前）",
@@ -1092,8 +1092,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 275557
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 275569
         }
       ]
     },
@@ -1106,7 +1106,7 @@
       "homepage": "https://hermes-agent.nousresearch.com",
       "description": "The agent that grows with you",
       "summary": "Python 项目，主题包括 ai, ai-agent, ai-agents。基于 GitHub 描述：The agent that grows with you",
-      "category": "效率工具",
+      "category": "AI 与智能体",
       "topics": [
         "ai",
         "ai-agent",
@@ -1124,16 +1124,16 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 261397,
-      "forks": 57918,
-      "openIssues": 53554,
+      "stars": 261400,
+      "forks": 57920,
+      "openIssues": 53561,
       "createdAt": "2025-07-22T22:22:28Z",
       "pushedAt": "2026-11-07T15:34:12Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：261,397",
+        "当前观测 Stars：261,400",
         "主要语言：Python",
         "GitHub 主题：ai, ai-agent, ai-agents, anthropic",
         "最近推送：2026-11-07T15:34:12Z（约 0 天前）",
@@ -1157,8 +1157,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 261397
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 261400
         }
       ]
     },
@@ -1171,7 +1171,7 @@
       "homepage": null,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "summary": "开源项目，主题包括 awesome, awesome-list, bsd。基于 GitHub 描述：A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-      "category": "效率工具",
+      "category": "安全与隐私",
       "topics": [
         "awesome",
         "awesome-list",
@@ -1195,16 +1195,16 @@
       ],
       "language": null,
       "license": "MIT",
-      "stars": 256566,
+      "stars": 256569,
       "forks": 14811,
       "openIssues": 179,
       "createdAt": "2018-06-23T10:43:14Z",
       "pushedAt": "2024-11-19T14:00:38Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：256,566",
+        "当前观测 Stars：256,569",
         "GitHub 主题：awesome, awesome-list, bsd, cheatsheets",
         "最近推送：2024-11-19T14:00:38Z（约 718 天前）",
         "许可证：MIT",
@@ -1227,8 +1227,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 256566
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 256569
         }
       ]
     },
@@ -1246,11 +1246,11 @@
       "language": "C",
       "license": "NOASSERTION",
       "stars": 254736,
-      "forks": 67243,
+      "forks": 67245,
       "openIssues": 3,
       "createdAt": "2011-09-04T22:48:12Z",
       "pushedAt": "2026-11-06T21:46:38Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -1277,7 +1277,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 254736
         }
       ]
@@ -1290,8 +1290,8 @@
       "url": "https://github.com/react/react",
       "homepage": "https://react.dev",
       "description": "The library for web and native user interfaces.",
-      "summary": "JavaScript 项目，主题包括 declarative, frontend, javascript。基于 GitHub 描述：The library for web and native user interfaces.",
-      "category": "效率工具",
+      "summary": "构建用户界面的 JavaScript 库。",
+      "category": "开发工具",
       "topics": [
         "declarative",
         "frontend",
@@ -1303,20 +1303,21 @@
       "language": "JavaScript",
       "license": "MIT",
       "stars": 252353,
-      "forks": 51884,
+      "forks": 51885,
       "openIssues": 1518,
       "createdAt": "2013-05-24T16:15:54Z",
       "pushedAt": "2026-11-07T02:19:03Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
-      "featured": false,
+      "featured": true,
       "reasons": [
         "当前观测 Stars：252,353",
         "主要语言：JavaScript",
         "GitHub 主题：declarative, frontend, javascript, library",
         "最近推送：2026-11-07T02:19:03Z（约 0 天前）",
         "许可证：MIT",
-        "有 GitHub 项目描述，可直接从 README 继续核验"
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：组件生态成熟"
       ],
       "deltas": {
         "1d": null,
@@ -1335,7 +1336,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 252353
         }
       ]
@@ -1353,16 +1354,16 @@
       "topics": [],
       "language": null,
       "license": null,
-      "stars": 230514,
+      "stars": 230518,
       "forks": 22938,
       "openIssues": 138,
       "createdAt": "2026-01-27T03:53:13Z",
       "pushedAt": "2026-04-20T10:05:04Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：230,514",
+        "当前观测 Stars：230,518",
         "最近推送：2026-04-20T10:05:04Z（约 201 天前）",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
@@ -1383,8 +1384,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 230514
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 230518
         }
       ]
     },
@@ -1397,7 +1398,7 @@
       "homepage": "https://thealgorithms.github.io/Python/",
       "description": "All Algorithms implemented in Python",
       "summary": "Python 项目，主题包括 algorithm, algorithm-competitions, algorithms-implemented。基于 GitHub 描述：All Algorithms implemented in Python",
-      "category": "效率工具",
+      "category": "学习资源",
       "topics": [
         "algorithm",
         "algorithm-competitions",
@@ -1421,7 +1422,7 @@
       "openIssues": 90,
       "createdAt": "2016-07-16T09:44:01Z",
       "pushedAt": "2026-11-02T19:35:18Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -1449,7 +1450,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 225938
         }
       ]
@@ -1467,16 +1468,16 @@
       "topics": [],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 225202,
+      "stars": 225205,
       "forks": 30394,
-      "openIssues": 4137,
+      "openIssues": 4136,
       "createdAt": "2025-04-30T20:08:00Z",
       "pushedAt": "2026-11-07T14:53:02Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：225,202",
+        "当前观测 Stars：225,205",
         "主要语言：TypeScript",
         "最近推送：2026-11-07T14:53:02Z（约 0 天前）",
         "许可证：MIT",
@@ -1499,8 +1500,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 225202
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 225205
         }
       ]
     },
@@ -1523,11 +1524,11 @@
       "language": "TypeScript",
       "license": "MIT",
       "stars": 212630,
-      "forks": 33875,
+      "forks": 33876,
       "openIssues": 645,
       "createdAt": "2013-07-29T03:24:51Z",
       "pushedAt": "2024-10-10T07:24:15Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -1555,7 +1556,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 212630
         }
       ]
@@ -1569,7 +1570,7 @@
       "homepage": "https://cs.ossu.dev",
       "description": "🎓 Path to a free self-taught education in Computer Science!",
       "summary": "HTML 项目，主题包括 awesome-list, computer-science, courses。基于 GitHub 描述：🎓 Path to a free self-taught education in Computer Science!",
-      "category": "效率工具",
+      "category": "学习资源",
       "topics": [
         "awesome-list",
         "computer-science",
@@ -1578,16 +1579,16 @@
       ],
       "language": "HTML",
       "license": "MIT",
-      "stars": 210928,
+      "stars": 210929,
       "forks": 26096,
       "openIssues": 28,
       "createdAt": "2014-05-04T00:18:39Z",
       "pushedAt": "2026-11-07T09:14:50Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：210,928",
+        "当前观测 Stars：210,929",
         "主要语言：HTML",
         "GitHub 主题：awesome-list, computer-science, courses, curriculum",
         "最近推送：2026-11-07T09:14:50Z（约 0 天前）",
@@ -1611,8 +1612,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 210928
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 210929
         }
       ]
     },
@@ -1625,7 +1626,7 @@
       "homepage": "https://n8n.io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "summary": "TypeScript 项目，主题包括 ai, apis, automation。基于 GitHub 描述：Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "category": "效率工具",
+      "category": "自托管",
       "topics": [
         "ai",
         "apis",
@@ -1655,7 +1656,7 @@
       "openIssues": 1228,
       "createdAt": "2019-06-22T09:24:21Z",
       "pushedAt": "2026-11-07T15:26:43Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -1683,7 +1684,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 209754
         }
       ]
@@ -1697,7 +1698,7 @@
       "homepage": "https://dashboard.digitalplat.org",
       "description": "Free domain registration and practical DNS learning resources for everyone.",
       "summary": "Markdown 项目，主题包括 digitalplat, dns, dns-tutorial。基于 GitHub 描述：Free domain registration and practical DNS learning resources for everyone.",
-      "category": "效率工具",
+      "category": "学习资源",
       "topics": [
         "digitalplat",
         "dns",
@@ -1718,11 +1719,11 @@
       "language": "Markdown",
       "license": "AGPL-3.0",
       "stars": 207433,
-      "forks": 4660,
+      "forks": 4661,
       "openIssues": 40,
       "createdAt": "2024-05-30T13:23:00Z",
       "pushedAt": "2026-08-12T10:36:46Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -1750,7 +1751,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 207433
         }
       ]
@@ -1776,16 +1777,16 @@
       ],
       "language": "Python",
       "license": "Unlicense",
-      "stars": 205947,
-      "forks": 18090,
+      "stars": 205946,
+      "forks": 18089,
       "openIssues": 2770,
       "createdAt": "2020-10-26T04:22:55Z",
       "pushedAt": "2026-11-04T07:16:27Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：205,947",
+        "当前观测 Stars：205,946",
         "主要语言：Python",
         "GitHub 主题：cli, downloader, python, sponsorblock",
         "最近推送：2026-11-04T07:16:27Z（约 3 天前）",
@@ -1809,8 +1810,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 205947
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 205946
         }
       ]
     },
@@ -1823,7 +1824,7 @@
       "homepage": "https://ponytail.dev",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "summary": "JavaScript 项目，主题包括 agent-skills, ai-agents, claude。基于 GitHub 描述：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "category": "效率工具",
+      "category": "AI 与智能体",
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -1838,16 +1839,16 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 186202,
+      "stars": 186203,
       "forks": 10302,
       "openIssues": 183,
       "createdAt": "2026-06-12T00:52:37Z",
       "pushedAt": "2026-10-29T11:59:31Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：186,202",
+        "当前观测 Stars：186,203",
         "主要语言：JavaScript",
         "GitHub 主题：agent-skills, ai-agents, claude, claude-code",
         "最近推送：2026-10-29T11:59:31Z（约 9 天前）",
@@ -1871,8 +1872,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 186202
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 186203
         }
       ]
     },
@@ -1894,7 +1895,7 @@
       "openIssues": 1500,
       "createdAt": "2026-05-31T14:05:51Z",
       "pushedAt": "2026-11-06T02:11:20Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -1921,7 +1922,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 95367
         }
       ]
@@ -1935,7 +1936,7 @@
       "homepage": "https://getartcraft.com/apps/photocraft",
       "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
       "summary": "Rust 项目，主题包括 art, image-editing, image-editing-software。基于 GitHub 描述：PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-      "category": "效率工具",
+      "category": "设计与创作",
       "topics": [
         "art",
         "image-editing",
@@ -1947,16 +1948,16 @@
       ],
       "language": "Rust",
       "license": "Apache-2.0",
-      "stars": 77653,
+      "stars": 77655,
       "forks": 13750,
-      "openIssues": 3899,
+      "openIssues": 3903,
       "createdAt": "2026-09-30T13:37:48Z",
       "pushedAt": "2026-11-07T15:31:48Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：77,653",
+        "当前观测 Stars：77,655",
         "主要语言：Rust",
         "GitHub 主题：art, image-editing, image-editing-software, image-editor",
         "最近推送：2026-11-07T15:31:48Z（约 0 天前）",
@@ -1980,8 +1981,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 77653
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 77655
         }
       ]
     },
@@ -2003,7 +2004,7 @@
       "openIssues": 12,
       "createdAt": "2026-09-07T01:53:36Z",
       "pushedAt": "2026-11-06T10:20:15Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -2030,7 +2031,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 74171
         }
       ]
@@ -2044,7 +2045,7 @@
       "homepage": null,
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "summary": "JavaScript 项目，主题包括 ai-agents, deepseek, deepseek-harness。基于 GitHub 描述：在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "category": "效率工具",
+      "category": "AI 与智能体",
       "topics": [
         "ai-agents",
         "deepseek",
@@ -2059,16 +2060,16 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 65169,
+      "stars": 65179,
       "forks": 1749,
       "openIssues": 136,
       "createdAt": "2026-09-24T16:17:19Z",
       "pushedAt": "2026-11-05T06:24:03Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：65,169",
+        "当前观测 Stars：65,179",
         "主要语言：JavaScript",
         "GitHub 主题：ai-agents, deepseek, deepseek-harness, developer-tools",
         "最近推送：2026-11-05T06:24:03Z（约 2 天前）",
@@ -2092,8 +2093,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 65169
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 65179
         }
       ]
     },
@@ -2106,20 +2107,20 @@
       "homepage": null,
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "summary": "JavaScript 项目。基于 GitHub 描述：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "category": "效率工具",
+      "category": "安全与隐私",
       "topics": [],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 65098,
-      "forks": 4224,
+      "stars": 65110,
+      "forks": 4225,
       "openIssues": 116,
       "createdAt": "2026-06-18T14:08:44Z",
       "pushedAt": "2026-09-14T19:29:02Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：65,098",
+        "当前观测 Stars：65,110",
         "主要语言：JavaScript",
         "最近推送：2026-09-14T19:29:02Z（约 53 天前）",
         "许可证：MIT",
@@ -2142,8 +2143,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 65098
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 65110
         }
       ]
     },
@@ -2156,7 +2157,7 @@
       "homepage": "https://godseyeview.ai/",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "summary": "JavaScript 项目，主题包括 3d-globe, cesium, flight-tracking。基于 GitHub 描述：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "category": "效率工具",
+      "category": "数据与分析",
       "topics": [
         "3d-globe",
         "cesium",
@@ -2175,10 +2176,10 @@
       "license": "NOASSERTION",
       "stars": 63334,
       "forks": 12467,
-      "openIssues": 424,
+      "openIssues": 426,
       "createdAt": "2026-06-22T23:37:22Z",
       "pushedAt": "2026-11-07T15:34:08Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -2206,7 +2207,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 63334
         }
       ]
@@ -2236,7 +2237,7 @@
       "openIssues": 94,
       "createdAt": "2026-05-13T20:42:06Z",
       "pushedAt": "2026-10-19T19:46:23Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -2264,7 +2265,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 60415
         }
       ]
@@ -2278,7 +2279,7 @@
       "homepage": "https://cleanyour.tv",
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "summary": "Python 项目，主题包括 adb, adblock, android-tv。基于 GitHub 描述：Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "category": "效率工具",
+      "category": "安全与隐私",
       "topics": [
         "adb",
         "adblock",
@@ -2300,16 +2301,16 @@
       ],
       "language": "Python",
       "license": "NOASSERTION",
-      "stars": 53698,
+      "stars": 53707,
       "forks": 6894,
       "openIssues": 237,
       "createdAt": "2026-10-17T08:12:35Z",
       "pushedAt": "2026-11-07T13:18:20Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：53,698",
+        "当前观测 Stars：53,707",
         "主要语言：Python",
         "GitHub 主题：adb, adblock, android-tv, android-tv-launcher",
         "最近推送：2026-11-07T13:18:20Z（约 0 天前）",
@@ -2333,8 +2334,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 53698
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 53707
         }
       ]
     },
@@ -2359,16 +2360,16 @@
       ],
       "language": "C++",
       "license": "GPL-2.0",
-      "stars": 51948,
+      "stars": 51950,
       "forks": 4948,
-      "openIssues": 1954,
+      "openIssues": 1957,
       "createdAt": "2026-08-03T21:30:25Z",
       "pushedAt": "2026-11-07T15:36:56Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：51,948",
+        "当前观测 Stars：51,950",
         "主要语言：C++",
         "GitHub 主题：anyps5, dynamic-library, game-porting, ps5",
         "最近推送：2026-11-07T15:36:56Z（约 0 天前）",
@@ -2392,8 +2393,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 51948
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 51950
         }
       ]
     },
@@ -2406,7 +2407,7 @@
       "homepage": "https://open-codereview.ai",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "summary": "Go 项目，主题包括 agent, agent-skills, code-review。基于 GitHub 描述：Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "category": "效率工具",
+      "category": "AI 与智能体",
       "topics": [
         "agent",
         "agent-skills",
@@ -2422,7 +2423,7 @@
       "openIssues": 351,
       "createdAt": "2026-05-18T02:16:36Z",
       "pushedAt": "2026-11-06T08:35:01Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -2450,7 +2451,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 49609
         }
       ]
@@ -2469,11 +2470,11 @@
       "language": "C",
       "license": "Apache-2.0",
       "stars": 48641,
-      "forks": 5666,
+      "forks": 5667,
       "openIssues": 208,
       "createdAt": "2026-07-01T12:27:49Z",
       "pushedAt": "2026-11-07T15:18:06Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -2500,7 +2501,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 48641
         }
       ]
@@ -2514,20 +2515,20 @@
       "homepage": null,
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "summary": "PowerShell 项目。基于 GitHub 描述：Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "category": "效率工具",
+      "category": "安全与隐私",
       "topics": [],
       "language": "PowerShell",
       "license": "MIT",
-      "stars": 44269,
+      "stars": 44268,
       "forks": 6588,
       "openIssues": 42,
       "createdAt": "2026-05-13T14:37:57Z",
       "pushedAt": "2026-09-22T06:43:21Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：44,269",
+        "当前观测 Stars：44,268",
         "主要语言：PowerShell",
         "最近推送：2026-09-22T06:43:21Z（约 46 天前）",
         "许可证：MIT",
@@ -2550,8 +2551,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 44269
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 44268
         }
       ]
     },
@@ -2568,16 +2569,16 @@
       "topics": [],
       "language": "C++",
       "license": "MIT",
-      "stars": 41371,
+      "stars": 41373,
       "forks": 4531,
       "openIssues": 1087,
       "createdAt": "2026-09-24T16:40:20Z",
       "pushedAt": "2026-11-07T08:25:01Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：41,371",
+        "当前观测 Stars：41,373",
         "主要语言：C++",
         "最近推送：2026-11-07T08:25:01Z（约 0 天前）",
         "许可证：MIT",
@@ -2600,8 +2601,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 41371
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 41373
         }
       ]
     },
@@ -2627,16 +2628,16 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 35258,
+      "stars": 35259,
       "forks": 1592,
       "openIssues": 396,
       "createdAt": "2026-08-13T16:30:50Z",
       "pushedAt": "2026-11-06T16:29:38Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：35,258",
+        "当前观测 Stars：35,259",
         "主要语言：TypeScript",
         "GitHub 主题：cordis, cordis-plugin, deepseek, deepseek-harness",
         "最近推送：2026-11-06T16:29:38Z（约 0 天前）",
@@ -2660,8 +2661,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 35258
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 35259
         }
       ]
     },
@@ -2692,16 +2693,16 @@
       ],
       "language": "Python",
       "license": "Apache-2.0",
-      "stars": 35165,
+      "stars": 35166,
       "forks": 3147,
       "openIssues": 106,
       "createdAt": "2026-09-18T04:46:33Z",
       "pushedAt": "2026-11-07T14:39:39Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：35,165",
+        "当前观测 Stars：35,166",
         "主要语言：Python",
         "GitHub 主题：calibration, classification, decision-model, huggingface",
         "最近推送：2026-11-07T14:39:39Z（约 0 天前）",
@@ -2725,8 +2726,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 35165
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 35166
         }
       ]
     },
@@ -2760,16 +2761,16 @@
       ],
       "language": "Swift",
       "license": "GPL-3.0",
-      "stars": 33358,
+      "stars": 33360,
       "forks": 1640,
       "openIssues": 1442,
       "createdAt": "2026-06-12T15:25:43Z",
       "pushedAt": "2026-11-05T22:03:28Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：33,358",
+        "当前观测 Stars：33,360",
         "主要语言：Swift",
         "GitHub 主题：alt-tab, app-uninstaller, appkit, finder",
         "最近推送：2026-11-05T22:03:28Z（约 1 天前）",
@@ -2793,8 +2794,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 33358
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 33360
         }
       ]
     },
@@ -2807,7 +2808,7 @@
       "homepage": "https://usemagpie.ai",
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "summary": "Go 项目，主题包括 claude-code, codex, deepseek。基于 GitHub 描述：Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "category": "效率工具",
+      "category": "AI 与智能体",
       "topics": [
         "claude-code",
         "codex",
@@ -2818,19 +2819,19 @@
       ],
       "language": "Go",
       "license": "MIT",
-      "stars": 31705,
-      "forks": 2780,
+      "stars": 31710,
+      "forks": 2782,
       "openIssues": 3358,
       "createdAt": "2026-09-23T16:22:35Z",
-      "pushedAt": "2026-11-07T15:27:57Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "pushedAt": "2026-11-07T15:43:12Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：31,705",
+        "当前观测 Stars：31,710",
         "主要语言：Go",
         "GitHub 主题：claude-code, codex, deepseek, gemini-cli",
-        "最近推送：2026-11-07T15:27:57Z（约 0 天前）",
+        "最近推送：2026-11-07T15:43:12Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
@@ -2851,8 +2852,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 31705
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 31710
         }
       ]
     },
@@ -2869,16 +2870,16 @@
       "topics": [],
       "language": "Python",
       "license": "MIT",
-      "stars": 30833,
-      "forks": 3299,
+      "stars": 30834,
+      "forks": 3300,
       "openIssues": 94,
       "createdAt": "2026-06-18T08:40:15Z",
       "pushedAt": "2026-11-02T06:43:28Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：30,833",
+        "当前观测 Stars：30,834",
         "主要语言：Python",
         "最近推送：2026-11-02T06:43:28Z（约 5 天前）",
         "许可证：MIT",
@@ -2901,8 +2902,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 30833
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 30834
         }
       ]
     },
@@ -2915,7 +2916,7 @@
       "homepage": "https://hypit.ai",
       "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "summary": "TypeScript 项目，主题包括 agentic-ai, ai, ai-agents。基于 GitHub 描述：Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-      "category": "效率工具",
+      "category": "AI 与智能体",
       "topics": [
         "agentic-ai",
         "ai",
@@ -2940,16 +2941,16 @@
       ],
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "stars": 28403,
+      "stars": 28406,
       "forks": 3298,
       "openIssues": 93,
       "createdAt": "2026-07-29T18:49:19Z",
       "pushedAt": "2026-11-05T13:30:52Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：28,403",
+        "当前观测 Stars：28,406",
         "主要语言：TypeScript",
         "GitHub 主题：agentic-ai, ai, ai-agents, ai-video",
         "最近推送：2026-11-05T13:30:52Z（约 2 天前）",
@@ -2973,8 +2974,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 28403
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 28406
         }
       ]
     },
@@ -2996,7 +2997,7 @@
       "openIssues": 0,
       "createdAt": "2026-07-14T20:04:23Z",
       "pushedAt": "2026-09-29T16:57:13Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -3023,7 +3024,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 27712
         }
       ]
@@ -3037,7 +3038,7 @@
       "homepage": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "summary": "Python 项目，主题包括 agent-skill, ai, anthropic。基于 GitHub 描述：A privacy-first app that strips AI watermarks from content you own.",
-      "category": "效率工具",
+      "category": "安全与隐私",
       "topics": [
         "agent-skill",
         "ai",
@@ -3057,16 +3058,16 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 26576,
+      "stars": 26577,
       "forks": 3028,
       "openIssues": 47,
       "createdAt": "2026-08-11T16:32:38Z",
       "pushedAt": "2026-11-02T20:26:10Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：26,576",
+        "当前观测 Stars：26,577",
         "主要语言：Python",
         "GitHub 主题：agent-skill, ai, anthropic, c2pa",
         "最近推送：2026-11-02T20:26:10Z（约 4 天前）",
@@ -3090,8 +3091,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 26576
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 26577
         }
       ]
     },
@@ -3113,16 +3114,16 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 25691,
+      "stars": 25690,
       "forks": 2153,
       "openIssues": 72,
       "createdAt": "2026-10-08T10:12:49Z",
       "pushedAt": "2026-10-18T20:20:24Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：25,691",
+        "当前观测 Stars：25,690",
         "主要语言：JavaScript",
         "GitHub 主题：agent-skill, open-source, svg, vizualization",
         "最近推送：2026-10-18T20:20:24Z（约 19 天前）",
@@ -3146,8 +3147,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 25691
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 25690
         }
       ]
     },
@@ -3169,7 +3170,7 @@
       "openIssues": 247,
       "createdAt": "2026-10-16T07:47:23Z",
       "pushedAt": "2026-11-03T07:31:59Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -3196,7 +3197,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 25585
         }
       ]
@@ -3210,7 +3211,7 @@
       "homepage": "https://openlogi.org",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "summary": "Rust 项目，主题包括 dpi, gpui, hid。基于 GitHub 描述：⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "category": "效率工具",
+      "category": "安全与隐私",
       "topics": [
         "dpi",
         "gpui",
@@ -3233,7 +3234,7 @@
       "openIssues": 633,
       "createdAt": "2026-05-24T10:10:36Z",
       "pushedAt": "2026-11-07T15:31:50Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -3261,7 +3262,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 25320
         }
       ]
@@ -3284,7 +3285,7 @@
       "openIssues": 211,
       "createdAt": "2026-09-16T21:30:12Z",
       "pushedAt": "2026-11-03T11:46:20Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -3311,7 +3312,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 24251
         }
       ]
@@ -3335,16 +3336,16 @@
       ],
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "stars": 23523,
+      "stars": 23524,
       "forks": 7241,
-      "openIssues": 579,
+      "openIssues": 580,
       "createdAt": "2026-08-13T13:55:31Z",
       "pushedAt": "2026-11-07T09:16:03Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：23,523",
+        "当前观测 Stars：23,524",
         "主要语言：JavaScript",
         "GitHub 主题：awesome, awesome-list, deepseek-harness, dsh",
         "最近推送：2026-11-07T09:16:03Z（约 0 天前）",
@@ -3368,8 +3369,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 23523
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 23524
         }
       ]
     },
@@ -3407,16 +3408,16 @@
       ],
       "language": "C#",
       "license": "MIT",
-      "stars": 23468,
+      "stars": 23473,
       "forks": 1386,
       "openIssues": 148,
       "createdAt": "2026-09-29T20:05:15Z",
       "pushedAt": "2026-11-07T03:55:22Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：23,468",
+        "当前观测 Stars：23,473",
         "主要语言：C#",
         "GitHub 主题：audio-converter, avalonia, batch-conversion, converter",
         "最近推送：2026-11-07T03:55:22Z（约 0 天前）",
@@ -3440,8 +3441,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 23468
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 23473
         }
       ]
     },
@@ -3463,7 +3464,7 @@
       "openIssues": 132,
       "createdAt": "2026-08-03T16:36:14Z",
       "pushedAt": "2026-10-23T22:55:34Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": false,
       "reasons": [
@@ -3490,7 +3491,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 23408
         }
       ]
@@ -3514,19 +3515,19 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 195129,
+      "stars": 195128,
       "forks": 44438,
-      "openIssues": 21843,
+      "openIssues": 21845,
       "createdAt": "2015-09-03T20:23:38Z",
-      "pushedAt": "2026-11-07T15:31:37Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "pushedAt": "2026-11-07T15:44:04Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：195,129",
+        "当前观测 Stars：195,128",
         "主要语言：TypeScript",
         "GitHub 主题：editor, electron, microsoft, typescript",
-        "最近推送：2026-11-07T15:31:37Z（约 0 天前）",
+        "最近推送：2026-11-07T15:44:04Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：社区规模大且持续维护"
@@ -3548,8 +3549,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 195129
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 195128
         }
       ]
     },
@@ -3579,7 +3580,7 @@
       "openIssues": 2004,
       "createdAt": "2014-01-31T13:39:22Z",
       "pushedAt": "2026-11-07T14:59:58Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -3608,7 +3609,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 103476
         }
       ]
@@ -3635,7 +3636,7 @@
       "openIssues": 418,
       "createdAt": "2008-07-23T14:21:26Z",
       "pushedAt": "2026-11-07T06:30:11Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -3664,7 +3665,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 64177
         }
       ]
@@ -3692,7 +3693,7 @@
       "openIssues": 3049,
       "createdAt": "2023-10-02T20:24:11Z",
       "pushedAt": "2026-11-07T13:26:53Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -3721,7 +3722,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 91726
         }
       ]
@@ -3751,16 +3752,16 @@
       ],
       "language": "Rust",
       "license": "MIT",
-      "stars": 50861,
+      "stars": 50862,
       "forks": 2625,
       "openIssues": 2272,
       "createdAt": "2022-08-09T17:17:44Z",
       "pushedAt": "2026-11-07T14:18:21Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：50,861",
+        "当前观测 Stars：50,862",
         "主要语言：Rust",
         "GitHub 主题：linter, pep8, python, python3",
         "最近推送：2026-11-07T14:18:21Z（约 0 天前）",
@@ -3785,8 +3786,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 50861
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 50862
         }
       ]
     },
@@ -3814,16 +3815,16 @@
       ],
       "language": "Go",
       "license": "MIT",
-      "stars": 84054,
+      "stars": 84055,
       "forks": 4118,
       "openIssues": 333,
       "createdAt": "2013-10-23T16:04:23Z",
       "pushedAt": "2026-11-07T12:06:19Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：84,054",
+        "当前观测 Stars：84,055",
         "主要语言：Go",
         "GitHub 主题：bash, cli, fish, fzf",
         "最近推送：2026-11-07T12:06:19Z（约 0 天前）",
@@ -3848,8 +3849,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 84054
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 84055
         }
       ]
     },
@@ -3880,7 +3881,7 @@
       "openIssues": 563,
       "createdAt": "2018-04-21T10:52:23Z",
       "pushedAt": "2026-11-07T03:35:08Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -3909,7 +3910,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 61216
         }
       ]
@@ -3943,7 +3944,7 @@
       "openIssues": 226,
       "createdAt": "2016-03-11T02:02:33Z",
       "pushedAt": "2026-10-27T18:31:31Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -3972,7 +3973,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 69862
         }
       ]
@@ -4016,7 +4017,7 @@
       "openIssues": 283,
       "createdAt": "2013-12-08T07:34:43Z",
       "pushedAt": "2026-11-07T06:26:03Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -4045,7 +4046,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 64160
         }
       ]
@@ -4084,7 +4085,7 @@
       "openIssues": 311,
       "createdAt": "2009-08-28T18:15:37Z",
       "pushedAt": "2026-11-06T13:42:13Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -4113,7 +4114,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 190346
         }
       ]
@@ -4142,7 +4143,7 @@
       "openIssues": 120,
       "createdAt": "2013-12-09T11:40:58Z",
       "pushedAt": "2026-11-06T09:02:49Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -4171,7 +4172,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 38632
         }
       ]
@@ -4194,16 +4195,16 @@
       ],
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 128886,
-      "forks": 45751,
+      "stars": 128887,
+      "forks": 45752,
       "openIssues": 3231,
       "createdAt": "2014-06-06T22:56:04Z",
       "pushedAt": "2026-11-07T11:59:43Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：128,886",
+        "当前观测 Stars：128,887",
         "主要语言：Go",
         "GitHub 主题：cncf, containers, go, kubernetes",
         "最近推送：2026-11-07T11:59:43Z（约 0 天前）",
@@ -4228,8 +4229,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 128886
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 128887
         }
       ]
     },
@@ -4257,7 +4258,7 @@
       "openIssues": 505,
       "createdAt": "2015-10-06T01:07:32Z",
       "pushedAt": "2026-11-07T10:35:27Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -4286,7 +4287,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 30400
         }
       ]
@@ -4312,16 +4313,16 @@
       ],
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 67338,
-      "forks": 10997,
+      "stars": 67342,
+      "forks": 10998,
       "openIssues": 1094,
       "createdAt": "2012-11-24T11:14:12Z",
       "pushedAt": "2026-11-07T11:31:25Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：67,338",
+        "当前观测 Stars：67,342",
         "主要语言：Go",
         "GitHub 主题：alerting, graphing, hacktoberfest, metrics",
         "最近推送：2026-11-07T11:31:25Z（约 0 天前）",
@@ -4346,8 +4347,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 67338
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 67342
         }
       ]
     },
@@ -4385,7 +4386,7 @@
       "openIssues": 3326,
       "createdAt": "2013-12-11T15:59:56Z",
       "pushedAt": "2026-11-07T13:26:03Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -4414,7 +4415,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 77748
         }
       ]
@@ -4447,16 +4448,16 @@
       ],
       "language": "Go",
       "license": "MIT",
-      "stars": 64336,
+      "stars": 64335,
       "forks": 4939,
       "openIssues": 51,
       "createdAt": "2021-12-08T15:30:18Z",
       "pushedAt": "2026-11-06T01:33:03Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：64,336",
+        "当前观测 Stars：64,335",
         "主要语言：Go",
         "GitHub 主题：docker, foss, go, markdown",
         "最近推送：2026-11-06T01:33:03Z（约 1 天前）",
@@ -4481,8 +4482,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 64336
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 64335
         }
       ]
     },
@@ -4521,7 +4522,7 @@
       "openIssues": 672,
       "createdAt": "2022-02-03T15:56:27Z",
       "pushedAt": "2026-11-07T09:51:33Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -4550,7 +4551,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 118450
         }
       ]
@@ -4583,10 +4584,10 @@
       "license": "GPL-3.0",
       "stars": 47820,
       "forks": 3360,
-      "openIssues": 5,
+      "openIssues": 7,
       "createdAt": "2022-02-12T21:56:52Z",
       "pushedAt": "2026-11-07T15:32:29Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -4615,7 +4616,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 47820
         }
       ]
@@ -4646,7 +4647,7 @@
       "openIssues": 1,
       "createdAt": "2022-08-24T07:29:42Z",
       "pushedAt": "2026-11-07T12:15:46Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -4675,7 +4676,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 33548
         }
       ]
@@ -4704,17 +4705,17 @@
       "license": "Apache-2.0",
       "stars": 92046,
       "forks": 39222,
-      "openIssues": 3636,
+      "openIssues": 3637,
       "createdAt": "2013-09-17T07:29:48Z",
-      "pushedAt": "2026-11-07T15:26:02Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "pushedAt": "2026-11-07T15:43:16Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
         "当前观测 Stars：92,046",
         "主要语言：Python",
         "GitHub 主题：asyncio, hacktoberfest, home-automation, internet-of-things",
-        "最近推送：2026-11-07T15:26:02Z（约 0 天前）",
+        "最近推送：2026-11-07T15:43:16Z（约 0 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：设备集成数量大"
@@ -4736,7 +4737,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 92046
         }
       ]
@@ -4764,7 +4765,7 @@
       "openIssues": 399,
       "createdAt": "2013-11-26T09:48:21Z",
       "pushedAt": "2026-11-05T18:55:51Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -4793,7 +4794,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 90182
         }
       ]
@@ -4823,7 +4824,7 @@
       "openIssues": 4772,
       "createdAt": "2020-01-31T22:00:03Z",
       "pushedAt": "2026-11-07T15:17:58Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -4852,7 +4853,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 38758
         }
       ]
@@ -4879,7 +4880,7 @@
       "openIssues": 79,
       "createdAt": "2016-09-16T01:12:39Z",
       "pushedAt": "2026-11-03T16:01:18Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -4908,7 +4909,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 1194
         }
       ]
@@ -4936,7 +4937,7 @@
       "openIssues": 3944,
       "createdAt": "2013-01-18T18:10:57Z",
       "pushedAt": "2026-11-06T02:17:38Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -4965,7 +4966,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 72360
         }
       ]
@@ -4989,11 +4990,11 @@
       "language": "Go",
       "license": "MIT",
       "stars": 61603,
-      "forks": 3772,
+      "forks": 3773,
       "openIssues": 1,
       "createdAt": "2022-07-05T06:06:21Z",
       "pushedAt": "2026-10-26T18:07:11Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": true,
       "featured": true,
       "reasons": [
@@ -5022,7 +5023,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 61603
         }
       ]
@@ -5065,7 +5066,7 @@
       "openIssues": 1191,
       "createdAt": "2019-10-12T05:56:49Z",
       "pushedAt": "2026-11-07T05:27:10Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -5094,7 +5095,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 114631
         }
       ]
@@ -5138,7 +5139,7 @@
       "openIssues": 758,
       "createdAt": "2019-04-08T16:36:25Z",
       "pushedAt": "2026-11-07T14:17:51Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -5167,7 +5168,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 57888
         }
       ]
@@ -5211,7 +5212,7 @@
       "openIssues": 379,
       "createdAt": "2012-12-12T01:35:36Z",
       "pushedAt": "2026-11-07T12:35:29Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -5240,7 +5241,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 38679
         }
       ]
@@ -5284,7 +5285,7 @@
       "openIssues": 725,
       "createdAt": "2022-10-17T02:58:36Z",
       "pushedAt": "2026-11-07T09:18:20Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -5313,7 +5314,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 149154
         }
       ]
@@ -5347,7 +5348,7 @@
       "openIssues": 1161,
       "createdAt": "2023-08-18T11:43:45Z",
       "pushedAt": "2026-10-28T14:45:27Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -5376,7 +5377,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 61736
         }
       ]
@@ -5415,7 +5416,7 @@
       "openIssues": 176,
       "createdAt": "2023-10-06T22:08:27Z",
       "pushedAt": "2026-11-07T15:36:44Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -5444,7 +5445,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 158012
         }
       ]
@@ -5477,16 +5478,16 @@
       ],
       "language": "Go",
       "license": "MIT",
-      "stars": 186243,
+      "stars": 186242,
       "forks": 18947,
       "openIssues": 4606,
       "createdAt": "2023-06-26T19:39:32Z",
       "pushedAt": "2026-11-07T02:44:07Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：186,243",
+        "当前观测 Stars：186,242",
         "主要语言：Go",
         "GitHub 主题：deepseek, gemma, glm, go",
         "最近推送：2026-11-07T02:44:07Z（约 0 天前）",
@@ -5511,8 +5512,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 186243
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 186242
         }
       ]
     },
@@ -5524,8 +5525,8 @@
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "homepage": "https://www.comfy.org/",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "summary": "Python 项目，主题包括 ai, comfy, comfyui。基于 GitHub 描述：The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "category": "效率工具",
+      "summary": "基于节点工作流的生成式图像界面。",
+      "category": "设计与创作",
       "topics": [
         "ai",
         "comfy",
@@ -5541,16 +5542,17 @@
       "openIssues": 5454,
       "createdAt": "2023-01-17T03:15:56Z",
       "pushedAt": "2026-11-07T13:56:50Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
-      "featured": false,
+      "featured": true,
       "reasons": [
         "当前观测 Stars：145,547",
         "主要语言：Python",
         "GitHub 主题：ai, comfy, comfyui, python",
         "最近推送：2026-11-07T13:56:50Z（约 0 天前）",
         "许可证：GPL-3.0",
-        "有 GitHub 项目描述，可直接从 README 继续核验"
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：工作流可视化且可复用"
       ],
       "deltas": {
         "1d": null,
@@ -5569,7 +5571,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 145547
         }
       ]
@@ -5609,7 +5611,7 @@
       "openIssues": 2512,
       "createdAt": "2022-08-22T14:05:26Z",
       "pushedAt": "2026-03-02T07:00:53Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -5638,7 +5640,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 165250
         }
       ]
@@ -5657,11 +5659,11 @@
       "language": "Python",
       "license": "MIT",
       "stars": 112166,
-      "forks": 13578,
+      "forks": 13579,
       "openIssues": 181,
       "createdAt": "2022-09-16T20:02:54Z",
       "pushedAt": "2026-08-31T17:19:19Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -5690,7 +5692,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 112166
         }
       ]
@@ -5703,8 +5705,8 @@
       "url": "https://github.com/ggml-org/llama.cpp",
       "homepage": "https://llama.app",
       "description": "LLM inference in C/C++",
-      "summary": "C++ 项目，主题包括 ggml。基于 GitHub 描述：LLM inference in C/C++",
-      "category": "效率工具",
+      "summary": "在多种硬件上高效运行大语言模型的 C/C++ 实现。",
+      "category": "AI 与智能体",
       "topics": [
         "ggml"
       ],
@@ -5715,16 +5717,17 @@
       "openIssues": 2592,
       "createdAt": "2023-03-10T18:58:00Z",
       "pushedAt": "2026-11-07T15:12:09Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
-      "featured": false,
+      "featured": true,
       "reasons": [
         "当前观测 Stars：133,639",
         "主要语言：C++",
         "GitHub 主题：ggml",
         "最近推送：2026-11-07T15:12:09Z（约 0 天前）",
         "许可证：MIT",
-        "有 GitHub 项目描述，可直接从 README 继续核验"
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：本地推理基础设施重要"
       ],
       "deltas": {
         "1d": null,
@@ -5743,7 +5746,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 133639
         }
       ]
@@ -5775,7 +5778,7 @@
       "openIssues": 18097,
       "createdAt": "2016-08-13T05:26:41Z",
       "pushedAt": "2026-11-07T15:26:27Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -5804,7 +5807,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 105233
         }
       ]
@@ -5847,7 +5850,7 @@
       "openIssues": 1058,
       "createdAt": "2018-10-29T13:56:00Z",
       "pushedAt": "2026-11-07T13:43:56Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -5876,7 +5879,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 168622
         }
       ]
@@ -5902,7 +5905,7 @@
       "openIssues": 2243,
       "createdAt": "2010-09-13T23:02:39Z",
       "pushedAt": "2026-11-06T19:17:55Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -5931,7 +5934,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 33383
         }
       ]
@@ -5961,7 +5964,7 @@
       "openIssues": 1985,
       "createdAt": "2010-08-24T01:37:33Z",
       "pushedAt": "2026-11-07T13:00:57Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -5990,7 +5993,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 50517
         }
       ]
@@ -6018,7 +6021,7 @@
       "openIssues": 1890,
       "createdAt": "2015-04-09T06:58:03Z",
       "pushedAt": "2026-11-06T17:15:45Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -6047,7 +6050,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 13461
         }
       ]
@@ -6079,7 +6082,7 @@
       "openIssues": 1188,
       "createdAt": "2019-08-24T00:14:52Z",
       "pushedAt": "2026-11-07T15:04:20Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -6108,7 +6111,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 46255
         }
       ]
@@ -6133,11 +6136,11 @@
       "language": "TypeScript",
       "license": "MIT",
       "stars": 83856,
-      "forks": 9321,
+      "forks": 9324,
       "openIssues": 840,
       "createdAt": "2020-04-21T05:03:57Z",
       "pushedAt": "2026-11-06T11:40:02Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -6166,7 +6169,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 83856
         }
       ]
@@ -6189,7 +6192,7 @@
       "openIssues": 950,
       "createdAt": "2018-06-12T13:49:36Z",
       "pushedAt": "2026-11-06T14:53:32Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -6218,7 +6221,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 54841
         }
       ]
@@ -6245,7 +6248,7 @@
       "openIssues": 1294,
       "createdAt": "2016-11-20T18:13:05Z",
       "pushedAt": "2026-11-07T05:54:09Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -6274,7 +6277,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 88661
         }
       ]
@@ -6297,16 +6300,16 @@
       ],
       "language": "Rust",
       "license": "MIT",
-      "stars": 108909,
-      "forks": 6720,
+      "stars": 108908,
+      "forks": 6721,
       "openIssues": 1701,
       "createdAt": "2018-05-15T01:34:26Z",
       "pushedAt": "2026-10-29T08:03:10Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：108,909",
+        "当前观测 Stars：108,908",
         "主要语言：Rust",
         "GitHub 主题：deno, javascript, rust, typescript",
         "最近推送：2026-10-29T08:03:10Z（约 9 天前）",
@@ -6331,8 +6334,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 108909
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 108908
         }
       ]
     },
@@ -6364,17 +6367,17 @@
       "license": "NOASSERTION",
       "stars": 96686,
       "forks": 5271,
-      "openIssues": 9783,
+      "openIssues": 9784,
       "createdAt": "2021-04-14T00:48:17Z",
-      "pushedAt": "2026-11-07T15:38:10Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "pushedAt": "2026-11-07T15:45:55Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
         "当前观测 Stars：96,686",
         "主要语言：Rust",
         "GitHub 主题：bun, bundler, javascript, javascriptcore",
-        "最近推送：2026-11-07T15:38:10Z（约 0 天前）",
+        "最近推送：2026-11-07T15:45:55Z（约 0 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：启动和安装速度快"
@@ -6396,7 +6399,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 96686
         }
       ]
@@ -6429,16 +6432,16 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 143379,
+      "stars": 143378,
       "forks": 33551,
       "openIssues": 3857,
       "createdAt": "2016-10-05T23:32:51Z",
       "pushedAt": "2026-11-07T15:24:54Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：143,379",
+        "当前观测 Stars：143,378",
         "主要语言：JavaScript",
         "GitHub 主题：blog, browser, compiler, components",
         "最近推送：2026-11-07T15:24:54Z（约 0 天前）",
@@ -6463,8 +6466,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 143379
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 143378
         }
       ]
     },
@@ -6497,16 +6500,16 @@
       ],
       "language": "TypeScript",
       "license": "Apache-2.0",
-      "stars": 99522,
+      "stars": 99523,
       "forks": 6810,
-      "openIssues": 32,
+      "openIssues": 33,
       "createdAt": "2019-11-15T18:32:42Z",
       "pushedAt": "2026-11-07T08:36:03Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：99,522",
+        "当前观测 Stars：99,523",
         "主要语言：TypeScript",
         "GitHub 主题：automation, chrome, chromium, e2e-testing",
         "最近推送：2026-11-07T08:36:03Z（约 0 天前）",
@@ -6531,8 +6534,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 99522
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 99523
         }
       ]
     },
@@ -6560,7 +6563,7 @@
       "openIssues": 929,
       "createdAt": "2015-06-15T20:28:27Z",
       "pushedAt": "2026-11-07T06:03:30Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -6589,7 +6592,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 14670
         }
       ]
@@ -6613,16 +6616,16 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 27604,
+      "stars": 27603,
       "forks": 5207,
       "openIssues": 142,
       "createdAt": "2013-06-29T23:59:48Z",
       "pushedAt": "2026-11-07T15:22:29Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：27,604",
+        "当前观测 Stars：27,603",
         "主要语言：JavaScript",
         "GitHub 主题：ecmascript, eslint, javascript, linter",
         "最近推送：2026-11-07T15:22:29Z（约 0 天前）",
@@ -6647,8 +6650,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
-          "stars": 27604
+          "date": "2026-11-07T15:46:14Z",
+          "stars": 27603
         }
       ]
     },
@@ -6689,7 +6692,7 @@
       "openIssues": 1481,
       "createdAt": "2016-11-29T17:13:37Z",
       "pushedAt": "2026-11-06T07:01:21Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
@@ -6718,7 +6721,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 52406
         }
       ]
@@ -6752,15 +6755,15 @@
       "forks": 2866,
       "openIssues": 1028,
       "createdAt": "2020-05-23T00:06:06Z",
-      "pushedAt": "2026-11-07T15:38:31Z",
-      "fetchedAt": "2026-11-07T15:37:23Z",
+      "pushedAt": "2026-11-07T15:43:18Z",
+      "fetchedAt": "2026-11-07T15:46:14Z",
       "archived": false,
       "featured": true,
       "reasons": [
         "当前观测 Stars：45,507",
         "主要语言：Clojure",
         "GitHub 主题：clojure, clojurescript, git, graph",
-        "最近推送：2026-11-07T15:38:31Z（约 0 天前）",
+        "最近推送：2026-11-07T15:43:18Z（约 0 天前）",
         "许可证：AGPL-3.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：数据保存在本地"
@@ -6782,7 +6785,7 @@
       },
       "history": [
         {
-          "date": "2026-11-07T15:37:23Z",
+          "date": "2026-11-07T15:46:14Z",
           "stars": 45507
         }
       ]
@@ -6907,6 +6910,7 @@
     "growth7d": [],
     "growth30d": [],
     "featured": [
+      "react/react",
       "microsoft/vscode",
       "neovim/neovim",
       "git/git",
@@ -6939,8 +6943,10 @@
       "microsoft/autogen",
       "open-webui/open-webui",
       "ollama/ollama",
+      "Comfy-Org/ComfyUI",
       "AUTOMATIC1111/stable-diffusion-webui",
       "openai/whisper",
+      "ggml-org/llama.cpp",
       "pytorch/pytorch",
       "huggingface/transformers",
       "numpy/numpy",
