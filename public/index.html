@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#07111f">
+  <meta name="description" content="开源雷达：面向中文开发者的 GitHub 项目发现与个人收藏库">
+  <title>开源雷达 · Open Radar</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="ambient ambient-a"></div>
+  <div class="ambient ambient-b"></div>
+  <header class="site-header">
+    <a class="brand" href="#today" aria-label="开源雷达首页">
+      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span><strong>开源雷达</strong><small>OPEN RADAR</small></span>
+    </a>
+    <nav class="main-nav" aria-label="主导航">
+      <a href="#today" data-route="today">今日</a>
+      <a href="#explore" data-route="explore">探索</a>
+      <a href="#rankings" data-route="rankings">排行</a>
+      <a href="#list" data-route="list">我的清单</a>
+      <a href="#data" data-route="data">数据方法</a>
+    </nav>
+    <div class="header-meta"><span class="status-dot"></span><span id="header-status">数据准备中</span></div>
+  </header>
+
+  <main id="app" tabindex="-1" aria-live="polite">
+    <div class="loading-state"><span class="loader"></span><p>正在接入今日项目脉搏…</p></div>
+  </main>
+
+  <footer class="site-footer">
+    <span>OPEN RADAR · 为好奇心保留一个入口</span>
+    <span>浏览器本地收藏 · 数据来自 GitHub REST API</span>
+  </footer>
+  <script src="./app.js"></script>
+</body>
+</html>

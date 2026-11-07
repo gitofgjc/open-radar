@@ -1,0 +1,124 @@
+import json
+import sys
+import tempfile
+import unittest
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
+
+from ingest_github import build_payload, compute_delta_windows, compute_deltas, growth_rates, merge_history, normalise_repo, observed_history_days, GitHubClient, run  # noqa: E402
+
+
+def iso(days_ago=0, hour=0):
+    return (datetime.now(timezone.utc).replace(hour=hour, minute=0, second=0, microsecond=0) - timedelta(days=days_ago)).isoformat().replace("+00:00", "Z")
+
+
+class IngestTests(unittest.TestCase):
+    def test_deltas_require_real_observations_and_skip_intervals_without_interpolation(self):
+        history = [
+            {"date": iso(10), "stars": 100},
+            {"date": iso(3), "stars": 130},
+            {"date": iso(0), "stars": 140},
+        ]
+        deltas = compute_deltas(history, now=datetime.now(timezone.utc))
+        # A 10-day snapshot is too far from the 7-day target; no interpolation.
+        assert deltas["7d"] is None
+        # 30d has no sufficiently old observation and must stay unknown.
+        assert deltas["30d"] is None
+        assert deltas["1d"] is None
+
+    def test_deltas_reject_star_resets_and_negative_values(self):
+        history = [{"date": iso(2), "stars": 500}, {"date": iso(0), "stars": 120}]
+        deltas = compute_deltas(history, now=datetime.now(timezone.utc))
+        assert deltas["1d"] is None
+        assert deltas["7d"] is None
+
+    def test_merge_history_deduplicates_same_day_and_keeps_last_known_good(self):
+        prior = [{"date": "2026-01-01T08:00:00Z", "stars": 10}]
+        merged = merge_history(prior, {"date": "2026-01-01T12:00:00Z", "stars": 12})
+        assert len(merged) == 1
+        assert merged[0]["stars"] == 12
+
+    def test_build_payload_marks_stale_fallback_and_preserves_previous_data(self):
+        previous = {
+            "meta": {"schemaVersion": 1, "status": "live", "lastSuccessAt": "2026-01-01T00:00:00Z"},
+            "repositories": [{"id": "octo/demo", "fullName": "octo/demo", "stars": 9, "history": []}],
+            "rankings": {"stars": ["octo/demo"]},
+        }
+        with tempfile.TemporaryDirectory() as folder:
+            out = Path(folder) / "projects.json"
+            out.write_text(json.dumps(previous), encoding="utf-8")
+            payload = build_payload([], previous=previous, now=datetime(2026, 1, 2, tzinfo=timezone.utc), fetch_error="rate limited")
+        assert payload["meta"]["status"] == "stale"
+        assert payload["meta"]["lastSuccessAt"] == "2026-01-01T00:00:00Z"
+        assert payload["repositories"][0]["stars"] == 9
+        assert "rate limited" in payload["meta"]["warnings"][0]
+
+    def test_valid_windows_use_actual_timestamps_and_relative_fraction(self):
+        now = datetime(2026, 11, 7, 5, tzinfo=timezone.utc)
+        history = [
+            {"date": "2026-10-08T08:00:00Z", "stars": 100},
+            {"date": "2026-10-31T04:00:00Z", "stars": 150},
+            {"date": "2026-11-06T06:00:00Z", "stars": 180},
+            {"date": "2026-11-07T05:00:00Z", "stars": 200},
+        ]
+        deltas = compute_deltas(history, now=now)
+        assert deltas == {"1d": 20, "7d": 50, "30d": 100}
+        assert growth_rates(history, deltas, now=now)["1d"] == 0.1111
+        windows = compute_delta_windows(history, now=now)
+        assert windows["1d"]["from"] == "2026-11-06T06:00:00Z"
+        assert windows["1d"]["to"] == "2026-11-07T05:00:00Z"
+        assert observed_history_days([{"history": history}]) == 29
+
+    def test_normalise_repo_persists_observation_and_delta_windows(self):
+        with tempfile.TemporaryDirectory() as folder:
+            now = datetime(2026, 11, 7, 5, tzinfo=timezone.utc)
+            repo = normalise_repo({
+                "full_name": "octo/demo", "name": "demo", "owner": {"login": "octo"},
+                "stargazers_count": 10, "forks_count": 2, "open_issues_count": 1,
+            }, Path(folder), now)
+            assert repo["history"] == [{"date": "2026-11-07T05:00:00Z", "stars": 10}]
+            assert set(repo["deltaWindows"]) == {"1d", "7d", "30d"}
+            assert all(value is None for value in repo["deltaWindows"].values())
+            assert (Path(folder) / "octo__demo.json").exists()
+
+    def test_run_whole_fetch_failure_is_stale_and_does_not_claim_success(self):
+        import ingest_github
+        from unittest.mock import patch
+        previous = {
+            "meta": {"lastSuccessAt": "2026-11-06T00:00:00Z"},
+            "repositories": [{"id": "octo/demo", "stars": 9, "history": []}],
+            "rankings": {"stars": ["octo/demo"]},
+        }
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            (root / "public").mkdir()
+            (root / "public/projects.json").write_text(json.dumps(previous), encoding="utf-8")
+            with patch.object(ingest_github, "candidate_repositories", return_value=([], ["network unavailable"])):
+                result = run(root / "public", root / "history")
+            written = json.loads((root / "public/projects.json").read_text())
+        assert result["meta"]["status"] == "stale"
+        assert written["meta"]["lastSuccessAt"] == previous["meta"]["lastSuccessAt"]
+        assert written["repositories"] == previous["repositories"]
+
+    def test_client_cap_prevents_retry_requests_exceeding_budget(self):
+        import ingest_github
+        from unittest.mock import patch
+        from urllib.error import URLError
+        client = GitHubClient(max_requests=1)
+        with patch.object(ingest_github, "urlopen", side_effect=URLError("temporary outage")) as opened, patch.object(ingest_github.time, "sleep"):
+            with self.assertRaises(RuntimeError):
+                client.request("/repos/octo/demo")
+        assert opened.call_count == 1
+
+    def test_cold_start_is_labeled_without_invented_sample_stars(self):
+        payload = build_payload([], fetch_error="offline")
+        assert payload["meta"]["status"] == "sample"
+        assert payload["meta"]["historyDays"] == 0
+        assert payload["repositories"] == []
+        assert payload["meta"]["lastSuccessAt"] is None
+
+
+if __name__ == "__main__":
+    unittest.main()
