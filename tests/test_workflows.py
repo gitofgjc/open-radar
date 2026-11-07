@@ -43,6 +43,7 @@ class WorkflowContractTests(unittest.TestCase):
         self.assertIn("path: public", text)
         self.assertIn("workflow_run:", text)
         self.assertIn("Refresh GitHub radar data", text)
+        self.assertIn("ref: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.head_branch || github.ref_name }}", text)
         self.assertNotIn("contents: write", text)
         actions = re.findall(r"uses:\s*([^\s#]+)", text)
         for action in actions:
