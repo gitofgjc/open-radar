@@ -204,10 +204,49 @@ def _safe_category(value: Any) -> str:
 def _curated(repo_id: str) -> Dict[str, Any]:
     item = CURATED.get(repo_id, {})
     return {
-        "summary": item.get("summary") or "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+        "summary": item.get("summary"),
         "category": _safe_category(item.get("category")),
-        "reasons": list(item.get("reasons") or ["进入当前候选观察范围", "可从仓库文档和近期活动进一步评估"]),
+        "reasons": list(item.get("reasons") or []),
     }
+
+
+def _fallback_summary(raw: Dict[str, Any], language: Optional[str], topics: Sequence[str]) -> str:
+    description = str(raw.get("description") or "").strip()
+    if description:
+        # Keep the source description verbatim inside a short, clearly labelled
+        # summary; this avoids inventing product claims for uncatalogued repos.
+        prefix = f"{language} 项目" if language else "开源项目"
+        topic_hint = f"，主题包括 {', '.join(str(topic) for topic in topics[:3])}" if topics else ""
+        return f"{prefix}{topic_hint}。基于 GitHub 描述：{description}"
+    if language:
+        return f"使用 {language} 开发的开源项目；当前公开描述较少，建议先查看 README 和最近提交。"
+    return "开源项目；当前公开描述较少，建议先查看 README 和最近提交。"
+
+
+def _evidence_reasons(raw: Dict[str, Any], repo_id: str, curated: Dict[str, Any], now: datetime) -> List[str]:
+    """Return reasons tied to fields visible in the snapshot or editorial curation."""
+    reasons: List[str] = []
+    stars = _int_header(raw.get("stargazers_count"))
+    if stars is not None:
+        reasons.append(f"当前观测 Stars：{stars:,}")
+    language = raw.get("language")
+    if language:
+        reasons.append(f"主要语言：{language}")
+    topics = [str(topic) for topic in (raw.get("topics") or []) if str(topic).strip()]
+    if topics:
+        reasons.append(f"GitHub 主题：{', '.join(topics[:4])}")
+    pushed = parse_time(raw.get("pushed_at"))
+    if pushed:
+        age_days = max(0, (now - pushed).days)
+        reasons.append(f"最近推送：{iso(pushed)}（约 {age_days} 天前）")
+    license_id = (raw.get("license") or {}).get("spdx_id")
+    if license_id:
+        reasons.append(f"许可证：{license_id}")
+    description = str(raw.get("description") or "").strip()
+    if description:
+        reasons.append("有 GitHub 项目描述，可直接从 README 继续核验")
+    reasons.extend(f"编辑选取：{reason}" for reason in (curated.get("reasons") or []))
+    return reasons[:7] or ["仓库已进入本次 GitHub 候选快照；请查看 README、提交记录和许可证"]
 
 
 def _history_path(history_root: Path, repo_id: str) -> Path:
@@ -287,6 +326,10 @@ def normalise_repo(raw: Dict[str, Any], history_root: Path, now: datetime) -> Di
     if not repo_id or "/" not in repo_id:
         raise ValueError("GitHub response has no full_name")
     curated = _curated(repo_id)
+    topics = list(raw.get("topics") or [])
+    language = raw.get("language") or None
+    summary = curated["summary"] or _fallback_summary(raw, language, topics)
+    reasons = _evidence_reasons(raw, repo_id, curated, now)
     observation = {"date": iso(now), "stars": int(raw.get("stargazers_count") or 0)}
     history = merge_history(load_history(history_root, repo_id), observation)
     save_history(history_root, repo_id, history)
@@ -300,10 +343,10 @@ def normalise_repo(raw: Dict[str, Any], history_root: Path, now: datetime) -> Di
         "url": raw.get("html_url") or f"https://github.com/{repo_id}",
         "homepage": raw.get("homepage") or None,
         "description": raw.get("description") or "",
-        "summary": curated["summary"],
+        "summary": summary,
         "category": curated["category"],
-        "topics": list(raw.get("topics") or []),
-        "language": raw.get("language") or None,
+        "topics": topics,
+        "language": language,
         "license": ((raw.get("license") or {}).get("spdx_id") or None),
         "stars": observation["stars"],
         "forks": int(raw.get("forks_count") or 0),
@@ -313,7 +356,7 @@ def normalise_repo(raw: Dict[str, Any], history_root: Path, now: datetime) -> Di
         "fetchedAt": iso(now),
         "archived": bool(raw.get("archived", False)),
         "featured": repo_id in CURATED,
-        "reasons": curated["reasons"],
+        "reasons": reasons,
         "deltas": deltas,
         "growthRates": growth_rates(history, deltas, now=now),
         "deltaWindows": delta_windows,
@@ -345,12 +388,23 @@ def observed_history_days(repositories: Sequence[Dict[str, Any]]) -> int:
     return max(spans, default=0)
 
 
+STATUS_COPY = {
+    "live": ("最新采集快照", "本次已成功获取 GitHub 候选快照"),
+    "partial": ("部分更新", "部分候选已更新，其余项目沿用上次成功快照"),
+    "stale": ("使用旧快照", "本次抓取未成功，当前仍展示上次成功快照"),
+    "sample": ("暂无真实数据", "尚未成功获取真实候选数据，当前没有可用仓库快照"),
+}
+
+
 def _base_meta(now: datetime, status: str, count: int, last_success: Optional[str], warnings: List[str], history_days: int = 0) -> Dict[str, Any]:
+    status_label, status_message = STATUS_COPY.get(status, STATUS_COPY["sample"])
     return {
         "schemaVersion": SCHEMA_VERSION,
         "generatedAt": iso(now),
         "lastSuccessAt": last_success,
         "status": status,
+        "statusLabel": status_label,
+        "statusMessage": status_message,
         "source": "GitHub REST API",
         "coverage": "结合 GitHub stars 排名、近期创建且受关注的仓库与人工精选候选；榜单反映本次抓取范围。",
         "repositoryCount": count,

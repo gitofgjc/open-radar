@@ -40,6 +40,40 @@ class IngestTests(unittest.TestCase):
         assert len(merged) == 1
         assert merged[0]["stars"] == 12
 
+    def test_unknown_repository_copy_uses_observable_description_and_evidence(self):
+        with tempfile.TemporaryDirectory() as folder:
+            repo = normalise_repo({
+                "full_name": "example/useful-tool", "name": "useful-tool",
+                "owner": {"login": "example"}, "description": "A compact tool for parsing release notes.",
+                "stargazers_count": 1234, "forks_count": 20, "open_issues_count": 3,
+                "language": "Python", "topics": ["release", "automation"],
+                "pushed_at": "2026-11-06T03:04:05Z", "license": {"spdx_id": "MIT"},
+            }, Path(folder), datetime(2026, 11, 7, 5, tzinfo=timezone.utc))
+        assert "A compact tool for parsing release notes." in repo["summary"]
+        assert "当前观测 Stars：1,234" in repo["reasons"]
+        assert any("最近推送" in reason and "2026-11-06" in reason for reason in repo["reasons"])
+        assert all("进入当前候选观察范围" not in reason for reason in repo["reasons"])
+
+    def test_curated_reasons_are_explicitly_editorial(self):
+        with tempfile.TemporaryDirectory() as folder:
+            repo = normalise_repo({
+                "full_name": "astral-sh/uv", "name": "uv", "stargazers_count": 100,
+                "language": "Rust", "topics": ["python", "packaging"],
+                "pushed_at": "2026-11-06T00:00:00Z", "license": {"spdx_id": "MIT"},
+            }, Path(folder), datetime(2026, 11, 7, tzinfo=timezone.utc))
+        assert any(reason.startswith("编辑选取：") for reason in repo["reasons"])
+        assert any(reason.startswith("当前观测 Stars：") for reason in repo["reasons"])
+
+    def test_payload_exposes_consistent_status_copy(self):
+        payload = build_payload([], fetch_error="offline")
+        assert payload["meta"]["status"] == "sample"
+        assert payload["meta"]["statusLabel"] == "暂无真实数据"
+        assert "尚未成功获取" in payload["meta"]["statusMessage"]
+        previous = {"meta": {"lastSuccessAt": "2026-11-06T00:00:00Z"}, "repositories": [{"id": "octo/demo", "history": []}], "rankings": {}}
+        stale = build_payload([], previous=previous, fetch_error="rate limited", now=datetime(2026, 11, 7, tzinfo=timezone.utc))
+        assert stale["meta"]["status"] == "stale"
+        assert stale["meta"]["statusLabel"] == "使用旧快照"
+
     def test_build_payload_marks_stale_fallback_and_preserves_previous_data(self):
         previous = {
             "meta": {"schemaVersion": 1, "status": "live", "lastSuccessAt": "2026-01-01T00:00:00Z"},

@@ -1,12 +1,14 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "generatedAt": "2026-11-07T05:30:01Z",
-    "lastSuccessAt": "2026-11-07T05:30:01Z",
+    "generatedAt": "2026-11-07T15:26:13Z",
+    "lastSuccessAt": "2026-11-07T15:26:13Z",
     "status": "live",
+    "statusLabel": "最新采集快照",
+    "statusMessage": "本次已成功获取 GitHub 候选快照",
     "source": "GitHub REST API",
     "coverage": "结合 GitHub stars 排名、近期创建且受关注的仓库与人工精选候选；榜单反映本次抓取范围。",
-    "repositoryCount": 64,
+    "repositoryCount": 77,
     "historyDays": 0,
     "nextUpdate": "每天北京时间 08:17 起（可能延迟）",
     "warnings": []
@@ -20,7 +22,7 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "homepage": "https://codecrafters.io",
       "description": "Master programming by recreating your favorite technologies from scratch.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Markdown 项目，主题包括 awesome-list, free, programming。基于 GitHub 描述：Master programming by recreating your favorite technologies from scratch.",
       "category": "效率工具",
       "topics": [
         "awesome-list",
@@ -32,17 +34,20 @@
       ],
       "language": "Markdown",
       "license": null,
-      "stars": 560491,
-      "forks": 52437,
-      "openIssues": 690,
+      "stars": 560669,
+      "forks": 52455,
+      "openIssues": 691,
       "createdAt": "2018-05-09T12:03:18Z",
       "pushedAt": "2026-07-14T19:25:58Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：560,669",
+        "主要语言：Markdown",
+        "GitHub 主题：awesome-list, free, programming, tutorial-code",
+        "最近推送：2026-07-14T19:25:58Z（约 115 天前）",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -61,8 +66,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 560491
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 560669
         }
       ]
     },
@@ -74,7 +79,7 @@
       "url": "https://github.com/sindresorhus/awesome",
       "homepage": null,
       "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "开源项目，主题包括 awesome, awesome-list, lists。基于 GitHub 描述：😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
       "category": "效率工具",
       "topics": [
         "awesome",
@@ -85,17 +90,20 @@
       ],
       "language": null,
       "license": "CC0-1.0",
-      "stars": 532633,
-      "forks": 38185,
+      "stars": 532950,
+      "forks": 38201,
       "openIssues": 103,
       "createdAt": "2014-07-11T13:42:37Z",
       "pushedAt": "2026-09-02T02:10:47Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：532,950",
+        "GitHub 主题：awesome, awesome-list, lists, resources",
+        "最近推送：2026-09-02T02:10:47Z（约 66 天前）",
+        "许可证：CC0-1.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -114,8 +122,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 532633
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 532950
         }
       ]
     },
@@ -127,7 +135,7 @@
       "url": "https://github.com/public-apis/public-apis",
       "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
       "description": "A collective list of free APIs",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目，主题包括 api, apis, dataset。基于 GitHub 描述：A collective list of free APIs",
       "category": "效率工具",
       "topics": [
         "api",
@@ -146,17 +154,21 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 496796,
-      "forks": 55513,
-      "openIssues": 2596,
+      "stars": 496916,
+      "forks": 55532,
+      "openIssues": 2607,
       "createdAt": "2016-03-20T23:49:42Z",
       "pushedAt": "2026-11-05T18:06:53Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：496,916",
+        "主要语言：Python",
+        "GitHub 主题：api, apis, dataset, development",
+        "最近推送：2026-11-05T18:06:53Z（约 1 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -175,8 +187,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 496796
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 496916
         }
       ]
     },
@@ -188,7 +200,7 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "homepage": "https://contribute.freecodecamp.org",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "TypeScript 项目，主题包括 careers, certification, community。基于 GitHub 描述：freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "category": "效率工具",
       "topics": [
         "careers",
@@ -209,17 +221,21 @@
       ],
       "language": "TypeScript",
       "license": "BSD-3-Clause",
-      "stars": 458681,
-      "forks": 48136,
-      "openIssues": 181,
+      "stars": 458702,
+      "forks": 48135,
+      "openIssues": 184,
       "createdAt": "2014-12-24T17:49:19Z",
       "pushedAt": "2026-11-06T18:01:25Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：458,702",
+        "主要语言：TypeScript",
+        "GitHub 主题：careers, certification, community, curriculum",
+        "最近推送：2026-11-06T18:01:25Z（约 0 天前）",
+        "许可证：BSD-3-Clause",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -238,8 +254,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 458681
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 458702
         }
       ]
     },
@@ -251,7 +267,7 @@
       "url": "https://github.com/morluto/rea",
       "homepage": "https://rea.tools",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "TypeScript 项目，主题包括 agent-skills, ai, android。基于 GitHub 描述：Reverse engineer anything with agents, from app behavior down to native binaries.",
       "category": "效率工具",
       "topics": [
         "agent-skills",
@@ -277,17 +293,21 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 438576,
-      "forks": 108666,
-      "openIssues": 1612,
+      "stars": 439985,
+      "forks": 108921,
+      "openIssues": 1616,
       "createdAt": "2026-04-14T00:51:32Z",
-      "pushedAt": "2026-11-07T04:57:20Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T15:25:23Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：439,985",
+        "主要语言：TypeScript",
+        "GitHub 主题：agent-skills, ai, android, claude-code",
+        "最近推送：2026-11-07T15:25:23Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -306,8 +326,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 438576
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 439985
         }
       ]
     },
@@ -319,7 +339,7 @@
       "url": "https://github.com/EbookFoundation/free-programming-books",
       "homepage": "https://ebookfoundation.github.io/free-programming-books/",
       "description": ":books: Freely available programming books",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目，主题包括 books, education, hacktoberfest。基于 GitHub 描述：:books: Freely available programming books",
       "category": "效率工具",
       "topics": [
         "books",
@@ -330,17 +350,21 @@
       ],
       "language": "Python",
       "license": "CC-BY-4.0",
-      "stars": 401159,
-      "forks": 67266,
+      "stars": 401199,
+      "forks": 67317,
       "openIssues": 103,
       "createdAt": "2013-10-11T06:50:37Z",
       "pushedAt": "2026-11-01T02:48:06Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：401,199",
+        "主要语言：Python",
+        "GitHub 主题：books, education, hacktoberfest, list",
+        "最近推送：2026-11-01T02:48:06Z（约 6 天前）",
+        "许可证：CC-BY-4.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -359,8 +383,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 401159
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 401199
         }
       ]
     },
@@ -372,7 +396,7 @@
       "url": "https://github.com/openclaw/openclaw",
       "homepage": "https://openclaw.ai",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "TypeScript 项目，主题包括 ai, assistant, crustacean。基于 GitHub 描述：The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
       "category": "效率工具",
       "topics": [
         "ai",
@@ -385,17 +409,21 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 394089,
-      "forks": 82814,
-      "openIssues": 7654,
+      "stars": 394105,
+      "forks": 82818,
+      "openIssues": 7665,
       "createdAt": "2025-11-24T10:16:47Z",
-      "pushedAt": "2026-11-07T05:29:46Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T15:25:29Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：394,105",
+        "主要语言：TypeScript",
+        "GitHub 主题：ai, assistant, crustacean, molty",
+        "最近推送：2026-11-07T15:25:29Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -414,8 +442,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 394089
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 394105
         }
       ]
     },
@@ -427,7 +455,7 @@
       "url": "https://github.com/donnemartin/system-design-primer",
       "homepage": null,
       "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目，主题包括 design, design-patterns, design-system。基于 GitHub 描述：Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
       "category": "效率工具",
       "topics": [
         "design",
@@ -446,17 +474,21 @@
       ],
       "language": "Python",
       "license": "NOASSERTION",
-      "stars": 377165,
-      "forks": 59201,
-      "openIssues": 636,
+      "stars": 377217,
+      "forks": 59207,
+      "openIssues": 641,
       "createdAt": "2017-02-26T16:15:28Z",
       "pushedAt": "2026-09-15T01:10:09Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：377,217",
+        "主要语言：Python",
+        "GitHub 主题：design, design-patterns, design-system, development",
+        "最近推送：2026-09-15T01:10:09Z（约 53 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -475,8 +507,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 377165
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 377217
         }
       ]
     },
@@ -488,7 +520,7 @@
       "url": "https://github.com/nilbuild/developer-roadmap",
       "homepage": "https://roadmap.sh",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "TypeScript 项目，主题包括 angular-roadmap, backend-roadmap, blockchain-roadmap。基于 GitHub 描述：Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "category": "效率工具",
       "topics": [
         "angular-roadmap",
@@ -512,17 +544,21 @@
       ],
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "stars": 371431,
-      "forks": 45359,
-      "openIssues": 3,
+      "stars": 371466,
+      "forks": 45413,
+      "openIssues": 4,
       "createdAt": "2017-03-15T13:45:52Z",
       "pushedAt": "2026-11-06T11:53:17Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：371,466",
+        "主要语言：TypeScript",
+        "GitHub 主题：angular-roadmap, backend-roadmap, blockchain-roadmap, computer-science",
+        "最近推送：2026-11-06T11:53:17Z（约 1 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -541,8 +577,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 371431
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 371466
         }
       ]
     },
@@ -554,7 +590,7 @@
       "url": "https://github.com/jwasham/coding-interview-university",
       "homepage": null,
       "description": "A complete computer science study plan to become a software engineer.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "开源项目，主题包括 algorithm, algorithms, coding-interview。基于 GitHub 描述：A complete computer science study plan to become a software engineer.",
       "category": "效率工具",
       "topics": [
         "algorithm",
@@ -572,17 +608,20 @@
       ],
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "stars": 364056,
-      "forks": 85331,
-      "openIssues": 132,
+      "stars": 364066,
+      "forks": 85386,
+      "openIssues": 46,
       "createdAt": "2016-06-06T02:34:12Z",
-      "pushedAt": "2026-11-06T09:57:03Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T14:52:23Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：364,066",
+        "GitHub 主题：algorithm, algorithms, coding-interview, coding-interviews",
+        "最近推送：2026-11-07T14:52:23Z（约 0 天前）",
+        "许可证：CC-BY-SA-4.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -601,8 +640,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 364056
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 364066
         }
       ]
     },
@@ -614,7 +653,7 @@
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "homepage": "https://awesome-selfhosted.net/",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "开源项目，主题包括 awesome, awesome-list, cloud。基于 GitHub 描述：A list of Free Software network services and web applications which can be hosted on your own servers",
       "category": "效率工具",
       "topics": [
         "awesome",
@@ -628,17 +667,20 @@
       ],
       "language": null,
       "license": "NOASSERTION",
-      "stars": 334587,
-      "forks": 15755,
+      "stars": 334728,
+      "forks": 15758,
       "openIssues": 0,
       "createdAt": "2015-06-01T02:33:17Z",
-      "pushedAt": "2026-11-06T20:00:39Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T11:49:42Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：334,728",
+        "GitHub 主题：awesome, awesome-list, cloud, free-software",
+        "最近推送：2026-11-07T11:49:42Z（约 0 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -657,8 +699,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 334587
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 334728
         }
       ]
     },
@@ -670,7 +712,7 @@
       "url": "https://github.com/vinta/awesome-python",
       "homepage": "https://awesome-python.com/",
       "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目，主题包括 awesome, awesome-list, python。基于 GitHub 描述：The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
       "category": "效率工具",
       "topics": [
         "awesome",
@@ -682,17 +724,21 @@
       ],
       "language": "Python",
       "license": "NOASSERTION",
-      "stars": 333047,
-      "forks": 29058,
+      "stars": 333142,
+      "forks": 29061,
       "openIssues": 19,
       "createdAt": "2014-06-27T21:00:06Z",
       "pushedAt": "2026-11-06T17:47:24Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：333,142",
+        "主要语言：Python",
+        "GitHub 主题：awesome, awesome-list, python, python-frameworks",
+        "最近推送：2026-11-06T17:47:24Z（约 0 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -711,8 +757,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 333047
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 333142
         }
       ]
     },
@@ -724,22 +770,25 @@
       "url": "https://github.com/mattpocock/skills",
       "homepage": "https://aihero.dev/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Shell 项目。基于 GitHub 描述：Skills for Real Engineers. Straight from my .agents directory.",
       "category": "效率工具",
       "topics": [],
       "language": "Shell",
       "license": "MIT",
-      "stars": 316894,
-      "forks": 26516,
-      "openIssues": 217,
+      "stars": 317336,
+      "forks": 26555,
+      "openIssues": 219,
       "createdAt": "2026-02-03T11:15:53Z",
       "pushedAt": "2026-11-05T10:40:01Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：317,336",
+        "主要语言：Shell",
+        "最近推送：2026-11-05T10:40:01Z（约 2 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -758,8 +807,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 316894
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 317336
         }
       ]
     },
@@ -771,7 +820,7 @@
       "url": "https://github.com/obra/superpowers",
       "homepage": null,
       "description": "An agentic skills framework & software development methodology that works.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Shell 项目，主题包括 ai, brainstorming, coding。基于 GitHub 描述：An agentic skills framework & software development methodology that works.",
       "category": "效率工具",
       "topics": [
         "ai",
@@ -785,17 +834,21 @@
       ],
       "language": "Shell",
       "license": "MIT",
-      "stars": 313703,
-      "forks": 27910,
-      "openIssues": 341,
+      "stars": 313935,
+      "forks": 27929,
+      "openIssues": 342,
       "createdAt": "2025-10-09T19:45:18Z",
       "pushedAt": "2026-11-03T23:24:58Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：313,935",
+        "主要语言：Shell",
+        "GitHub 主题：ai, brainstorming, coding, obra",
+        "最近推送：2026-11-03T23:24:58Z（约 3 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -814,8 +867,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 313703
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 313935
         }
       ]
     },
@@ -827,7 +880,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "homepage": "https://ecc.tools",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "JavaScript 项目，主题包括 ai-agents, anthropic, claude。基于 GitHub 描述：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "category": "效率工具",
       "topics": [
         "ai-agents",
@@ -841,17 +894,21 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 298680,
-      "forks": 44140,
-      "openIssues": 238,
+      "stars": 298944,
+      "forks": 44172,
+      "openIssues": 241,
       "createdAt": "2026-01-18T00:51:51Z",
       "pushedAt": "2026-11-06T21:21:50Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：298,944",
+        "主要语言：JavaScript",
+        "GitHub 主题：ai-agents, anthropic, claude, claude-code",
+        "最近推送：2026-11-06T21:21:50Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -870,8 +927,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 298680
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 298944
         }
       ]
     },
@@ -883,7 +940,7 @@
       "url": "https://github.com/practical-tutorials/project-based-learning",
       "homepage": null,
       "description": "Curated list of project-based tutorials",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目，主题包括 beginner-project, cpp, golang。基于 GitHub 描述：Curated list of project-based tutorials",
       "category": "效率工具",
       "topics": [
         "beginner-project",
@@ -897,17 +954,21 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 289230,
-      "forks": 36820,
-      "openIssues": 238,
+      "stars": 289270,
+      "forks": 36821,
+      "openIssues": 239,
       "createdAt": "2017-04-12T05:07:46Z",
       "pushedAt": "2026-11-02T06:38:53Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：289,270",
+        "主要语言：Python",
+        "GitHub 主题：beginner-project, cpp, golang, javascript",
+        "最近推送：2026-11-02T06:38:53Z（约 5 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -926,8 +987,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 289230
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 289270
         }
       ]
     },
@@ -939,22 +1000,24 @@
       "url": "https://github.com/996icu/996.ICU",
       "homepage": "https://996.icu",
       "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "开源项目。基于 GitHub 描述：Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
       "category": "效率工具",
       "topics": [],
       "language": null,
       "license": "NOASSERTION",
-      "stars": 277209,
-      "forks": 20671,
+      "stars": 277213,
+      "forks": 20670,
       "openIssues": 16684,
       "createdAt": "2019-03-26T07:31:14Z",
       "pushedAt": "2025-08-22T06:01:29Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：277,213",
+        "最近推送：2025-08-22T06:01:29Z（约 442 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -973,8 +1036,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 277209
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 277213
         }
       ]
     },
@@ -986,7 +1049,7 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "homepage": "https://deepseek.com/harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "TypeScript 项目，主题包括 ai-agents, cordis, dsh。基于 GitHub 描述：DeepSeek Harness: Everything is a Plugin.",
       "category": "效率工具",
       "topics": [
         "ai-agents",
@@ -996,17 +1059,21 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 275107,
-      "forks": 33634,
+      "stars": 275555,
+      "forks": 33697,
       "openIssues": 0,
       "createdAt": "2026-08-13T11:56:32Z",
       "pushedAt": "2026-11-04T13:06:39Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：275,555",
+        "主要语言：TypeScript",
+        "GitHub 主题：ai-agents, cordis, dsh, dsh-plugin",
+        "最近推送：2026-11-04T13:06:39Z（约 3 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1025,8 +1092,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 275107
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 275555
         }
       ]
     },
@@ -1038,7 +1105,7 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "homepage": "https://hermes-agent.nousresearch.com",
       "description": "The agent that grows with you",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目，主题包括 ai, ai-agent, ai-agents。基于 GitHub 描述：The agent that grows with you",
       "category": "效率工具",
       "topics": [
         "ai",
@@ -1057,17 +1124,21 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 261261,
-      "forks": 57852,
-      "openIssues": 53386,
+      "stars": 261394,
+      "forks": 57917,
+      "openIssues": 53551,
       "createdAt": "2025-07-22T22:22:28Z",
-      "pushedAt": "2026-11-07T05:28:55Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T15:14:04Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：261,394",
+        "主要语言：Python",
+        "GitHub 主题：ai, ai-agent, ai-agents, anthropic",
+        "最近推送：2026-11-07T15:14:04Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1086,8 +1157,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 261261
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 261394
         }
       ]
     },
@@ -1099,7 +1170,7 @@
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
       "homepage": null,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "开源项目，主题包括 awesome, awesome-list, bsd。基于 GitHub 描述：A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "category": "效率工具",
       "topics": [
         "awesome",
@@ -1124,17 +1195,20 @@
       ],
       "language": null,
       "license": "MIT",
-      "stars": 256457,
-      "forks": 14810,
+      "stars": 256565,
+      "forks": 14811,
       "openIssues": 179,
       "createdAt": "2018-06-23T10:43:14Z",
       "pushedAt": "2024-11-19T14:00:38Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：256,565",
+        "GitHub 主题：awesome, awesome-list, bsd, cheatsheets",
+        "最近推送：2024-11-19T14:00:38Z（约 718 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1153,8 +1227,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 256457
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 256565
         }
       ]
     },
@@ -1166,22 +1240,25 @@
       "url": "https://github.com/torvalds/linux",
       "homepage": null,
       "description": "Linux kernel source tree",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "C 项目。基于 GitHub 描述：Linux kernel source tree",
       "category": "效率工具",
       "topics": [],
       "language": "C",
       "license": "NOASSERTION",
-      "stars": 254688,
-      "forks": 67173,
+      "stars": 254735,
+      "forks": 67242,
       "openIssues": 3,
       "createdAt": "2011-09-04T22:48:12Z",
       "pushedAt": "2026-11-06T21:46:38Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：254,735",
+        "主要语言：C",
+        "最近推送：2026-11-06T21:46:38Z（约 0 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1200,8 +1277,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 254688
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 254735
         }
       ]
     },
@@ -1213,7 +1290,7 @@
       "url": "https://github.com/react/react",
       "homepage": "https://react.dev",
       "description": "The library for web and native user interfaces.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "JavaScript 项目，主题包括 declarative, frontend, javascript。基于 GitHub 描述：The library for web and native user interfaces.",
       "category": "效率工具",
       "topics": [
         "declarative",
@@ -1225,17 +1302,21 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 252298,
-      "forks": 51825,
-      "openIssues": 1511,
+      "stars": 252354,
+      "forks": 51882,
+      "openIssues": 1518,
       "createdAt": "2013-05-24T16:15:54Z",
       "pushedAt": "2026-11-07T02:19:03Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：252,354",
+        "主要语言：JavaScript",
+        "GitHub 主题：declarative, frontend, javascript, library",
+        "最近推送：2026-11-07T02:19:03Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1254,8 +1335,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 252298
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 252354
         }
       ]
     },
@@ -1267,22 +1348,23 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "homepage": null,
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "开源项目。基于 GitHub 描述：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "category": "效率工具",
       "topics": [],
       "language": null,
       "license": null,
-      "stars": 230344,
-      "forks": 22923,
+      "stars": 230511,
+      "forks": 22938,
       "openIssues": 138,
       "createdAt": "2026-01-27T03:53:13Z",
       "pushedAt": "2026-04-20T10:05:04Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：230,511",
+        "最近推送：2026-04-20T10:05:04Z（约 201 天前）",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1301,8 +1383,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 230344
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 230511
         }
       ]
     },
@@ -1314,7 +1396,7 @@
       "url": "https://github.com/TheAlgorithms/Python",
       "homepage": "https://thealgorithms.github.io/Python/",
       "description": "All Algorithms implemented in Python",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目，主题包括 algorithm, algorithm-competitions, algorithms-implemented。基于 GitHub 描述：All Algorithms implemented in Python",
       "category": "效率工具",
       "topics": [
         "algorithm",
@@ -1334,17 +1416,21 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 225928,
-      "forks": 51273,
-      "openIssues": 88,
+      "stars": 225937,
+      "forks": 51271,
+      "openIssues": 90,
       "createdAt": "2016-07-16T09:44:01Z",
       "pushedAt": "2026-11-02T19:35:18Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：225,937",
+        "主要语言：Python",
+        "GitHub 主题：algorithm, algorithm-competitions, algorithms-implemented, algos",
+        "最近推送：2026-11-02T19:35:18Z（约 4 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1363,8 +1449,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 225928
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 225937
         }
       ]
     },
@@ -1376,22 +1462,25 @@
       "url": "https://github.com/anomalyco/opencode",
       "homepage": "https://opencode.ai",
       "description": "The open source coding agent.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "TypeScript 项目。基于 GitHub 描述：The open source coding agent.",
       "category": "效率工具",
       "topics": [],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 225099,
-      "forks": 30377,
-      "openIssues": 4111,
+      "stars": 225201,
+      "forks": 30394,
+      "openIssues": 4137,
       "createdAt": "2025-04-30T20:08:00Z",
-      "pushedAt": "2026-11-07T05:29:26Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T14:53:02Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：225,201",
+        "主要语言：TypeScript",
+        "最近推送：2026-11-07T14:53:02Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1410,8 +1499,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 225099
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 225201
         }
       ]
     },
@@ -1423,7 +1512,7 @@
       "url": "https://github.com/vuejs/vue",
       "homepage": "http://v2.vuejs.org",
       "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "TypeScript 项目，主题包括 framework, frontend, javascript。基于 GitHub 描述：This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
       "category": "效率工具",
       "topics": [
         "framework",
@@ -1433,17 +1522,21 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 212623,
-      "forks": 33811,
+      "stars": 212630,
+      "forks": 33874,
       "openIssues": 645,
       "createdAt": "2013-07-29T03:24:51Z",
       "pushedAt": "2024-10-10T07:24:15Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：212,630",
+        "主要语言：TypeScript",
+        "GitHub 主题：framework, frontend, javascript, vue",
+        "最近推送：2024-10-10T07:24:15Z（约 758 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1462,8 +1555,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 212623
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 212630
         }
       ]
     },
@@ -1475,7 +1568,7 @@
       "url": "https://github.com/ossu/computer-science",
       "homepage": "https://cs.ossu.dev",
       "description": "🎓 Path to a free self-taught education in Computer Science!",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "HTML 项目，主题包括 awesome-list, computer-science, courses。基于 GitHub 描述：🎓 Path to a free self-taught education in Computer Science!",
       "category": "效率工具",
       "topics": [
         "awesome-list",
@@ -1485,17 +1578,21 @@
       ],
       "language": "HTML",
       "license": "MIT",
-      "stars": 210907,
-      "forks": 26094,
-      "openIssues": 30,
+      "stars": 210928,
+      "forks": 26096,
+      "openIssues": 28,
       "createdAt": "2014-05-04T00:18:39Z",
-      "pushedAt": "2026-07-14T05:38:25Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T09:14:50Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：210,928",
+        "主要语言：HTML",
+        "GitHub 主题：awesome-list, computer-science, courses, curriculum",
+        "最近推送：2026-11-07T09:14:50Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1514,8 +1611,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 210907
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 210928
         }
       ]
     },
@@ -1527,7 +1624,7 @@
       "url": "https://github.com/n8n-io/n8n",
       "homepage": "https://n8n.io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "TypeScript 项目，主题包括 ai, apis, automation。基于 GitHub 描述：Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "category": "效率工具",
       "topics": [
         "ai",
@@ -1553,17 +1650,21 @@
       ],
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "stars": 209725,
-      "forks": 61387,
-      "openIssues": 1218,
+      "stars": 209754,
+      "forks": 61395,
+      "openIssues": 1227,
       "createdAt": "2019-06-22T09:24:21Z",
-      "pushedAt": "2026-11-07T02:34:42Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T12:18:21Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：209,754",
+        "主要语言：TypeScript",
+        "GitHub 主题：ai, apis, automation, cli",
+        "最近推送：2026-11-07T12:18:21Z（约 0 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1582,8 +1683,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 209725
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 209754
         }
       ]
     },
@@ -1595,7 +1696,7 @@
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "homepage": "https://dashboard.digitalplat.org",
       "description": "Free domain registration and practical DNS learning resources for everyone.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Markdown 项目，主题包括 digitalplat, dns, dns-tutorial。基于 GitHub 描述：Free domain registration and practical DNS learning resources for everyone.",
       "category": "效率工具",
       "topics": [
         "digitalplat",
@@ -1616,17 +1717,21 @@
       ],
       "language": "Markdown",
       "license": "AGPL-3.0",
-      "stars": 207405,
-      "forks": 4657,
+      "stars": 207433,
+      "forks": 4660,
       "openIssues": 40,
       "createdAt": "2024-05-30T13:23:00Z",
       "pushedAt": "2026-08-12T10:36:46Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：207,433",
+        "主要语言：Markdown",
+        "GitHub 主题：digitalplat, dns, dns-tutorial, documentation",
+        "最近推送：2026-08-12T10:36:46Z（约 87 天前）",
+        "许可证：AGPL-3.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1645,8 +1750,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 207405
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 207433
         }
       ]
     },
@@ -1658,7 +1763,7 @@
       "url": "https://github.com/yt-dlp/yt-dlp",
       "homepage": "https://discord.gg/H5MNcFW63r",
       "description": "A feature-rich command-line audio/video downloader",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目，主题包括 cli, downloader, python。基于 GitHub 描述：A feature-rich command-line audio/video downloader",
       "category": "效率工具",
       "topics": [
         "cli",
@@ -1671,17 +1776,21 @@
       ],
       "language": "Python",
       "license": "Unlicense",
-      "stars": 205826,
-      "forks": 18083,
+      "stars": 205946,
+      "forks": 18090,
       "openIssues": 2770,
       "createdAt": "2020-10-26T04:22:55Z",
       "pushedAt": "2026-11-04T07:16:27Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：205,946",
+        "主要语言：Python",
+        "GitHub 主题：cli, downloader, python, sponsorblock",
+        "最近推送：2026-11-04T07:16:27Z（约 3 天前）",
+        "许可证：Unlicense",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1700,8 +1809,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 205826
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 205946
         }
       ]
     },
@@ -1713,7 +1822,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "homepage": "https://ponytail.dev",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "JavaScript 项目，主题包括 agent-skills, ai-agents, claude。基于 GitHub 描述：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "category": "效率工具",
       "topics": [
         "agent-skills",
@@ -1729,17 +1838,21 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 185947,
-      "forks": 10290,
+      "stars": 186196,
+      "forks": 10301,
       "openIssues": 183,
       "createdAt": "2026-06-12T00:52:37Z",
       "pushedAt": "2026-10-29T11:59:31Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：186,196",
+        "主要语言：JavaScript",
+        "GitHub 主题：agent-skills, ai-agents, claude, claude-code",
+        "最近推送：2026-10-29T11:59:31Z（约 9 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1758,8 +1871,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 185947
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 186196
         }
       ]
     },
@@ -1771,22 +1884,25 @@
       "url": "https://github.com/odysseus-dev/odysseus",
       "homepage": "https://odysseus-dev.github.io/odysseus",
       "description": "Self-hosted AI workspace. ",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目。基于 GitHub 描述：Self-hosted AI workspace.",
       "category": "效率工具",
       "topics": [],
       "language": "Python",
       "license": "AGPL-3.0",
-      "stars": 95329,
-      "forks": 1917,
-      "openIssues": 1501,
+      "stars": 95366,
+      "forks": 1921,
+      "openIssues": 1500,
       "createdAt": "2026-05-31T14:05:51Z",
       "pushedAt": "2026-11-06T02:11:20Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：95,366",
+        "主要语言：Python",
+        "最近推送：2026-11-06T02:11:20Z（约 1 天前）",
+        "许可证：AGPL-3.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1805,8 +1921,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 95329
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 95366
         }
       ]
     },
@@ -1818,7 +1934,7 @@
       "url": "https://github.com/storytold/photocraft",
       "homepage": "https://getartcraft.com/apps/photocraft",
       "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Rust 项目，主题包括 art, image-editing, image-editing-software。基于 GitHub 描述：PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
       "category": "效率工具",
       "topics": [
         "art",
@@ -1831,17 +1947,21 @@
       ],
       "language": "Rust",
       "license": "Apache-2.0",
-      "stars": 77530,
-      "forks": 13735,
-      "openIssues": 3750,
+      "stars": 77651,
+      "forks": 13750,
+      "openIssues": 3884,
       "createdAt": "2026-09-30T13:37:48Z",
-      "pushedAt": "2026-11-07T01:20:37Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T15:12:45Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：77,651",
+        "主要语言：Rust",
+        "GitHub 主题：art, image-editing, image-editing-software, image-editor",
+        "最近推送：2026-11-07T15:12:45Z（约 0 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1860,8 +1980,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 77530
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 77651
         }
       ]
     },
@@ -1873,22 +1993,25 @@
       "url": "https://github.com/eternity4719/HowToLiveBetter",
       "homepage": "https://eternity4719.github.io/HowToLiveBetter/",
       "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "HTML 项目。基于 GitHub 描述：高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "category": "效率工具",
       "topics": [],
       "language": "HTML",
       "license": "CC-BY-4.0",
-      "stars": 74074,
-      "forks": 6524,
+      "stars": 74169,
+      "forks": 6539,
       "openIssues": 12,
       "createdAt": "2026-09-07T01:53:36Z",
       "pushedAt": "2026-11-06T10:20:15Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：74,169",
+        "主要语言：HTML",
+        "最近推送：2026-11-06T10:20:15Z（约 1 天前）",
+        "许可证：CC-BY-4.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -1907,55 +2030,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 74074
-        }
-      ]
-    },
-    {
-      "id": "cloudflare/security-audit-skill",
-      "fullName": "cloudflare/security-audit-skill",
-      "name": "security-audit-skill",
-      "owner": "cloudflare",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "homepage": null,
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
-      "category": "效率工具",
-      "topics": [],
-      "language": "JavaScript",
-      "license": "MIT",
-      "stars": 64353,
-      "forks": 4169,
-      "openIssues": 115,
-      "createdAt": "2026-06-18T14:08:44Z",
-      "pushedAt": "2026-09-14T19:29:02Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
-      "archived": false,
-      "featured": false,
-      "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
-      ],
-      "deltas": {
-        "1d": null,
-        "7d": null,
-        "30d": null
-      },
-      "growthRates": {
-        "1d": null,
-        "7d": null,
-        "30d": null
-      },
-      "deltaWindows": {
-        "1d": null,
-        "7d": null,
-        "30d": null
-      },
-      "history": [
-        {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 64353
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 74169
         }
       ]
     },
@@ -1967,7 +2043,7 @@
       "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
       "homepage": null,
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "JavaScript 项目，主题包括 ai-agents, deepseek, deepseek-harness。基于 GitHub 描述：在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "category": "效率工具",
       "topics": [
         "ai-agents",
@@ -1983,17 +2059,21 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 64299,
-      "forks": 1738,
+      "stars": 65152,
+      "forks": 1749,
       "openIssues": 136,
       "createdAt": "2026-09-24T16:17:19Z",
       "pushedAt": "2026-11-05T06:24:03Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：65,152",
+        "主要语言：JavaScript",
+        "GitHub 主题：ai-agents, deepseek, deepseek-harness, developer-tools",
+        "最近推送：2026-11-05T06:24:03Z（约 2 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2012,8 +2092,58 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 64299
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 65152
+        }
+      ]
+    },
+    {
+      "id": "cloudflare/security-audit-skill",
+      "fullName": "cloudflare/security-audit-skill",
+      "name": "security-audit-skill",
+      "owner": "cloudflare",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "homepage": null,
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "summary": "JavaScript 项目。基于 GitHub 描述：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "category": "效率工具",
+      "topics": [],
+      "language": "JavaScript",
+      "license": "MIT",
+      "stars": 65085,
+      "forks": 4222,
+      "openIssues": 116,
+      "createdAt": "2026-06-18T14:08:44Z",
+      "pushedAt": "2026-09-14T19:29:02Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": false,
+      "reasons": [
+        "当前观测 Stars：65,085",
+        "主要语言：JavaScript",
+        "最近推送：2026-09-14T19:29:02Z（约 53 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 65085
         }
       ]
     },
@@ -2025,7 +2155,7 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "homepage": "https://godseyeview.ai/",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "JavaScript 项目，主题包括 3d-globe, cesium, flight-tracking。基于 GitHub 描述：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "category": "效率工具",
       "topics": [
         "3d-globe",
@@ -2043,17 +2173,21 @@
       ],
       "language": "JavaScript",
       "license": "NOASSERTION",
-      "stars": 63256,
-      "forks": 12445,
-      "openIssues": 421,
+      "stars": 63333,
+      "forks": 12467,
+      "openIssues": 425,
       "createdAt": "2026-06-22T23:37:22Z",
-      "pushedAt": "2026-11-07T03:01:09Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T12:04:41Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：63,333",
+        "主要语言：JavaScript",
+        "GitHub 主题：3d-globe, cesium, flight-tracking, geospatial",
+        "最近推送：2026-11-07T12:04:41Z（约 0 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2072,8 +2206,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 63256
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 63333
         }
       ]
     },
@@ -2085,7 +2219,7 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "homepage": null,
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目，主题包括 adhd, claude-, claude-code-plugin。基于 GitHub 描述：A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "category": "效率工具",
       "topics": [
         "adhd",
@@ -2097,17 +2231,21 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 60372,
-      "forks": 3520,
+      "stars": 60413,
+      "forks": 3525,
       "openIssues": 94,
       "createdAt": "2026-05-13T20:42:06Z",
       "pushedAt": "2026-10-19T19:46:23Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：60,413",
+        "主要语言：Python",
+        "GitHub 主题：adhd, claude-, claude-code-plugin, claude-skills",
+        "最近推送：2026-10-19T19:46:23Z（约 18 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2126,8 +2264,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 60372
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 60413
         }
       ]
     },
@@ -2139,7 +2277,7 @@
       "url": "https://github.com/Gathin23/cleanyourtv",
       "homepage": "https://cleanyour.tv",
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目，主题包括 adb, adblock, android-tv。基于 GitHub 描述：Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "category": "效率工具",
       "topics": [
         "adb",
@@ -2162,17 +2300,21 @@
       ],
       "language": "Python",
       "license": "NOASSERTION",
-      "stars": 53405,
-      "forks": 6842,
-      "openIssues": 269,
+      "stars": 53692,
+      "forks": 6892,
+      "openIssues": 237,
       "createdAt": "2026-10-17T08:12:35Z",
-      "pushedAt": "2026-11-06T03:18:27Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T13:18:20Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：53,692",
+        "主要语言：Python",
+        "GitHub 主题：adb, adblock, android-tv, android-tv-launcher",
+        "最近推送：2026-11-07T13:18:20Z（约 0 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2191,8 +2333,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 53405
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 53692
         }
       ]
     },
@@ -2204,7 +2346,7 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "homepage": "https://boykopovar.github.io/AnyPS5/",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "C++ 项目，主题包括 anyps5, dynamic-library, game-porting。基于 GitHub 描述：Tool for automatic PS5 executables porting to Linux and Windows",
       "category": "效率工具",
       "topics": [
         "anyps5",
@@ -2217,17 +2359,21 @@
       ],
       "language": "C++",
       "license": "GPL-2.0",
-      "stars": 51844,
-      "forks": 4935,
-      "openIssues": 2045,
+      "stars": 51946,
+      "forks": 4948,
+      "openIssues": 1954,
       "createdAt": "2026-08-03T21:30:25Z",
-      "pushedAt": "2026-11-07T05:28:24Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T14:36:42Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：51,946",
+        "主要语言：C++",
+        "GitHub 主题：anyps5, dynamic-library, game-porting, ps5",
+        "最近推送：2026-11-07T14:36:42Z（约 0 天前）",
+        "许可证：GPL-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2246,8 +2392,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 51844
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 51946
         }
       ]
     },
@@ -2259,7 +2405,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "homepage": "https://open-codereview.ai",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Go 项目，主题包括 agent, agent-skills, code-review。基于 GitHub 描述：Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "category": "效率工具",
       "topics": [
         "agent",
@@ -2271,17 +2417,21 @@
       ],
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 49582,
-      "forks": 3638,
-      "openIssues": 348,
+      "stars": 49609,
+      "forks": 3642,
+      "openIssues": 351,
       "createdAt": "2026-05-18T02:16:36Z",
       "pushedAt": "2026-11-06T08:35:01Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：49,609",
+        "主要语言：Go",
+        "GitHub 主题：agent, agent-skills, code-review, code-review-assistant",
+        "最近推送：2026-11-06T08:35:01Z（约 1 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2300,8 +2450,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 49582
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 49609
         }
       ]
     },
@@ -2313,22 +2463,25 @@
       "url": "https://github.com/JustVugg/colibri",
       "homepage": "https://justvugg.github.io/colibri",
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "C 项目。基于 GitHub 描述：A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "category": "效率工具",
       "topics": [],
       "language": "C",
       "license": "Apache-2.0",
-      "stars": 48518,
-      "forks": 5642,
-      "openIssues": 198,
+      "stars": 48640,
+      "forks": 5665,
+      "openIssues": 208,
       "createdAt": "2026-07-01T12:27:49Z",
-      "pushedAt": "2026-11-07T04:15:59Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T15:18:06Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：48,640",
+        "主要语言：C",
+        "最近推送：2026-11-07T15:18:06Z（约 0 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2347,8 +2500,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 48518
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 48640
         }
       ]
     },
@@ -2360,22 +2513,25 @@
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "homepage": null,
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "PowerShell 项目。基于 GitHub 描述：Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "category": "效率工具",
       "topics": [],
       "language": "PowerShell",
       "license": "MIT",
-      "stars": 44252,
-      "forks": 6583,
-      "openIssues": 41,
+      "stars": 44269,
+      "forks": 6588,
+      "openIssues": 42,
       "createdAt": "2026-05-13T14:37:57Z",
       "pushedAt": "2026-09-22T06:43:21Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：44,269",
+        "主要语言：PowerShell",
+        "最近推送：2026-09-22T06:43:21Z（约 46 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2394,8 +2550,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 44252
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 44269
         }
       ]
     },
@@ -2407,22 +2563,25 @@
       "url": "https://github.com/Niko1221/Strata",
       "homepage": null,
       "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "C++ 项目。基于 GitHub 描述：Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
       "category": "效率工具",
       "topics": [],
       "language": "C++",
       "license": "MIT",
-      "stars": 41148,
-      "forks": 4503,
-      "openIssues": 1066,
+      "stars": 41364,
+      "forks": 4531,
+      "openIssues": 1086,
       "createdAt": "2026-09-24T16:40:20Z",
-      "pushedAt": "2026-11-06T18:33:49Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T08:25:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：41,364",
+        "主要语言：C++",
+        "最近推送：2026-11-07T08:25:01Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2441,8 +2600,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 41148
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 41364
         }
       ]
     },
@@ -2454,7 +2613,7 @@
       "url": "https://github.com/anywhere-labs/dsh-desktop",
       "homepage": "https://dshdesktop.cn",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "TypeScript 项目，主题包括 cordis, cordis-plugin, deepseek。基于 GitHub 描述：为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "category": "效率工具",
       "topics": [
         "cordis",
@@ -2468,17 +2627,21 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 35190,
-      "forks": 1587,
+      "stars": 35254,
+      "forks": 1591,
       "openIssues": 396,
       "createdAt": "2026-08-13T16:30:50Z",
       "pushedAt": "2026-11-06T16:29:38Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：35,254",
+        "主要语言：TypeScript",
+        "GitHub 主题：cordis, cordis-plugin, deepseek, deepseek-harness",
+        "最近推送：2026-11-06T16:29:38Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2497,8 +2660,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 35190
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 35254
         }
       ]
     },
@@ -2510,7 +2673,7 @@
       "url": "https://github.com/NandhaKishorM/laya",
       "homepage": "https://huggingface.co/convaiinnovations/laya",
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目，主题包括 calibration, classification, decision-model。基于 GitHub 描述：Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "category": "效率工具",
       "topics": [
         "calibration",
@@ -2529,17 +2692,21 @@
       ],
       "language": "Python",
       "license": "Apache-2.0",
-      "stars": 35134,
-      "forks": 3142,
-      "openIssues": 98,
+      "stars": 35163,
+      "forks": 3146,
+      "openIssues": 106,
       "createdAt": "2026-09-18T04:46:33Z",
-      "pushedAt": "2026-11-06T16:34:39Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T14:39:39Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：35,163",
+        "主要语言：Python",
+        "GitHub 主题：calibration, classification, decision-model, huggingface",
+        "最近推送：2026-11-07T14:39:39Z（约 0 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2558,8 +2725,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 35134
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 35163
         }
       ]
     },
@@ -2571,7 +2738,7 @@
       "url": "https://github.com/vorssaint/vorssaint-utils",
       "homepage": "https://vorssaint.com",
       "description": "Free and open-source macOS menu bar toolkit.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Swift 项目，主题包括 alt-tab, app-uninstaller, appkit。基于 GitHub 描述：Free and open-source macOS menu bar toolkit.",
       "category": "效率工具",
       "topics": [
         "alt-tab",
@@ -2593,17 +2760,21 @@
       ],
       "language": "Swift",
       "license": "GPL-3.0",
-      "stars": 33290,
-      "forks": 1638,
-      "openIssues": 1438,
+      "stars": 33352,
+      "forks": 1640,
+      "openIssues": 1442,
       "createdAt": "2026-06-12T15:25:43Z",
       "pushedAt": "2026-11-05T22:03:28Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：33,352",
+        "主要语言：Swift",
+        "GitHub 主题：alt-tab, app-uninstaller, appkit, finder",
+        "最近推送：2026-11-05T22:03:28Z（约 1 天前）",
+        "许可证：GPL-3.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2622,8 +2793,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 33290
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 33352
         }
       ]
     },
@@ -2635,7 +2806,7 @@
       "url": "https://github.com/yetone/magpie",
       "homepage": "https://usemagpie.ai",
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Go 项目，主题包括 claude-code, codex, deepseek。基于 GitHub 描述：Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "category": "效率工具",
       "topics": [
         "claude-code",
@@ -2647,17 +2818,21 @@
       ],
       "language": "Go",
       "license": "MIT",
-      "stars": 31385,
-      "forks": 2744,
-      "openIssues": 3324,
+      "stars": 31692,
+      "forks": 2780,
+      "openIssues": 3357,
       "createdAt": "2026-09-23T16:22:35Z",
-      "pushedAt": "2026-11-07T05:27:28Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T15:25:36Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：31,692",
+        "主要语言：Go",
+        "GitHub 主题：claude-code, codex, deepseek, gemini-cli",
+        "最近推送：2026-11-07T15:25:36Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2676,8 +2851,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 31385
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 31692
         }
       ]
     },
@@ -2689,22 +2864,25 @@
       "url": "https://github.com/baidu/Unlimited-OCR",
       "homepage": null,
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目。基于 GitHub 描述：Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "category": "效率工具",
       "topics": [],
       "language": "Python",
       "license": "MIT",
-      "stars": 30790,
-      "forks": 3290,
+      "stars": 30833,
+      "forks": 3299,
       "openIssues": 94,
       "createdAt": "2026-06-18T08:40:15Z",
       "pushedAt": "2026-11-02T06:43:28Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：30,833",
+        "主要语言：Python",
+        "最近推送：2026-11-02T06:43:28Z（约 5 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2723,8 +2901,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 30790
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 30833
         }
       ]
     },
@@ -2736,7 +2914,7 @@
       "url": "https://github.com/hypit-ai/hypit",
       "homepage": "https://hypit.ai",
       "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "TypeScript 项目，主题包括 agentic-ai, ai, ai-agents。基于 GitHub 描述：Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "category": "效率工具",
       "topics": [
         "agentic-ai",
@@ -2762,17 +2940,21 @@
       ],
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "stars": 28343,
-      "forks": 3288,
+      "stars": 28402,
+      "forks": 3298,
       "openIssues": 93,
       "createdAt": "2026-07-29T18:49:19Z",
       "pushedAt": "2026-11-05T13:30:52Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：28,402",
+        "主要语言：TypeScript",
+        "GitHub 主题：agentic-ai, ai, ai-agents, ai-video",
+        "最近推送：2026-11-05T13:30:52Z（约 2 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2791,8 +2973,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 28343
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 28402
         }
       ]
     },
@@ -2804,22 +2986,25 @@
       "url": "https://github.com/xai-org/grok-build",
       "homepage": null,
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Rust 项目。基于 GitHub 描述：SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "category": "效率工具",
       "topics": [],
       "language": "Rust",
       "license": "Apache-2.0",
-      "stars": 27704,
-      "forks": 5236,
+      "stars": 27712,
+      "forks": 5238,
       "openIssues": 0,
       "createdAt": "2026-07-14T20:04:23Z",
       "pushedAt": "2026-09-29T16:57:13Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：27,712",
+        "主要语言：Rust",
+        "最近推送：2026-09-29T16:57:13Z（约 38 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2838,8 +3023,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 27704
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 27712
         }
       ]
     },
@@ -2851,7 +3036,7 @@
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "homepage": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "A privacy-first app that strips AI watermarks from content you own.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目，主题包括 agent-skill, ai, anthropic。基于 GitHub 描述：A privacy-first app that strips AI watermarks from content you own.",
       "category": "效率工具",
       "topics": [
         "agent-skill",
@@ -2872,17 +3057,21 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 26542,
-      "forks": 3026,
-      "openIssues": 46,
+      "stars": 26574,
+      "forks": 3028,
+      "openIssues": 47,
       "createdAt": "2026-08-11T16:32:38Z",
       "pushedAt": "2026-11-02T20:26:10Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：26,574",
+        "主要语言：Python",
+        "GitHub 主题：agent-skill, ai, anthropic, c2pa",
+        "最近推送：2026-11-02T20:26:10Z（约 4 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2901,8 +3090,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 26542
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 26574
         }
       ]
     },
@@ -2914,7 +3103,7 @@
       "url": "https://github.com/wheresryan22/anatomy",
       "homepage": "https://skills.wheresryan.sh/anatomy",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "JavaScript 项目，主题包括 agent-skill, open-source, svg。基于 GitHub 描述：An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "category": "效率工具",
       "topics": [
         "agent-skill",
@@ -2924,17 +3113,21 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 25591,
-      "forks": 2141,
+      "stars": 25690,
+      "forks": 2153,
       "openIssues": 72,
       "createdAt": "2026-10-08T10:12:49Z",
       "pushedAt": "2026-10-18T20:20:24Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：25,690",
+        "主要语言：JavaScript",
+        "GitHub 主题：agent-skill, open-source, svg, vizualization",
+        "最近推送：2026-10-18T20:20:24Z（约 19 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -2953,8 +3146,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 25591
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 25690
         }
       ]
     },
@@ -2966,22 +3159,25 @@
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "homepage": null,
       "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目。基于 GitHub 描述：DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "category": "效率工具",
       "topics": [],
       "language": "Python",
       "license": "Apache-2.0",
-      "stars": 25564,
+      "stars": 25584,
       "forks": 3133,
       "openIssues": 247,
       "createdAt": "2026-10-16T07:47:23Z",
       "pushedAt": "2026-11-03T07:31:59Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：25,584",
+        "主要语言：Python",
+        "最近推送：2026-11-03T07:31:59Z（约 4 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -3000,8 +3196,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 25564
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 25584
         }
       ]
     },
@@ -3013,7 +3209,7 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "homepage": "https://openlogi.org",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Rust 项目，主题包括 dpi, gpui, hid。基于 GitHub 描述：⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "category": "效率工具",
       "topics": [
         "dpi",
@@ -3032,17 +3228,21 @@
       ],
       "language": "Rust",
       "license": "Apache-2.0",
-      "stars": 25287,
-      "forks": 925,
-      "openIssues": 631,
+      "stars": 25319,
+      "forks": 928,
+      "openIssues": 632,
       "createdAt": "2026-05-24T10:10:36Z",
-      "pushedAt": "2026-11-07T03:50:54Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T15:18:17Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：25,319",
+        "主要语言：Rust",
+        "GitHub 主题：dpi, gpui, hid, hidpp",
+        "最近推送：2026-11-07T15:18:17Z（约 0 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -3061,8 +3261,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 25287
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 25319
         }
       ]
     },
@@ -3074,22 +3274,25 @@
       "url": "https://github.com/browser-use/jev-ultrafast",
       "homepage": "https://browser-use.com",
       "description": "Fastest and cheapest web agent",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "Python 项目。基于 GitHub 描述：Fastest and cheapest web agent",
       "category": "效率工具",
       "topics": [],
       "language": "Python",
       "license": "MIT",
-      "stars": 24245,
-      "forks": 1865,
+      "stars": 24251,
+      "forks": 1867,
       "openIssues": 210,
       "createdAt": "2026-09-16T21:30:12Z",
       "pushedAt": "2026-11-03T11:46:20Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：24,251",
+        "主要语言：Python",
+        "最近推送：2026-11-03T11:46:20Z（约 4 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -3108,55 +3311,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 24245
-        }
-      ]
-    },
-    {
-      "id": "firecrawl/anydoc",
-      "fullName": "firecrawl/anydoc",
-      "name": "anydoc",
-      "owner": "firecrawl",
-      "url": "https://github.com/firecrawl/anydoc",
-      "homepage": "https://firecrawl.github.io/anydoc/",
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
-      "category": "效率工具",
-      "topics": [],
-      "language": "Rust",
-      "license": "MIT",
-      "stars": 23401,
-      "forks": 1517,
-      "openIssues": 129,
-      "createdAt": "2026-08-03T16:36:14Z",
-      "pushedAt": "2026-10-23T22:55:34Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
-      "archived": false,
-      "featured": false,
-      "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
-      ],
-      "deltas": {
-        "1d": null,
-        "7d": null,
-        "30d": null
-      },
-      "growthRates": {
-        "1d": null,
-        "7d": null,
-        "30d": null
-      },
-      "deltaWindows": {
-        "1d": null,
-        "7d": null,
-        "30d": null
-      },
-      "history": [
-        {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 23401
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 24251
         }
       ]
     },
@@ -3168,7 +3324,7 @@
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "homepage": "https://awesome-dsh-plugin.com",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "JavaScript 项目，主题包括 awesome, awesome-list, deepseek-harness。基于 GitHub 描述：A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "category": "效率工具",
       "topics": [
         "awesome",
@@ -3179,17 +3335,21 @@
       ],
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "stars": 23396,
-      "forks": 7144,
-      "openIssues": 394,
+      "stars": 23521,
+      "forks": 7241,
+      "openIssues": 579,
       "createdAt": "2026-08-13T13:55:31Z",
-      "pushedAt": "2026-11-06T23:33:07Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T09:16:03Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：23,521",
+        "主要语言：JavaScript",
+        "GitHub 主题：awesome, awesome-list, deepseek-harness, dsh",
+        "最近推送：2026-11-07T09:16:03Z（约 0 天前）",
+        "许可证：CC0-1.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -3208,8 +3368,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 23396
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 23521
         }
       ]
     },
@@ -3221,7 +3381,7 @@
       "url": "https://github.com/KnifeLemon/Filee",
       "homepage": "https://filee.sh",
       "description": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
-      "summary": "社区持续维护的开源项目，适合进一步阅读其文档和变更记录。",
+      "summary": "C# 项目，主题包括 audio-converter, avalonia, batch-conversion。基于 GitHub 描述：Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
       "category": "效率工具",
       "topics": [
         "audio-converter",
@@ -3247,17 +3407,21 @@
       ],
       "language": "C#",
       "license": "MIT",
-      "stars": 23136,
-      "forks": 1375,
-      "openIssues": 137,
+      "stars": 23461,
+      "forks": 1386,
+      "openIssues": 148,
       "createdAt": "2026-09-29T20:05:15Z",
       "pushedAt": "2026-11-07T03:55:22Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "进入当前候选观察范围",
-        "可从仓库文档和近期活动进一步评估"
+        "当前观测 Stars：23,461",
+        "主要语言：C#",
+        "GitHub 主题：audio-converter, avalonia, batch-conversion, converter",
+        "最近推送：2026-11-07T03:55:22Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
         "1d": null,
@@ -3276,8 +3440,58 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 23136
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 23461
+        }
+      ]
+    },
+    {
+      "id": "firecrawl/anydoc",
+      "fullName": "firecrawl/anydoc",
+      "name": "anydoc",
+      "owner": "firecrawl",
+      "url": "https://github.com/firecrawl/anydoc",
+      "homepage": "https://firecrawl.github.io/anydoc/",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "summary": "Rust 项目。基于 GitHub 描述：Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "category": "效率工具",
+      "topics": [],
+      "language": "Rust",
+      "license": "MIT",
+      "stars": 23408,
+      "forks": 1518,
+      "openIssues": 132,
+      "createdAt": "2026-08-03T16:36:14Z",
+      "pushedAt": "2026-10-23T22:55:34Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": false,
+      "reasons": [
+        "当前观测 Stars：23,408",
+        "主要语言：Rust",
+        "最近推送：2026-10-23T22:55:34Z（约 14 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 23408
         }
       ]
     },
@@ -3300,17 +3514,22 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 195067,
-      "forks": 44432,
-      "openIssues": 21852,
+      "stars": 195129,
+      "forks": 44438,
+      "openIssues": 21844,
       "createdAt": "2015-09-03T20:23:38Z",
-      "pushedAt": "2026-11-07T05:29:30Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T14:56:11Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "社区规模大且持续维护",
-        "扩展生态覆盖主流语言"
+        "当前观测 Stars：195,129",
+        "主要语言：TypeScript",
+        "GitHub 主题：editor, electron, microsoft, typescript",
+        "最近推送：2026-11-07T14:56:11Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：社区规模大且持续维护"
       ],
       "deltas": {
         "1d": null,
@@ -3329,8 +3548,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 195067
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 195129
         }
       ]
     },
@@ -3355,17 +3574,22 @@
       ],
       "language": "Vim Script",
       "license": "NOASSERTION",
-      "stars": 103459,
-      "forks": 7381,
-      "openIssues": 2004,
+      "stars": 103476,
+      "forks": 7382,
+      "openIssues": 2003,
       "createdAt": "2014-01-31T13:39:22Z",
-      "pushedAt": "2026-11-07T05:17:03Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T14:59:58Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "活跃的核心开发社区",
-        "配置和插件生态丰富"
+        "当前观测 Stars：103,476",
+        "主要语言：Vim Script",
+        "GitHub 主题：api, c, lua, neovim",
+        "最近推送：2026-11-07T14:59:58Z（约 0 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：活跃的核心开发社区"
       ],
       "deltas": {
         "1d": null,
@@ -3384,8 +3608,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 103459
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 103476
         }
       ]
     },
@@ -3406,17 +3630,22 @@
       ],
       "language": "C",
       "license": "NOASSERTION",
-      "stars": 64173,
+      "stars": 64177,
       "forks": 28727,
       "openIssues": 418,
       "createdAt": "2008-07-23T14:21:26Z",
-      "pushedAt": "2026-11-06T20:33:46Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T06:30:11Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "基础设施级项目",
-        "文档与发布流程稳定"
+        "当前观测 Stars：64,177",
+        "主要语言：C",
+        "GitHub 主题：c, hacktoberfest, shell",
+        "最近推送：2026-11-07T06:30:11Z（约 0 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：基础设施级项目"
       ],
       "deltas": {
         "1d": null,
@@ -3435,8 +3664,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 64173
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 64177
         }
       ]
     },
@@ -3458,17 +3687,22 @@
       ],
       "language": "Rust",
       "license": "Apache-2.0",
-      "stars": 91713,
-      "forks": 3770,
-      "openIssues": 3046,
+      "stars": 91726,
+      "forks": 3774,
+      "openIssues": 3049,
       "createdAt": "2023-10-02T20:24:11Z",
-      "pushedAt": "2026-11-06T20:15:47Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T13:26:53Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "近期迭代活跃",
-        "显著改善 Python 环境管理体验"
+        "当前观测 Stars：91,726",
+        "主要语言：Rust",
+        "GitHub 主题：packaging, python, resolver, uv",
+        "最近推送：2026-11-07T13:26:53Z（约 0 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：近期迭代活跃"
       ],
       "deltas": {
         "1d": null,
@@ -3487,8 +3721,8 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 91713
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 91726
         }
       ]
     },
@@ -3517,17 +3751,22 @@
       ],
       "language": "Rust",
       "license": "MIT",
-      "stars": 50741,
-      "forks": 2614,
-      "openIssues": 2263,
+      "stars": 50859,
+      "forks": 2625,
+      "openIssues": 2272,
       "createdAt": "2022-08-09T17:17:44Z",
-      "pushedAt": "2026-11-07T04:46:08Z",
-      "fetchedAt": "2026-11-07T05:30:01Z",
+      "pushedAt": "2026-11-07T14:18:21Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "工具链整合度高",
-        "适合纳入持续集成"
+        "当前观测 Stars：50,859",
+        "主要语言：Rust",
+        "GitHub 主题：linter, pep8, python, python3",
+        "最近推送：2026-11-07T14:18:21Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：工具链整合度高"
       ],
       "deltas": {
         "1d": null,
@@ -3546,8 +3785,838 @@
       },
       "history": [
         {
-          "date": "2026-11-07T05:30:01Z",
-          "stars": 50741
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 50859
+        }
+      ]
+    },
+    {
+      "id": "junegunn/fzf",
+      "fullName": "junegunn/fzf",
+      "name": "fzf",
+      "owner": "junegunn",
+      "url": "https://github.com/junegunn/fzf",
+      "homepage": "https://junegunn.github.io/fzf/",
+      "description": ":cherry_blossom: A command-line fuzzy finder",
+      "summary": "终端通用模糊查找器，适合快速定位文件和命令。",
+      "category": "效率工具",
+      "topics": [
+        "bash",
+        "cli",
+        "fish",
+        "fzf",
+        "go",
+        "neovim",
+        "tmux",
+        "unix",
+        "vim",
+        "zsh"
+      ],
+      "language": "Go",
+      "license": "MIT",
+      "stars": 84055,
+      "forks": 4118,
+      "openIssues": 333,
+      "createdAt": "2013-10-23T16:04:23Z",
+      "pushedAt": "2026-11-07T12:06:19Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：84,055",
+        "主要语言：Go",
+        "GitHub 主题：bash, cli, fish, fzf",
+        "最近推送：2026-11-07T12:06:19Z（约 0 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：命令行工作流复用性高"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 84055
+        }
+      ]
+    },
+    {
+      "id": "sharkdp/bat",
+      "fullName": "sharkdp/bat",
+      "name": "bat",
+      "owner": "sharkdp",
+      "url": "https://github.com/sharkdp/bat",
+      "homepage": null,
+      "description": "A cat(1) clone with wings.",
+      "summary": "带语法高亮和 Git 集成的 cat 替代品。",
+      "category": "效率工具",
+      "topics": [
+        "cli",
+        "command-line",
+        "git",
+        "hacktoberfest",
+        "rust",
+        "syntax-highlighting",
+        "terminal",
+        "tool"
+      ],
+      "language": "Rust",
+      "license": "Apache-2.0",
+      "stars": 61216,
+      "forks": 3070,
+      "openIssues": 563,
+      "createdAt": "2018-04-21T10:52:23Z",
+      "pushedAt": "2026-11-07T03:35:08Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：61,216",
+        "主要语言：Rust",
+        "GitHub 主题：cli, command-line, git, hacktoberfest",
+        "最近推送：2026-11-07T03:35:08Z（约 0 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：上手成本低"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 61216
+        }
+      ]
+    },
+    {
+      "id": "BurntSushi/ripgrep",
+      "fullName": "BurntSushi/ripgrep",
+      "name": "ripgrep",
+      "owner": "BurntSushi",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "homepage": null,
+      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+      "summary": "高性能递归文本搜索工具，适合大型代码库。",
+      "category": "开发工具",
+      "topics": [
+        "cli",
+        "command-line",
+        "command-line-tool",
+        "gitignore",
+        "grep",
+        "recursively-search",
+        "regex",
+        "ripgrep",
+        "rust",
+        "search"
+      ],
+      "language": "Rust",
+      "license": "Unlicense",
+      "stars": 69861,
+      "forks": 4189,
+      "openIssues": 226,
+      "createdAt": "2016-03-11T02:02:33Z",
+      "pushedAt": "2026-10-27T18:31:31Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：69,861",
+        "主要语言：Rust",
+        "GitHub 主题：cli, command-line, command-line-tool, gitignore",
+        "最近推送：2026-10-27T18:31:31Z（约 10 天前）",
+        "许可证：Unlicense",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：性能和可靠性经过广泛验证"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 69861
+        }
+      ]
+    },
+    {
+      "id": "tldr-pages/tldr",
+      "fullName": "tldr-pages/tldr",
+      "name": "tldr",
+      "owner": "tldr-pages",
+      "url": "https://github.com/tldr-pages/tldr",
+      "homepage": "https://tldr.sh",
+      "description": "Collaborative cheatsheets for console commands 📚.",
+      "summary": "面向常见命令的简明社区手册。",
+      "category": "学习资源",
+      "topics": [
+        "android",
+        "bsd",
+        "cheatsheet",
+        "cheatsheets",
+        "cli",
+        "command-line",
+        "console",
+        "documentation",
+        "examples",
+        "hacktoberfest",
+        "help",
+        "linux",
+        "macos",
+        "man-page",
+        "manual",
+        "osx",
+        "shell",
+        "terminal",
+        "tldr",
+        "windows"
+      ],
+      "language": "Markdown",
+      "license": "NOASSERTION",
+      "stars": 64160,
+      "forks": 5643,
+      "openIssues": 283,
+      "createdAt": "2013-12-08T07:34:43Z",
+      "pushedAt": "2026-11-07T06:26:03Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：64,160",
+        "主要语言：Markdown",
+        "GitHub 主题：android, bsd, cheatsheet, cheatsheets",
+        "最近推送：2026-11-07T06:26:03Z（约 0 天前）",
+        "许可证：NOASSERTION",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：适合快速查命令"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 64160
+        }
+      ]
+    },
+    {
+      "id": "ohmyzsh/ohmyzsh",
+      "fullName": "ohmyzsh/ohmyzsh",
+      "name": "ohmyzsh",
+      "owner": "ohmyzsh",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "homepage": "https://ohmyz.sh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "summary": "可扩展的 Zsh 配置框架，提供主题和插件。",
+      "category": "效率工具",
+      "topics": [
+        "cli",
+        "cli-app",
+        "oh-my-zsh",
+        "oh-my-zsh-plugin",
+        "oh-my-zsh-theme",
+        "ohmyzsh",
+        "plugin-framework",
+        "plugins",
+        "productivity",
+        "shell",
+        "terminal",
+        "theme",
+        "themes",
+        "zsh",
+        "zsh-configuration"
+      ],
+      "language": "Shell",
+      "license": "MIT",
+      "stars": 190346,
+      "forks": 27989,
+      "openIssues": 311,
+      "createdAt": "2009-08-28T18:15:37Z",
+      "pushedAt": "2026-11-06T13:42:13Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：190,346",
+        "主要语言：Shell",
+        "GitHub 主题：cli, cli-app, oh-my-zsh, oh-my-zsh-plugin",
+        "最近推送：2026-11-06T13:42:13Z（约 1 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：生态成熟"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 190346
+        }
+      ]
+    },
+    {
+      "id": "docker/compose",
+      "fullName": "docker/compose",
+      "name": "compose",
+      "owner": "docker",
+      "url": "https://github.com/docker/compose",
+      "homepage": "https://docs.docker.com/compose/",
+      "description": "Define and run multi-container applications with Docker",
+      "summary": "用声明式文件编排多容器开发环境。",
+      "category": "开发工具",
+      "topics": [
+        "docker",
+        "docker-compose",
+        "go",
+        "golang",
+        "orchestration"
+      ],
+      "language": "Go",
+      "license": "Apache-2.0",
+      "stars": 38632,
+      "forks": 5902,
+      "openIssues": 120,
+      "createdAt": "2013-12-09T11:40:58Z",
+      "pushedAt": "2026-11-06T09:02:49Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：38,632",
+        "主要语言：Go",
+        "GitHub 主题：docker, docker-compose, go, golang",
+        "最近推送：2026-11-06T09:02:49Z（约 1 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：本地开发常用"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 38632
+        }
+      ]
+    },
+    {
+      "id": "kubernetes/kubernetes",
+      "fullName": "kubernetes/kubernetes",
+      "name": "kubernetes",
+      "owner": "kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "homepage": "https://kubernetes.io",
+      "description": "Production-Grade Container Scheduling and Management",
+      "summary": "容器编排平台 Kubernetes 的主仓库。",
+      "category": "开发工具",
+      "topics": [
+        "cncf",
+        "containers",
+        "go",
+        "kubernetes"
+      ],
+      "language": "Go",
+      "license": "Apache-2.0",
+      "stars": 128886,
+      "forks": 45751,
+      "openIssues": 3231,
+      "createdAt": "2014-06-06T22:56:04Z",
+      "pushedAt": "2026-11-07T11:59:43Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：128,886",
+        "主要语言：Go",
+        "GitHub 主题：cncf, containers, go, kubernetes",
+        "最近推送：2026-11-07T11:59:43Z（约 0 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：云原生基础设施核心项目"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 128886
+        }
+      ]
+    },
+    {
+      "id": "helm/helm",
+      "fullName": "helm/helm",
+      "name": "helm",
+      "owner": "helm",
+      "url": "https://github.com/helm/helm",
+      "homepage": "https://helm.sh",
+      "description": "The Kubernetes Package Manager",
+      "summary": "Kubernetes 的应用包管理器，提供可复用的 Chart。",
+      "category": "开发工具",
+      "topics": [
+        "chart",
+        "charts",
+        "cncf",
+        "helm",
+        "kubernetes"
+      ],
+      "language": "Go",
+      "license": "Apache-2.0",
+      "stars": 30400,
+      "forks": 7958,
+      "openIssues": 505,
+      "createdAt": "2015-10-06T01:07:32Z",
+      "pushedAt": "2026-11-07T10:35:27Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：30,400",
+        "主要语言：Go",
+        "GitHub 主题：chart, charts, cncf, helm",
+        "最近推送：2026-11-07T10:35:27Z（约 0 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：部署流程标准化"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 30400
+        }
+      ]
+    },
+    {
+      "id": "prometheus/prometheus",
+      "fullName": "prometheus/prometheus",
+      "name": "prometheus",
+      "owner": "prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "homepage": "https://prometheus.io/",
+      "description": "The Prometheus monitoring system and time series database.",
+      "summary": "开源监控与时序数据库，使用 PromQL 查询指标。",
+      "category": "数据与分析",
+      "topics": [
+        "alerting",
+        "graphing",
+        "hacktoberfest",
+        "metrics",
+        "monitoring",
+        "prometheus",
+        "time-series"
+      ],
+      "language": "Go",
+      "license": "Apache-2.0",
+      "stars": 67337,
+      "forks": 10997,
+      "openIssues": 1094,
+      "createdAt": "2012-11-24T11:14:12Z",
+      "pushedAt": "2026-11-07T11:31:25Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：67,337",
+        "主要语言：Go",
+        "GitHub 主题：alerting, graphing, hacktoberfest, metrics",
+        "最近推送：2026-11-07T11:31:25Z（约 0 天前）",
+        "许可证：Apache-2.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：可观测性基础组件"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 67337
+        }
+      ]
+    },
+    {
+      "id": "grafana/grafana",
+      "fullName": "grafana/grafana",
+      "name": "grafana",
+      "owner": "grafana",
+      "url": "https://github.com/grafana/grafana",
+      "homepage": "https://grafana.com",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+      "summary": "可组合的指标、日志和链路可视化平台。",
+      "category": "数据与分析",
+      "topics": [
+        "alerting",
+        "analytics",
+        "business-intelligence",
+        "dashboard",
+        "data-visualization",
+        "elasticsearch",
+        "go",
+        "grafana",
+        "hacktoberfest",
+        "influxdb",
+        "metrics",
+        "monitoring",
+        "mysql",
+        "postgres",
+        "prometheus"
+      ],
+      "language": "TypeScript",
+      "license": "AGPL-3.0",
+      "stars": 77748,
+      "forks": 14934,
+      "openIssues": 3326,
+      "createdAt": "2013-12-11T15:59:56Z",
+      "pushedAt": "2026-11-07T13:26:03Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：77,748",
+        "主要语言：TypeScript",
+        "GitHub 主题：alerting, analytics, business-intelligence, dashboard",
+        "最近推送：2026-11-07T13:26:03Z（约 0 天前）",
+        "许可证：AGPL-3.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：仪表盘和数据源覆盖广"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 77748
+        }
+      ]
+    },
+    {
+      "id": "usememos/memos",
+      "fullName": "usememos/memos",
+      "name": "memos",
+      "owner": "usememos",
+      "url": "https://github.com/usememos/memos",
+      "homepage": "https://usememos.com",
+      "description": "Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.",
+      "summary": "轻量、可自托管的知识和碎片记录工具。",
+      "category": "自托管",
+      "topics": [
+        "docker",
+        "foss",
+        "go",
+        "markdown",
+        "memo",
+        "microblog",
+        "note-taking",
+        "notes",
+        "open-source",
+        "own-your-data",
+        "react",
+        "self-hosted",
+        "sqlite",
+        "timeline"
+      ],
+      "language": "Go",
+      "license": "MIT",
+      "stars": 64336,
+      "forks": 4939,
+      "openIssues": 51,
+      "createdAt": "2021-12-08T15:30:18Z",
+      "pushedAt": "2026-11-06T01:33:03Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：64,336",
+        "主要语言：Go",
+        "GitHub 主题：docker, foss, go, markdown",
+        "最近推送：2026-11-06T01:33:03Z（约 1 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：适合个人知识库"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 64336
+        }
+      ]
+    },
+    {
+      "id": "immich-app/immich",
+      "fullName": "immich-app/immich",
+      "name": "immich",
+      "owner": "immich-app",
+      "url": "https://github.com/immich-app/immich",
+      "homepage": "https://immich.app",
+      "description": "High performance self-hosted photo and video management solution.",
+      "summary": "注重隐私的自托管照片和视频管理平台。",
+      "category": "自托管",
+      "topics": [
+        "backup-tool",
+        "flutter",
+        "google-photos",
+        "google-photos-alternative",
+        "javascript",
+        "mobile-app",
+        "nestjs",
+        "nodejs",
+        "photo-gallery",
+        "photos",
+        "photos-management",
+        "self-hosted",
+        "svelte",
+        "sveltekit",
+        "typescript",
+        "videos"
+      ],
+      "language": "TypeScript",
+      "license": "AGPL-3.0",
+      "stars": 118449,
+      "forks": 7515,
+      "openIssues": 672,
+      "createdAt": "2022-02-03T15:56:27Z",
+      "pushedAt": "2026-11-07T09:51:33Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：118,449",
+        "主要语言：TypeScript",
+        "GitHub 主题：backup-tool, flutter, google-photos, google-photos-alternative",
+        "最近推送：2026-11-07T09:51:33Z（约 0 天前）",
+        "许可证：AGPL-3.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：本地数据控制力强"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 118449
+        }
+      ]
+    },
+    {
+      "id": "paperless-ngx/paperless-ngx",
+      "fullName": "paperless-ngx/paperless-ngx",
+      "name": "paperless-ngx",
+      "owner": "paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "homepage": "http://docs.paperless-ngx.com/",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "summary": "将纸质文件扫描件整理为可搜索的文档库。",
+      "category": "自托管",
+      "topics": [
+        "ai",
+        "angular",
+        "archiving",
+        "django",
+        "dms",
+        "document-management",
+        "document-management-system",
+        "llm",
+        "machine-learning",
+        "ocr",
+        "optical-character-recognition",
+        "pdf"
+      ],
+      "language": "Python",
+      "license": "GPL-3.0",
+      "stars": 47819,
+      "forks": 3360,
+      "openIssues": 5,
+      "createdAt": "2022-02-12T21:56:52Z",
+      "pushedAt": "2026-11-07T15:25:11Z",
+      "fetchedAt": "2026-11-07T15:26:13Z",
+      "archived": false,
+      "featured": true,
+      "reasons": [
+        "当前观测 Stars：47,819",
+        "主要语言：Python",
+        "GitHub 主题：ai, angular, archiving, django",
+        "最近推送：2026-11-07T15:25:11Z（约 0 天前）",
+        "许可证：GPL-3.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验",
+        "编辑选取：OCR 和自动归档实用"
+      ],
+      "deltas": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": null,
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:26:13Z",
+          "stars": 47819
         }
       ]
     }
@@ -3585,29 +4654,42 @@
       "DigitalPlatDev/FreeDomain",
       "yt-dlp/yt-dlp",
       "microsoft/vscode",
+      "ohmyzsh/ohmyzsh",
       "DietrichGebert/ponytail",
+      "kubernetes/kubernetes",
+      "immich-app/immich",
       "neovim/neovim",
       "odysseus-dev/odysseus",
       "astral-sh/uv",
+      "junegunn/fzf",
+      "grafana/grafana",
       "storytold/photocraft",
       "eternity4719/HowToLiveBetter",
-      "cloudflare/security-audit-skill",
+      "BurntSushi/ripgrep",
+      "prometheus/prometheus",
       "Ebony-Vinyl/dsh-our-free-model",
+      "cloudflare/security-audit-skill",
+      "usememos/memos",
       "git/git",
+      "tldr-pages/tldr",
       "bilawalsidhu/gods-eye-view",
+      "sharkdp/bat",
       "ayghri/i-have-adhd",
       "Gathin23/cleanyourtv",
       "boykopovar/AnyPS5",
       "astral-sh/ruff",
       "alibaba/open-code-review",
       "JustVugg/colibri",
+      "paperless-ngx/paperless-ngx",
       "zhaoxuya520/reverse-skill",
       "Niko1221/Strata",
+      "docker/compose",
       "anywhere-labs/dsh-desktop",
       "NandhaKishorM/laya",
       "vorssaint/vorssaint-utils",
       "yetone/magpie",
       "baidu/Unlimited-OCR",
+      "helm/helm",
       "hypit-ai/hypit",
       "xai-org/grok-build",
       "guillaumemeyer/watermarks-remover",
@@ -3615,9 +4697,9 @@
       "deepseek-ai/DeepInfer",
       "AprilNEA/OpenLogi",
       "browser-use/jev-ultrafast",
-      "firecrawl/anydoc",
       "awesome-dsh-plugin/awesome-dsh-plugin",
-      "KnifeLemon/Filee"
+      "KnifeLemon/Filee",
+      "firecrawl/anydoc"
     ],
     "growth1d": [],
     "growth7d": [],
@@ -3627,7 +4709,20 @@
       "neovim/neovim",
       "git/git",
       "astral-sh/uv",
-      "astral-sh/ruff"
+      "astral-sh/ruff",
+      "junegunn/fzf",
+      "sharkdp/bat",
+      "BurntSushi/ripgrep",
+      "tldr-pages/tldr",
+      "ohmyzsh/ohmyzsh",
+      "docker/compose",
+      "kubernetes/kubernetes",
+      "helm/helm",
+      "prometheus/prometheus",
+      "grafana/grafana",
+      "usememos/memos",
+      "immich-app/immich",
+      "paperless-ngx/paperless-ngx"
     ],
     "newcomers": [
       "Gathin23/cleanyourtv",
