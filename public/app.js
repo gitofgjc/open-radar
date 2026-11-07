@@ -122,7 +122,7 @@
   };
   const escapeHtml = (value) => String(value == null ? '' : value).replace(/[&<>"']/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch]));
   const safeExternalUrl = (value) => { const raw = String(value || '').trim(); return /^(https?:)\/\//i.test(raw) ? raw : '#'; };
-  const statusText = status => ({ live: '实时快照', partial: '部分更新', stale: '使用旧快照', sample: '演示数据' }[status] || '数据状态未知');
+  const statusText = status => ({ live: '实时快照', partial: '部分更新', stale: '使用旧快照', sample: '暂无真实数据' }[status] || '数据状态未知');
   const normalizeRepo = (repo) => ({
     ...repo,
     id: repo.id || repo.fullName || `${repo.owner || 'unknown'}/${repo.name || 'project'}`,

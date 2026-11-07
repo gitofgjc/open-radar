@@ -116,6 +116,14 @@ class IngestTests(unittest.TestCase):
         assert stale["meta"]["status"] == "stale"
         assert stale["meta"]["statusLabel"] == "使用旧快照"
 
+    def test_partial_update_preserves_last_fully_successful_time(self):
+        previous = {"meta": {"lastSuccessAt": "2026-11-06T00:00:00Z"}}
+        repository = {"id": "octo/demo", "stars": 9, "history": []}
+        payload = build_payload([repository], previous=previous, fetch_error="one candidate failed", now=datetime(2026, 11, 7, tzinfo=timezone.utc))
+        assert payload["meta"]["status"] == "partial"
+        assert payload["meta"]["generatedAt"] == "2026-11-07T00:00:00Z"
+        assert payload["meta"]["lastSuccessAt"] == "2026-11-06T00:00:00Z"
+
     def test_build_payload_marks_stale_fallback_and_preserves_previous_data(self):
         previous = {
             "meta": {"schemaVersion": 1, "status": "live", "lastSuccessAt": "2026-01-01T00:00:00Z"},

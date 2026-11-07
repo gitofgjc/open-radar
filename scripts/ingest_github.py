@@ -500,7 +500,8 @@ def build_payload(repositories: Sequence[Dict[str, Any]], previous: Optional[Dic
     if fetch_error:
         warnings.append(fetch_error)
     effective_status = status or ("partial" if fetch_error else "live")
-    last_success = iso(current_time) if effective_status in ("live", "partial") else (previous.get("meta") or {}).get("lastSuccessAt")
+    previous_success = (previous.get("meta") or {}).get("lastSuccessAt")
+    last_success = iso(current_time) if effective_status == "live" else previous_success
     repos = list(repositories)
     rankings = {
         "stars": _sort_ids(repos, "stars"),
