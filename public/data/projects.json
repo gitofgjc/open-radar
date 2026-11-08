@@ -1,8 +1,8 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "generatedAt": "2026-11-07T15:49:11Z",
-    "lastSuccessAt": "2026-11-07T15:49:11Z",
+    "generatedAt": "2026-11-08T06:08:19Z",
+    "lastSuccessAt": "2026-11-08T06:08:19Z",
     "status": "live",
     "statusLabel": "最新采集快照",
     "statusMessage": "本次已成功获取 GitHub 候选快照",
@@ -34,33 +34,37 @@
       ],
       "language": "Markdown",
       "license": null,
-      "stars": 560674,
-      "forks": 52456,
+      "stars": 560840,
+      "forks": 52476,
       "openIssues": 691,
       "createdAt": "2018-05-09T12:03:18Z",
       "pushedAt": "2026-07-14T19:25:58Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：560,674",
+        "当前观测 Stars：560,840",
         "主要语言：Markdown",
         "GitHub 主题：awesome-list, free, programming, tutorial-code",
-        "最近推送：2026-07-14T19:25:58Z（约 115 天前）",
+        "最近推送：2026-07-14T19:25:58Z（约 116 天前）",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 166,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -68,6 +72,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 560674
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 560840
         }
       ]
     },
@@ -90,33 +98,37 @@
       ],
       "language": null,
       "license": "CC0-1.0",
-      "stars": 532961,
-      "forks": 38202,
+      "stars": 533361,
+      "forks": 38219,
       "openIssues": 103,
       "createdAt": "2014-07-11T13:42:37Z",
       "pushedAt": "2026-09-02T02:10:47Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：532,961",
+        "当前观测 Stars：533,361",
         "GitHub 主题：awesome, awesome-list, lists, resources",
-        "最近推送：2026-09-02T02:10:47Z（约 66 天前）",
+        "最近推送：2026-09-02T02:10:47Z（约 67 天前）",
         "许可证：CC0-1.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 400,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0008,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -124,6 +136,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 532961
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 533361
         }
       ]
     },
@@ -154,34 +170,38 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 496924,
-      "forks": 55534,
-      "openIssues": 2608,
+      "stars": 497090,
+      "forks": 55559,
+      "openIssues": 2583,
       "createdAt": "2016-03-20T23:49:42Z",
-      "pushedAt": "2026-11-05T18:06:53Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T19:45:54Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：496,924",
+        "当前观测 Stars：497,090",
         "主要语言：Python",
         "GitHub 主题：api, apis, dataset, development",
-        "最近推送：2026-11-05T18:06:53Z（约 1 天前）",
+        "最近推送：2026-11-07T19:45:54Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 166,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -189,6 +209,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 496924
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 497090
         }
       ]
     },
@@ -221,34 +245,38 @@
       ],
       "language": "TypeScript",
       "license": "BSD-3-Clause",
-      "stars": 458705,
-      "forks": 48135,
-      "openIssues": 184,
+      "stars": 458729,
+      "forks": 48140,
+      "openIssues": 189,
       "createdAt": "2014-12-24T17:49:19Z",
       "pushedAt": "2026-11-06T18:01:25Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：458,705",
+        "当前观测 Stars：458,729",
         "主要语言：TypeScript",
         "GitHub 主题：careers, certification, community, curriculum",
-        "最近推送：2026-11-06T18:01:25Z（约 0 天前）",
+        "最近推送：2026-11-06T18:01:25Z（约 1 天前）",
         "许可证：BSD-3-Clause",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 24,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -256,6 +284,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 458705
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 458729
         }
       ]
     },
@@ -293,34 +325,38 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 440056,
-      "forks": 108935,
-      "openIssues": 1615,
+      "stars": 441576,
+      "forks": 109239,
+      "openIssues": 1608,
       "createdAt": "2026-04-14T00:51:32Z",
-      "pushedAt": "2026-11-07T15:40:36Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T06:07:45Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：440,056",
+        "当前观测 Stars：441,576",
         "主要语言：TypeScript",
         "GitHub 主题：agent-skills, ai, android, claude-code",
-        "最近推送：2026-11-07T15:40:36Z（约 0 天前）",
+        "最近推送：2026-11-08T06:07:45Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 1520,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0035,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -328,6 +364,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 440056
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 441576
         }
       ]
     },
@@ -350,34 +390,38 @@
       ],
       "language": "Python",
       "license": "CC-BY-4.0",
-      "stars": 401202,
-      "forks": 67318,
-      "openIssues": 103,
+      "stars": 401238,
+      "forks": 67372,
+      "openIssues": 95,
       "createdAt": "2013-10-11T06:50:37Z",
-      "pushedAt": "2026-11-01T02:48:06Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T19:10:09Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：401,202",
+        "当前观测 Stars：401,238",
         "主要语言：Python",
         "GitHub 主题：books, education, hacktoberfest, list",
-        "最近推送：2026-11-01T02:48:06Z（约 6 天前）",
+        "最近推送：2026-11-07T19:10:09Z（约 0 天前）",
         "许可证：CC-BY-4.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 36,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -385,6 +429,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 401202
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 401238
         }
       ]
     },
@@ -409,34 +457,38 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 394108,
-      "forks": 82818,
-      "openIssues": 7644,
+      "stars": 394158,
+      "forks": 82830,
+      "openIssues": 7785,
       "createdAt": "2025-11-24T10:16:47Z",
-      "pushedAt": "2026-11-07T15:47:20Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T06:08:14Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：394,108",
+        "当前观测 Stars：394,158",
         "主要语言：TypeScript",
         "GitHub 主题：ai, assistant, crustacean, molty",
-        "最近推送：2026-11-07T15:47:20Z（约 0 天前）",
+        "最近推送：2026-11-08T06:08:14Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 50,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -444,6 +496,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 394108
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 394158
         }
       ]
     },
@@ -474,34 +530,38 @@
       ],
       "language": "Python",
       "license": "NOASSERTION",
-      "stars": 377218,
-      "forks": 59207,
-      "openIssues": 641,
+      "stars": 377283,
+      "forks": 59217,
+      "openIssues": 642,
       "createdAt": "2017-02-26T16:15:28Z",
       "pushedAt": "2026-09-15T01:10:09Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：377,218",
+        "当前观测 Stars：377,283",
         "主要语言：Python",
         "GitHub 主题：design, design-patterns, design-system, development",
-        "最近推送：2026-09-15T01:10:09Z（约 53 天前）",
+        "最近推送：2026-09-15T01:10:09Z（约 54 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 65,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -509,6 +569,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 377218
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 377283
         }
       ]
     },
@@ -544,16 +608,16 @@
       ],
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "stars": 371466,
-      "forks": 45414,
-      "openIssues": 4,
+      "stars": 371505,
+      "forks": 45483,
+      "openIssues": 7,
       "createdAt": "2017-03-15T13:45:52Z",
       "pushedAt": "2026-11-06T11:53:17Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：371,466",
+        "当前观测 Stars：371,505",
         "主要语言：TypeScript",
         "GitHub 主题：angular-roadmap, backend-roadmap, blockchain-roadmap, computer-science",
         "最近推送：2026-11-06T11:53:17Z（约 1 天前）",
@@ -561,17 +625,21 @@
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 39,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -579,6 +647,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 371466
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 371505
         }
       ]
     },
@@ -608,33 +680,37 @@
       ],
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "stars": 364066,
-      "forks": 85390,
-      "openIssues": 46,
+      "stars": 364075,
+      "forks": 85444,
+      "openIssues": 23,
       "createdAt": "2016-06-06T02:34:12Z",
-      "pushedAt": "2026-11-07T15:41:01Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T16:03:02Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：364,066",
+        "当前观测 Stars：364,075",
         "GitHub 主题：algorithm, algorithms, coding-interview, coding-interviews",
-        "最近推送：2026-11-07T15:41:01Z（约 0 天前）",
+        "最近推送：2026-11-07T16:03:02Z（约 0 天前）",
         "许可证：CC-BY-SA-4.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 9,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -642,6 +718,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 364066
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 364075
         }
       ]
     },
@@ -667,33 +747,37 @@
       ],
       "language": null,
       "license": "NOASSERTION",
-      "stars": 334729,
-      "forks": 15758,
+      "stars": 334901,
+      "forks": 15766,
       "openIssues": 0,
       "createdAt": "2015-06-01T02:33:17Z",
       "pushedAt": "2026-11-07T11:49:42Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：334,729",
+        "当前观测 Stars：334,901",
         "GitHub 主题：awesome, awesome-list, cloud, free-software",
         "最近推送：2026-11-07T11:49:42Z（约 0 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 172,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0005,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -701,6 +785,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 334729
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 334901
         }
       ]
     },
@@ -724,34 +812,38 @@
       ],
       "language": "Python",
       "license": "NOASSERTION",
-      "stars": 333144,
-      "forks": 29061,
+      "stars": 333273,
+      "forks": 29063,
       "openIssues": 19,
       "createdAt": "2014-06-27T21:00:06Z",
       "pushedAt": "2026-11-06T17:47:24Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：333,144",
+        "当前观测 Stars：333,273",
         "主要语言：Python",
         "GitHub 主题：awesome, awesome-list, python, python-frameworks",
-        "最近推送：2026-11-06T17:47:24Z（约 0 天前）",
+        "最近推送：2026-11-06T17:47:24Z（约 1 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 129,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0004,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -759,6 +851,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 333144
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 333273
         }
       ]
     },
@@ -775,33 +871,37 @@
       "topics": [],
       "language": "Shell",
       "license": "MIT",
-      "stars": 317356,
-      "forks": 26556,
+      "stars": 317911,
+      "forks": 26600,
       "openIssues": 219,
       "createdAt": "2026-02-03T11:15:53Z",
       "pushedAt": "2026-11-05T10:40:01Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：317,356",
+        "当前观测 Stars：317,911",
         "主要语言：Shell",
         "最近推送：2026-11-05T10:40:01Z（约 2 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 555,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0017,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -809,6 +909,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 317356
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 317911
         }
       ]
     },
@@ -834,34 +938,38 @@
       ],
       "language": "Shell",
       "license": "MIT",
-      "stars": 313944,
-      "forks": 27929,
+      "stars": 314207,
+      "forks": 27962,
       "openIssues": 342,
       "createdAt": "2025-10-09T19:45:18Z",
       "pushedAt": "2026-11-03T23:24:58Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：313,944",
+        "当前观测 Stars：314,207",
         "主要语言：Shell",
         "GitHub 主题：ai, brainstorming, coding, obra",
-        "最近推送：2026-11-03T23:24:58Z（约 3 天前）",
+        "最近推送：2026-11-03T23:24:58Z（约 4 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 263,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0008,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -869,6 +977,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 313944
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 314207
         }
       ]
     },
@@ -894,34 +1006,38 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 298954,
-      "forks": 44173,
-      "openIssues": 241,
+      "stars": 299277,
+      "forks": 44217,
+      "openIssues": 242,
       "createdAt": "2026-01-18T00:51:51Z",
       "pushedAt": "2026-11-06T21:21:50Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：298,954",
+        "当前观测 Stars：299,277",
         "主要语言：JavaScript",
         "GitHub 主题：ai-agents, anthropic, claude, claude-code",
-        "最近推送：2026-11-06T21:21:50Z（约 0 天前）",
+        "最近推送：2026-11-06T21:21:50Z（约 1 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 323,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0011,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -929,6 +1045,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 298954
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 299277
         }
       ]
     },
@@ -954,16 +1074,16 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 289270,
-      "forks": 36822,
+      "stars": 289311,
+      "forks": 36827,
       "openIssues": 239,
       "createdAt": "2017-04-12T05:07:46Z",
       "pushedAt": "2026-11-02T06:38:53Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：289,270",
+        "当前观测 Stars：289,311",
         "主要语言：Python",
         "GitHub 主题：beginner-project, cpp, golang, javascript",
         "最近推送：2026-11-02T06:38:53Z（约 5 天前）",
@@ -971,17 +1091,21 @@
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 41,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -989,6 +1113,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 289270
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 289311
         }
       ]
     },
@@ -1005,32 +1133,36 @@
       "topics": [],
       "language": null,
       "license": "NOASSERTION",
-      "stars": 277213,
-      "forks": 20670,
+      "stars": 277215,
+      "forks": 20669,
       "openIssues": 16684,
       "createdAt": "2019-03-26T07:31:14Z",
       "pushedAt": "2025-08-22T06:01:29Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：277,213",
-        "最近推送：2025-08-22T06:01:29Z（约 442 天前）",
+        "当前观测 Stars：277,215",
+        "最近推送：2025-08-22T06:01:29Z（约 443 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 2,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1038,6 +1170,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 277213
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 277215
         }
       ]
     },
@@ -1059,16 +1195,16 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 275570,
-      "forks": 33699,
+      "stars": 275919,
+      "forks": 33751,
       "openIssues": 0,
       "createdAt": "2026-08-13T11:56:32Z",
       "pushedAt": "2026-11-04T13:06:39Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：275,570",
+        "当前观测 Stars：275,919",
         "主要语言：TypeScript",
         "GitHub 主题：ai-agents, cordis, dsh, dsh-plugin",
         "最近推送：2026-11-04T13:06:39Z（约 3 天前）",
@@ -1076,17 +1212,21 @@
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 349,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0013,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1094,6 +1234,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 275570
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 275919
         }
       ]
     },
@@ -1124,34 +1268,38 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 261400,
-      "forks": 57920,
-      "openIssues": 53562,
+      "stars": 261561,
+      "forks": 58056,
+      "openIssues": 53583,
       "createdAt": "2025-07-22T22:22:28Z",
-      "pushedAt": "2026-11-07T15:34:12Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T06:04:25Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：261,400",
+        "当前观测 Stars：261,561",
         "主要语言：Python",
         "GitHub 主题：ai, ai-agent, ai-agents, anthropic",
-        "最近推送：2026-11-07T15:34:12Z（约 0 天前）",
+        "最近推送：2026-11-08T06:04:25Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 161,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0006,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1159,6 +1307,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 261400
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 261561
         }
       ]
     },
@@ -1195,33 +1347,37 @@
       ],
       "language": null,
       "license": "MIT",
-      "stars": 256572,
-      "forks": 14811,
+      "stars": 256726,
+      "forks": 14818,
       "openIssues": 179,
       "createdAt": "2018-06-23T10:43:14Z",
       "pushedAt": "2024-11-19T14:00:38Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：256,572",
+        "当前观测 Stars：256,726",
         "GitHub 主题：awesome, awesome-list, bsd, cheatsheets",
         "最近推送：2024-11-19T14:00:38Z（约 718 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 154,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0006,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1229,6 +1385,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 256572
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 256726
         }
       ]
     },
@@ -1245,33 +1405,37 @@
       "topics": [],
       "language": "C",
       "license": "NOASSERTION",
-      "stars": 254735,
-      "forks": 67246,
+      "stars": 254797,
+      "forks": 67309,
       "openIssues": 3,
       "createdAt": "2011-09-04T22:48:12Z",
-      "pushedAt": "2026-11-06T21:46:38Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T00:00:16Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：254,735",
+        "当前观测 Stars：254,797",
         "主要语言：C",
-        "最近推送：2026-11-06T21:46:38Z（约 0 天前）",
+        "最近推送：2026-11-08T00:00:16Z（约 0 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 62,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1279,6 +1443,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 254735
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 254797
         }
       ]
     },
@@ -1302,35 +1470,39 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 252353,
-      "forks": 51886,
-      "openIssues": 1518,
+      "stars": 252382,
+      "forks": 51949,
+      "openIssues": 1525,
       "createdAt": "2013-05-24T16:15:54Z",
       "pushedAt": "2026-11-07T02:19:03Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：252,353",
+        "当前观测 Stars：252,382",
         "主要语言：JavaScript",
         "GitHub 主题：declarative, frontend, javascript, library",
-        "最近推送：2026-11-07T02:19:03Z（约 0 天前）",
+        "最近推送：2026-11-07T02:19:03Z（约 1 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：组件生态成熟"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 29,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1338,6 +1510,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 252353
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 252382
         }
       ]
     },
@@ -1354,31 +1530,35 @@
       "topics": [],
       "language": null,
       "license": null,
-      "stars": 230519,
-      "forks": 22938,
-      "openIssues": 138,
+      "stars": 230679,
+      "forks": 22955,
+      "openIssues": 139,
       "createdAt": "2026-01-27T03:53:13Z",
       "pushedAt": "2026-04-20T10:05:04Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：230,519",
+        "当前观测 Stars：230,679",
         "最近推送：2026-04-20T10:05:04Z（约 201 天前）",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 160,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0007,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1386,6 +1566,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 230519
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 230679
         }
       ]
     },
@@ -1417,34 +1601,38 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 225938,
+      "stars": 225948,
       "forks": 51271,
       "openIssues": 90,
       "createdAt": "2016-07-16T09:44:01Z",
       "pushedAt": "2026-11-02T19:35:18Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：225,938",
+        "当前观测 Stars：225,948",
         "主要语言：Python",
         "GitHub 主题：algorithm, algorithm-competitions, algorithms-implemented, algos",
-        "最近推送：2026-11-02T19:35:18Z（约 4 天前）",
+        "最近推送：2026-11-02T19:35:18Z（约 5 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 10,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1452,6 +1640,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 225938
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 225948
         }
       ]
     },
@@ -1468,33 +1660,37 @@
       "topics": [],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 225205,
-      "forks": 30395,
-      "openIssues": 4136,
+      "stars": 225336,
+      "forks": 30418,
+      "openIssues": 4152,
       "createdAt": "2025-04-30T20:08:00Z",
-      "pushedAt": "2026-11-07T14:53:02Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T06:04:59Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：225,205",
+        "当前观测 Stars：225,336",
         "主要语言：TypeScript",
-        "最近推送：2026-11-07T14:53:02Z（约 0 天前）",
+        "最近推送：2026-11-08T06:04:59Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 131,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0006,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1502,6 +1698,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 225205
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 225336
         }
       ]
     },
@@ -1523,16 +1723,16 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 212630,
-      "forks": 33876,
+      "stars": 212631,
+      "forks": 33938,
       "openIssues": 645,
       "createdAt": "2013-07-29T03:24:51Z",
       "pushedAt": "2024-10-10T07:24:15Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：212,630",
+        "当前观测 Stars：212,631",
         "主要语言：TypeScript",
         "GitHub 主题：framework, frontend, javascript, vue",
         "最近推送：2024-10-10T07:24:15Z（约 758 天前）",
@@ -1540,17 +1740,21 @@
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 1,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1558,6 +1762,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 212630
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 212631
         }
       ]
     },
@@ -1579,16 +1787,16 @@
       ],
       "language": "HTML",
       "license": "MIT",
-      "stars": 210928,
-      "forks": 26096,
+      "stars": 210952,
+      "forks": 26101,
       "openIssues": 28,
       "createdAt": "2014-05-04T00:18:39Z",
       "pushedAt": "2026-11-07T09:14:50Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：210,928",
+        "当前观测 Stars：210,952",
         "主要语言：HTML",
         "GitHub 主题：awesome-list, computer-science, courses, curriculum",
         "最近推送：2026-11-07T09:14:50Z（约 0 天前）",
@@ -1596,17 +1804,21 @@
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 24,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1614,6 +1826,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 210928
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 210952
         }
       ]
     },
@@ -1651,34 +1867,38 @@
       ],
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "stars": 209754,
-      "forks": 61397,
-      "openIssues": 1228,
+      "stars": 209789,
+      "forks": 61398,
+      "openIssues": 1233,
       "createdAt": "2019-06-22T09:24:21Z",
-      "pushedAt": "2026-11-07T15:26:43Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T06:02:53Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：209,754",
+        "当前观测 Stars：209,789",
         "主要语言：TypeScript",
         "GitHub 主题：ai, apis, automation, cli",
-        "最近推送：2026-11-07T15:26:43Z（约 0 天前）",
+        "最近推送：2026-11-08T06:02:53Z（约 0 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 35,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1686,6 +1906,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 209754
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 209789
         }
       ]
     },
@@ -1718,16 +1942,16 @@
       ],
       "language": "Markdown",
       "license": "AGPL-3.0",
-      "stars": 207434,
-      "forks": 4661,
+      "stars": 207491,
+      "forks": 4668,
       "openIssues": 40,
       "createdAt": "2024-05-30T13:23:00Z",
       "pushedAt": "2026-08-12T10:36:46Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：207,434",
+        "当前观测 Stars：207,491",
         "主要语言：Markdown",
         "GitHub 主题：digitalplat, dns, dns-tutorial, documentation",
         "最近推送：2026-08-12T10:36:46Z（约 87 天前）",
@@ -1735,17 +1959,21 @@
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 57,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1753,6 +1981,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 207434
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 207491
         }
       ]
     },
@@ -1777,16 +2009,16 @@
       ],
       "language": "Python",
       "license": "Unlicense",
-      "stars": 205946,
-      "forks": 18089,
-      "openIssues": 2770,
+      "stars": 206064,
+      "forks": 18103,
+      "openIssues": 2773,
       "createdAt": "2020-10-26T04:22:55Z",
       "pushedAt": "2026-11-04T07:16:27Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：205,946",
+        "当前观测 Stars：206,064",
         "主要语言：Python",
         "GitHub 主题：cli, downloader, python, sponsorblock",
         "最近推送：2026-11-04T07:16:27Z（约 3 天前）",
@@ -1794,17 +2026,21 @@
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 118,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0006,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1812,6 +2048,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 205946
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 206064
         }
       ]
     },
@@ -1839,16 +2079,16 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 186204,
-      "forks": 10302,
-      "openIssues": 183,
+      "stars": 186495,
+      "forks": 10327,
+      "openIssues": 184,
       "createdAt": "2026-06-12T00:52:37Z",
       "pushedAt": "2026-10-29T11:59:31Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：186,204",
+        "当前观测 Stars：186,495",
         "主要语言：JavaScript",
         "GitHub 主题：agent-skills, ai-agents, claude, claude-code",
         "最近推送：2026-10-29T11:59:31Z（约 9 天前）",
@@ -1856,17 +2096,21 @@
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 291,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0016,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1874,6 +2118,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 186204
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 186495
         }
       ]
     },
@@ -1890,33 +2138,37 @@
       "topics": [],
       "language": "Python",
       "license": "AGPL-3.0",
-      "stars": 95367,
-      "forks": 1921,
-      "openIssues": 1500,
+      "stars": 95406,
+      "forks": 1930,
+      "openIssues": 1494,
       "createdAt": "2026-05-31T14:05:51Z",
-      "pushedAt": "2026-11-06T02:11:20Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T02:44:57Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：95,367",
+        "当前观测 Stars：95,406",
         "主要语言：Python",
-        "最近推送：2026-11-06T02:11:20Z（约 1 天前）",
+        "最近推送：2026-11-08T02:44:57Z（约 0 天前）",
         "许可证：AGPL-3.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 39,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0004,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1924,6 +2176,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 95367
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 95406
         }
       ]
     },
@@ -1948,34 +2204,38 @@
       ],
       "language": "Rust",
       "license": "Apache-2.0",
-      "stars": 77656,
-      "forks": 13750,
-      "openIssues": 3906,
+      "stars": 77787,
+      "forks": 13772,
+      "openIssues": 4008,
       "createdAt": "2026-09-30T13:37:48Z",
-      "pushedAt": "2026-11-07T15:31:48Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T04:13:40Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：77,656",
+        "当前观测 Stars：77,787",
         "主要语言：Rust",
         "GitHub 主题：art, image-editing, image-editing-software, image-editor",
-        "最近推送：2026-11-07T15:31:48Z（约 0 天前）",
+        "最近推送：2026-11-08T04:13:40Z（约 0 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 131,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0017,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -1983,6 +2243,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 77656
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 77787
         }
       ]
     },
@@ -1999,33 +2263,37 @@
       "topics": [],
       "language": "HTML",
       "license": "CC-BY-4.0",
-      "stars": 74171,
-      "forks": 6539,
+      "stars": 74247,
+      "forks": 6552,
       "openIssues": 12,
       "createdAt": "2026-09-07T01:53:36Z",
       "pushedAt": "2026-11-06T10:20:15Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：74,171",
+        "当前观测 Stars：74,247",
         "主要语言：HTML",
         "最近推送：2026-11-06T10:20:15Z（约 1 天前）",
         "许可证：CC-BY-4.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 76,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2033,6 +2301,68 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 74171
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 74247
+        }
+      ]
+    },
+    {
+      "id": "cloudflare/security-audit-skill",
+      "fullName": "cloudflare/security-audit-skill",
+      "name": "security-audit-skill",
+      "owner": "cloudflare",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "homepage": null,
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "summary": "JavaScript 项目。基于 GitHub 描述：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "category": "安全与隐私",
+      "topics": [],
+      "language": "JavaScript",
+      "license": "MIT",
+      "stars": 66020,
+      "forks": 4296,
+      "openIssues": 120,
+      "createdAt": "2026-06-18T14:08:44Z",
+      "pushedAt": "2026-09-14T19:29:02Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
+      "archived": false,
+      "featured": false,
+      "reasons": [
+        "当前观测 Stars：66,020",
+        "主要语言：JavaScript",
+        "最近推送：2026-09-14T19:29:02Z（约 54 天前）",
+        "许可证：MIT",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
+      ],
+      "deltas": {
+        "1d": 905,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": 0.0139,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:49:11Z",
+          "stars": 65115
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 66020
         }
       ]
     },
@@ -2060,34 +2390,38 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 65183,
-      "forks": 1749,
-      "openIssues": 136,
+      "stars": 65675,
+      "forks": 1764,
+      "openIssues": 140,
       "createdAt": "2026-09-24T16:17:19Z",
-      "pushedAt": "2026-11-05T06:24:03Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T16:54:28Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：65,183",
+        "当前观测 Stars：65,675",
         "主要语言：JavaScript",
         "GitHub 主题：ai-agents, deepseek, deepseek-harness, developer-tools",
-        "最近推送：2026-11-05T06:24:03Z（约 2 天前）",
+        "最近推送：2026-11-07T16:54:28Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 492,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0075,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2095,56 +2429,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 65183
-        }
-      ]
-    },
-    {
-      "id": "cloudflare/security-audit-skill",
-      "fullName": "cloudflare/security-audit-skill",
-      "name": "security-audit-skill",
-      "owner": "cloudflare",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "homepage": null,
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "summary": "JavaScript 项目。基于 GitHub 描述：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "category": "安全与隐私",
-      "topics": [],
-      "language": "JavaScript",
-      "license": "MIT",
-      "stars": 65115,
-      "forks": 4225,
-      "openIssues": 116,
-      "createdAt": "2026-06-18T14:08:44Z",
-      "pushedAt": "2026-09-14T19:29:02Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
-      "archived": false,
-      "featured": false,
-      "reasons": [
-        "当前观测 Stars：65,115",
-        "主要语言：JavaScript",
-        "最近推送：2026-09-14T19:29:02Z（约 53 天前）",
-        "许可证：MIT",
-        "有 GitHub 项目描述，可直接从 README 继续核验"
-      ],
-      "deltas": {
-        "1d": null,
-        "7d": null,
-        "30d": null
-      },
-      "growthRates": {
-        "1d": null,
-        "7d": null,
-        "30d": null
-      },
-      "deltaWindows": {
-        "1d": null,
-        "7d": null,
-        "30d": null
-      },
-      "history": [
+        },
         {
-          "date": "2026-11-07T15:49:11Z",
-          "stars": 65115
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 65675
         }
       ]
     },
@@ -2174,34 +2462,38 @@
       ],
       "language": "JavaScript",
       "license": "NOASSERTION",
-      "stars": 63335,
-      "forks": 12467,
-      "openIssues": 426,
+      "stars": 63441,
+      "forks": 12488,
+      "openIssues": 425,
       "createdAt": "2026-06-22T23:37:22Z",
-      "pushedAt": "2026-11-07T15:34:08Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T05:58:37Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：63,335",
+        "当前观测 Stars：63,441",
         "主要语言：JavaScript",
         "GitHub 主题：3d-globe, cesium, flight-tracking, geospatial",
-        "最近推送：2026-11-07T15:34:08Z（约 0 天前）",
+        "最近推送：2026-11-08T05:58:37Z（约 0 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 106,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0017,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2209,6 +2501,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 63335
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 63441
         }
       ]
     },
@@ -2232,34 +2528,38 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 60415,
-      "forks": 3525,
-      "openIssues": 94,
+      "stars": 60446,
+      "forks": 3534,
+      "openIssues": 95,
       "createdAt": "2026-05-13T20:42:06Z",
       "pushedAt": "2026-10-19T19:46:23Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：60,415",
+        "当前观测 Stars：60,446",
         "主要语言：Python",
         "GitHub 主题：adhd, claude-, claude-code-plugin, claude-skills",
-        "最近推送：2026-10-19T19:46:23Z（约 18 天前）",
+        "最近推送：2026-10-19T19:46:23Z（约 19 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 31,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0005,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2267,6 +2567,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 60415
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 60446
         }
       ]
     },
@@ -2301,16 +2605,16 @@
       ],
       "language": "Python",
       "license": "NOASSERTION",
-      "stars": 53709,
-      "forks": 6894,
-      "openIssues": 237,
+      "stars": 54026,
+      "forks": 6956,
+      "openIssues": 273,
       "createdAt": "2026-10-17T08:12:35Z",
       "pushedAt": "2026-11-07T13:18:20Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：53,709",
+        "当前观测 Stars：54,026",
         "主要语言：Python",
         "GitHub 主题：adb, adblock, android-tv, android-tv-launcher",
         "最近推送：2026-11-07T13:18:20Z（约 0 天前）",
@@ -2318,17 +2622,21 @@
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 317,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0059,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2336,6 +2644,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 53709
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 54026
         }
       ]
     },
@@ -2360,34 +2672,38 @@
       ],
       "language": "C++",
       "license": "GPL-2.0",
-      "stars": 51950,
-      "forks": 4948,
-      "openIssues": 1956,
+      "stars": 52120,
+      "forks": 4963,
+      "openIssues": 2006,
       "createdAt": "2026-08-03T21:30:25Z",
-      "pushedAt": "2026-11-07T15:47:26Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T06:06:00Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：51,950",
+        "当前观测 Stars：52,120",
         "主要语言：C++",
         "GitHub 主题：anyps5, dynamic-library, game-porting, ps5",
-        "最近推送：2026-11-07T15:47:26Z（约 0 天前）",
+        "最近推送：2026-11-08T06:06:00Z（约 0 天前）",
         "许可证：GPL-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 170,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0033,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2395,6 +2711,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 51950
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 52120
         }
       ]
     },
@@ -2418,16 +2738,16 @@
       ],
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 49609,
-      "forks": 3641,
-      "openIssues": 351,
+      "stars": 49630,
+      "forks": 3646,
+      "openIssues": 355,
       "createdAt": "2026-05-18T02:16:36Z",
       "pushedAt": "2026-11-06T08:35:01Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：49,609",
+        "当前观测 Stars：49,630",
         "主要语言：Go",
         "GitHub 主题：agent, agent-skills, code-review, code-review-assistant",
         "最近推送：2026-11-06T08:35:01Z（约 1 天前）",
@@ -2435,17 +2755,21 @@
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 21,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0004,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2453,6 +2777,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 49609
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 49630
         }
       ]
     },
@@ -2469,33 +2797,37 @@
       "topics": [],
       "language": "C",
       "license": "Apache-2.0",
-      "stars": 48641,
-      "forks": 5667,
-      "openIssues": 208,
+      "stars": 48798,
+      "forks": 5691,
+      "openIssues": 180,
       "createdAt": "2026-07-01T12:27:49Z",
-      "pushedAt": "2026-11-07T15:18:06Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T03:45:38Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：48,641",
+        "当前观测 Stars：48,798",
         "主要语言：C",
-        "最近推送：2026-11-07T15:18:06Z（约 0 天前）",
+        "最近推送：2026-11-08T03:45:38Z（约 0 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 157,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0032,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2503,6 +2835,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 48641
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 48798
         }
       ]
     },
@@ -2519,33 +2855,37 @@
       "topics": [],
       "language": "PowerShell",
       "license": "MIT",
-      "stars": 44269,
-      "forks": 6588,
+      "stars": 44288,
+      "forks": 6590,
       "openIssues": 42,
       "createdAt": "2026-05-13T14:37:57Z",
       "pushedAt": "2026-09-22T06:43:21Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：44,269",
+        "当前观测 Stars：44,288",
         "主要语言：PowerShell",
         "最近推送：2026-09-22T06:43:21Z（约 46 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 19,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0004,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2553,6 +2893,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 44269
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 44288
         }
       ]
     },
@@ -2569,33 +2913,37 @@
       "topics": [],
       "language": "C++",
       "license": "MIT",
-      "stars": 41374,
-      "forks": 4531,
-      "openIssues": 1087,
+      "stars": 41612,
+      "forks": 4560,
+      "openIssues": 1141,
       "createdAt": "2026-09-24T16:40:20Z",
       "pushedAt": "2026-11-07T08:25:01Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：41,374",
+        "当前观测 Stars：41,612",
         "主要语言：C++",
         "最近推送：2026-11-07T08:25:01Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 238,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0058,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2603,6 +2951,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 41374
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 41612
         }
       ]
     },
@@ -2628,34 +2980,38 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 35259,
-      "forks": 1592,
-      "openIssues": 396,
+      "stars": 35314,
+      "forks": 1595,
+      "openIssues": 400,
       "createdAt": "2026-08-13T16:30:50Z",
       "pushedAt": "2026-11-06T16:29:38Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：35,259",
+        "当前观测 Stars：35,314",
         "主要语言：TypeScript",
         "GitHub 主题：cordis, cordis-plugin, deepseek, deepseek-harness",
-        "最近推送：2026-11-06T16:29:38Z（约 0 天前）",
+        "最近推送：2026-11-06T16:29:38Z（约 1 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 55,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0016,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2663,6 +3019,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 35259
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 35314
         }
       ]
     },
@@ -2693,34 +3053,38 @@
       ],
       "language": "Python",
       "license": "Apache-2.0",
-      "stars": 35167,
-      "forks": 3147,
-      "openIssues": 106,
+      "stars": 35192,
+      "forks": 3149,
+      "openIssues": 112,
       "createdAt": "2026-09-18T04:46:33Z",
-      "pushedAt": "2026-11-07T14:39:39Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T16:23:09Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：35,167",
+        "当前观测 Stars：35,192",
         "主要语言：Python",
         "GitHub 主题：calibration, classification, decision-model, huggingface",
-        "最近推送：2026-11-07T14:39:39Z（约 0 天前）",
+        "最近推送：2026-11-07T16:23:09Z（约 0 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 25,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0007,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2728,6 +3092,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 35167
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 35192
         }
       ]
     },
@@ -2761,34 +3129,38 @@
       ],
       "language": "Swift",
       "license": "GPL-3.0",
-      "stars": 33360,
-      "forks": 1640,
-      "openIssues": 1442,
+      "stars": 33471,
+      "forks": 1654,
+      "openIssues": 1458,
       "createdAt": "2026-06-12T15:25:43Z",
       "pushedAt": "2026-11-05T22:03:28Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：33,360",
+        "当前观测 Stars：33,471",
         "主要语言：Swift",
         "GitHub 主题：alt-tab, app-uninstaller, appkit, finder",
-        "最近推送：2026-11-05T22:03:28Z（约 1 天前）",
+        "最近推送：2026-11-05T22:03:28Z（约 2 天前）",
         "许可证：GPL-3.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 111,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0033,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2796,6 +3168,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 33360
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 33471
         }
       ]
     },
@@ -2819,34 +3195,38 @@
       ],
       "language": "Go",
       "license": "MIT",
-      "stars": 31715,
-      "forks": 2783,
-      "openIssues": 3359,
+      "stars": 31930,
+      "forks": 2809,
+      "openIssues": 3390,
       "createdAt": "2026-09-23T16:22:35Z",
-      "pushedAt": "2026-11-07T15:43:12Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T05:42:57Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：31,715",
+        "当前观测 Stars：31,930",
         "主要语言：Go",
         "GitHub 主题：claude-code, codex, deepseek, gemini-cli",
-        "最近推送：2026-11-07T15:43:12Z（约 0 天前）",
+        "最近推送：2026-11-08T05:42:57Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 215,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0068,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2854,6 +3234,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 31715
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 31930
         }
       ]
     },
@@ -2870,33 +3254,37 @@
       "topics": [],
       "language": "Python",
       "license": "MIT",
-      "stars": 30834,
-      "forks": 3300,
+      "stars": 30859,
+      "forks": 3302,
       "openIssues": 94,
       "createdAt": "2026-06-18T08:40:15Z",
       "pushedAt": "2026-11-02T06:43:28Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：30,834",
+        "当前观测 Stars：30,859",
         "主要语言：Python",
         "最近推送：2026-11-02T06:43:28Z（约 5 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 25,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0008,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2904,6 +3292,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 30834
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 30859
         }
       ]
     },
@@ -2941,16 +3333,16 @@
       ],
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "stars": 28407,
-      "forks": 3298,
-      "openIssues": 93,
+      "stars": 28496,
+      "forks": 3311,
+      "openIssues": 100,
       "createdAt": "2026-07-29T18:49:19Z",
       "pushedAt": "2026-11-05T13:30:52Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：28,407",
+        "当前观测 Stars：28,496",
         "主要语言：TypeScript",
         "GitHub 主题：agentic-ai, ai, ai-agents, ai-video",
         "最近推送：2026-11-05T13:30:52Z（约 2 天前）",
@@ -2958,17 +3350,21 @@
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 89,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0031,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -2976,6 +3372,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 28407
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 28496
         }
       ]
     },
@@ -2992,18 +3392,18 @@
       "topics": [],
       "language": "Rust",
       "license": "Apache-2.0",
-      "stars": 27712,
+      "stars": 27711,
       "forks": 5238,
       "openIssues": 0,
       "createdAt": "2026-07-14T20:04:23Z",
       "pushedAt": "2026-09-29T16:57:13Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：27,712",
+        "当前观测 Stars：27,711",
         "主要语言：Rust",
-        "最近推送：2026-09-29T16:57:13Z（约 38 天前）",
+        "最近推送：2026-09-29T16:57:13Z（约 39 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
@@ -3018,7 +3418,11 @@
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3026,6 +3430,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 27712
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 27711
         }
       ]
     },
@@ -3058,34 +3466,38 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 26578,
-      "forks": 3028,
-      "openIssues": 47,
+      "stars": 26620,
+      "forks": 3031,
+      "openIssues": 48,
       "createdAt": "2026-08-11T16:32:38Z",
       "pushedAt": "2026-11-02T20:26:10Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：26,578",
+        "当前观测 Stars：26,620",
         "主要语言：Python",
         "GitHub 主题：agent-skill, ai, anthropic, c2pa",
-        "最近推送：2026-11-02T20:26:10Z（约 4 天前）",
+        "最近推送：2026-11-02T20:26:10Z（约 5 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 42,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0016,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3093,6 +3505,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 26578
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 26620
         }
       ]
     },
@@ -3114,34 +3530,38 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 25691,
-      "forks": 2153,
+      "stars": 25823,
+      "forks": 2172,
       "openIssues": 72,
       "createdAt": "2026-10-08T10:12:49Z",
       "pushedAt": "2026-10-18T20:20:24Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：25,691",
+        "当前观测 Stars：25,823",
         "主要语言：JavaScript",
         "GitHub 主题：agent-skill, open-source, svg, vizualization",
-        "最近推送：2026-10-18T20:20:24Z（约 19 天前）",
+        "最近推送：2026-10-18T20:20:24Z（约 20 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 132,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0051,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3149,6 +3569,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 25691
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 25823
         }
       ]
     },
@@ -3165,33 +3589,37 @@
       "topics": [],
       "language": "Python",
       "license": "Apache-2.0",
-      "stars": 25586,
-      "forks": 3133,
+      "stars": 25625,
+      "forks": 3138,
       "openIssues": 247,
       "createdAt": "2026-10-16T07:47:23Z",
       "pushedAt": "2026-11-03T07:31:59Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：25,586",
+        "当前观测 Stars：25,625",
         "主要语言：Python",
         "最近推送：2026-11-03T07:31:59Z（约 4 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 39,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0015,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3199,6 +3627,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 25586
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 25625
         }
       ]
     },
@@ -3229,34 +3661,38 @@
       ],
       "language": "Rust",
       "license": "Apache-2.0",
-      "stars": 25320,
-      "forks": 928,
+      "stars": 25353,
+      "forks": 931,
       "openIssues": 633,
       "createdAt": "2026-05-24T10:10:36Z",
-      "pushedAt": "2026-11-07T15:31:50Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T18:08:36Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：25,320",
+        "当前观测 Stars：25,353",
         "主要语言：Rust",
         "GitHub 主题：dpi, gpui, hid, hidpp",
-        "最近推送：2026-11-07T15:31:50Z（约 0 天前）",
+        "最近推送：2026-11-07T18:08:36Z（约 0 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 33,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0013,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3264,6 +3700,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 25320
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 25353
         }
       ]
     },
@@ -3280,33 +3720,37 @@
       "topics": [],
       "language": "Python",
       "license": "MIT",
-      "stars": 24251,
-      "forks": 1867,
+      "stars": 24265,
+      "forks": 1870,
       "openIssues": 211,
       "createdAt": "2026-09-16T21:30:12Z",
       "pushedAt": "2026-11-03T11:46:20Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：24,251",
+        "当前观测 Stars：24,265",
         "主要语言：Python",
         "最近推送：2026-11-03T11:46:20Z（约 4 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 14,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0006,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3314,63 +3758,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 24251
-        }
-      ]
-    },
-    {
-      "id": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "fullName": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "name": "awesome-dsh-plugin",
-      "owner": "awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "homepage": "https://awesome-dsh-plugin.com",
-      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "summary": "JavaScript 项目，主题包括 awesome, awesome-list, deepseek-harness。基于 GitHub 描述：A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "category": "效率工具",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin"
-      ],
-      "language": "JavaScript",
-      "license": "CC0-1.0",
-      "stars": 23526,
-      "forks": 7241,
-      "openIssues": 580,
-      "createdAt": "2026-08-13T13:55:31Z",
-      "pushedAt": "2026-11-07T09:16:03Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
-      "archived": false,
-      "featured": false,
-      "reasons": [
-        "当前观测 Stars：23,526",
-        "主要语言：JavaScript",
-        "GitHub 主题：awesome, awesome-list, deepseek-harness, dsh",
-        "最近推送：2026-11-07T09:16:03Z（约 0 天前）",
-        "许可证：CC0-1.0",
-        "有 GitHub 项目描述，可直接从 README 继续核验"
-      ],
-      "deltas": {
-        "1d": null,
-        "7d": null,
-        "30d": null
-      },
-      "growthRates": {
-        "1d": null,
-        "7d": null,
-        "30d": null
-      },
-      "deltaWindows": {
-        "1d": null,
-        "7d": null,
-        "30d": null
-      },
-      "history": [
+        },
         {
-          "date": "2026-11-07T15:49:11Z",
-          "stars": 23526
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 24265
         }
       ]
     },
@@ -3408,34 +3799,38 @@
       ],
       "language": "C#",
       "license": "MIT",
-      "stars": 23474,
-      "forks": 1386,
-      "openIssues": 148,
+      "stars": 23792,
+      "forks": 1396,
+      "openIssues": 152,
       "createdAt": "2026-09-29T20:05:15Z",
-      "pushedAt": "2026-11-07T03:55:22Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T19:16:46Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：23,474",
+        "当前观测 Stars：23,792",
         "主要语言：C#",
         "GitHub 主题：audio-converter, avalonia, batch-conversion, converter",
-        "最近推送：2026-11-07T03:55:22Z（约 0 天前）",
+        "最近推送：2026-11-07T19:16:46Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 318,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0135,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3443,6 +3838,75 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 23474
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 23792
+        }
+      ]
+    },
+    {
+      "id": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "fullName": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "name": "awesome-dsh-plugin",
+      "owner": "awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "homepage": "https://awesome-dsh-plugin.com",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "summary": "JavaScript 项目，主题包括 awesome, awesome-list, deepseek-harness。基于 GitHub 描述：A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "category": "效率工具",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "language": "JavaScript",
+      "license": "CC0-1.0",
+      "stars": 23618,
+      "forks": 7319,
+      "openIssues": 500,
+      "createdAt": "2026-08-13T13:55:31Z",
+      "pushedAt": "2026-11-08T01:16:44Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
+      "archived": false,
+      "featured": false,
+      "reasons": [
+        "当前观测 Stars：23,618",
+        "主要语言：JavaScript",
+        "GitHub 主题：awesome, awesome-list, deepseek-harness, dsh",
+        "最近推送：2026-11-08T01:16:44Z（约 0 天前）",
+        "许可证：CC0-1.0",
+        "有 GitHub 项目描述，可直接从 README 继续核验"
+      ],
+      "deltas": {
+        "1d": 92,
+        "7d": null,
+        "30d": null
+      },
+      "growthRates": {
+        "1d": 0.0039,
+        "7d": null,
+        "30d": null
+      },
+      "deltaWindows": {
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
+        "7d": null,
+        "30d": null
+      },
+      "history": [
+        {
+          "date": "2026-11-07T15:49:11Z",
+          "stars": 23526
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 23618
         }
       ]
     },
@@ -3459,33 +3923,37 @@
       "topics": [],
       "language": "Rust",
       "license": "MIT",
-      "stars": 23408,
-      "forks": 1520,
+      "stars": 23421,
+      "forks": 1521,
       "openIssues": 132,
       "createdAt": "2026-08-03T16:36:14Z",
       "pushedAt": "2026-10-23T22:55:34Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": false,
       "reasons": [
-        "当前观测 Stars：23,408",
+        "当前观测 Stars：23,421",
         "主要语言：Rust",
-        "最近推送：2026-10-23T22:55:34Z（约 14 天前）",
+        "最近推送：2026-10-23T22:55:34Z（约 15 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 13,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0006,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3493,6 +3961,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 23408
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 23421
         }
       ]
     },
@@ -3515,35 +3987,39 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 195128,
-      "forks": 44438,
-      "openIssues": 21845,
+      "stars": 195159,
+      "forks": 44441,
+      "openIssues": 21801,
       "createdAt": "2015-09-03T20:23:38Z",
-      "pushedAt": "2026-11-07T15:44:04Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T06:04:18Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：195,128",
+        "当前观测 Stars：195,159",
         "主要语言：TypeScript",
         "GitHub 主题：editor, electron, microsoft, typescript",
-        "最近推送：2026-11-07T15:44:04Z（约 0 天前）",
+        "最近推送：2026-11-08T06:04:18Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：社区规模大且持续维护"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 31,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3551,6 +4027,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 195128
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 195159
         }
       ]
     },
@@ -3575,35 +4055,39 @@
       ],
       "language": "Vim Script",
       "license": "NOASSERTION",
-      "stars": 103477,
-      "forks": 7382,
-      "openIssues": 2004,
+      "stars": 103489,
+      "forks": 7383,
+      "openIssues": 2007,
       "createdAt": "2014-01-31T13:39:22Z",
-      "pushedAt": "2026-11-07T14:59:58Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T05:16:13Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：103,477",
+        "当前观测 Stars：103,489",
         "主要语言：Vim Script",
         "GitHub 主题：api, c, lua, neovim",
-        "最近推送：2026-11-07T14:59:58Z（约 0 天前）",
+        "最近推送：2026-11-08T05:16:13Z（约 0 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：活跃的核心开发社区"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 12,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3611,6 +4095,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 103477
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 103489
         }
       ]
     },
@@ -3631,16 +4119,16 @@
       ],
       "language": "C",
       "license": "NOASSERTION",
-      "stars": 64177,
-      "forks": 28727,
+      "stars": 64191,
+      "forks": 28725,
       "openIssues": 418,
       "createdAt": "2008-07-23T14:21:26Z",
       "pushedAt": "2026-11-07T06:30:11Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：64,177",
+        "当前观测 Stars：64,191",
         "主要语言：C",
         "GitHub 主题：c, hacktoberfest, shell",
         "最近推送：2026-11-07T06:30:11Z（约 0 天前）",
@@ -3649,17 +4137,21 @@
         "编辑选取：基础设施级项目"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 14,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3667,6 +4159,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 64177
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 64191
         }
       ]
     },
@@ -3688,35 +4184,39 @@
       ],
       "language": "Rust",
       "license": "Apache-2.0",
-      "stars": 91726,
-      "forks": 3774,
-      "openIssues": 3049,
+      "stars": 91753,
+      "forks": 3776,
+      "openIssues": 3050,
       "createdAt": "2023-10-02T20:24:11Z",
-      "pushedAt": "2026-11-07T13:26:53Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T01:33:53Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：91,726",
+        "当前观测 Stars：91,753",
         "主要语言：Rust",
         "GitHub 主题：packaging, python, resolver, uv",
-        "最近推送：2026-11-07T13:26:53Z（约 0 天前）",
+        "最近推送：2026-11-08T01:33:53Z（约 0 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：近期迭代活跃"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 27,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3724,6 +4224,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 91726
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 91753
         }
       ]
     },
@@ -3752,35 +4256,39 @@
       ],
       "language": "Rust",
       "license": "MIT",
-      "stars": 50865,
-      "forks": 2625,
-      "openIssues": 2273,
+      "stars": 51025,
+      "forks": 2633,
+      "openIssues": 2276,
       "createdAt": "2022-08-09T17:17:44Z",
-      "pushedAt": "2026-11-07T14:18:21Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T05:26:57Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：50,865",
+        "当前观测 Stars：51,025",
         "主要语言：Rust",
         "GitHub 主题：linter, pep8, python, python3",
-        "最近推送：2026-11-07T14:18:21Z（约 0 天前）",
+        "最近推送：2026-11-08T05:26:57Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：工具链整合度高"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 160,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0031,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3788,6 +4296,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 50865
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 51025
         }
       ]
     },
@@ -3815,16 +4327,16 @@
       ],
       "language": "Go",
       "license": "MIT",
-      "stars": 84055,
+      "stars": 84070,
       "forks": 4118,
       "openIssues": 333,
       "createdAt": "2013-10-23T16:04:23Z",
       "pushedAt": "2026-11-07T12:06:19Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：84,055",
+        "当前观测 Stars：84,070",
         "主要语言：Go",
         "GitHub 主题：bash, cli, fish, fzf",
         "最近推送：2026-11-07T12:06:19Z（约 0 天前）",
@@ -3833,17 +4345,21 @@
         "编辑选取：命令行工作流复用性高"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 15,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3851,6 +4367,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 84055
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 84070
         }
       ]
     },
@@ -3876,35 +4396,39 @@
       ],
       "language": "Rust",
       "license": "Apache-2.0",
-      "stars": 61216,
-      "forks": 3070,
+      "stars": 61228,
+      "forks": 3072,
       "openIssues": 563,
       "createdAt": "2018-04-21T10:52:23Z",
       "pushedAt": "2026-11-07T03:35:08Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：61,216",
+        "当前观测 Stars：61,228",
         "主要语言：Rust",
         "GitHub 主题：cli, command-line, git, hacktoberfest",
-        "最近推送：2026-11-07T03:35:08Z（约 0 天前）",
+        "最近推送：2026-11-07T03:35:08Z（约 1 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：上手成本低"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 12,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3912,6 +4436,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 61216
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 61228
         }
       ]
     },
@@ -3939,35 +4467,39 @@
       ],
       "language": "Rust",
       "license": "Unlicense",
-      "stars": 69862,
-      "forks": 4189,
-      "openIssues": 226,
+      "stars": 69888,
+      "forks": 4192,
+      "openIssues": 225,
       "createdAt": "2016-03-11T02:02:33Z",
       "pushedAt": "2026-10-27T18:31:31Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：69,862",
+        "当前观测 Stars：69,888",
         "主要语言：Rust",
         "GitHub 主题：cli, command-line, command-line-tool, gitignore",
-        "最近推送：2026-10-27T18:31:31Z（约 10 天前）",
+        "最近推送：2026-10-27T18:31:31Z（约 11 天前）",
         "许可证：Unlicense",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：性能和可靠性经过广泛验证"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 26,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0004,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -3975,6 +4507,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 69862
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 69888
         }
       ]
     },
@@ -4012,35 +4548,39 @@
       ],
       "language": "Markdown",
       "license": "NOASSERTION",
-      "stars": 64160,
-      "forks": 5643,
-      "openIssues": 283,
+      "stars": 64161,
+      "forks": 5644,
+      "openIssues": 289,
       "createdAt": "2013-12-08T07:34:43Z",
-      "pushedAt": "2026-11-07T06:26:03Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T03:32:08Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：64,160",
+        "当前观测 Stars：64,161",
         "主要语言：Markdown",
         "GitHub 主题：android, bsd, cheatsheet, cheatsheets",
-        "最近推送：2026-11-07T06:26:03Z（约 0 天前）",
+        "最近推送：2026-11-08T03:32:08Z（约 0 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：适合快速查命令"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 1,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4048,6 +4588,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 64160
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 64161
         }
       ]
     },
@@ -4080,35 +4624,39 @@
       ],
       "language": "Shell",
       "license": "MIT",
-      "stars": 190347,
+      "stars": 190359,
       "forks": 27989,
-      "openIssues": 311,
+      "openIssues": 312,
       "createdAt": "2009-08-28T18:15:37Z",
-      "pushedAt": "2026-11-06T13:42:13Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T22:00:51Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：190,347",
+        "当前观测 Stars：190,359",
         "主要语言：Shell",
         "GitHub 主题：cli, cli-app, oh-my-zsh, oh-my-zsh-plugin",
-        "最近推送：2026-11-06T13:42:13Z（约 1 天前）",
+        "最近推送：2026-11-07T22:00:51Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：生态成熟"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 12,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4116,6 +4664,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 190347
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 190359
         }
       ]
     },
@@ -4138,16 +4690,16 @@
       ],
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 38632,
-      "forks": 5902,
-      "openIssues": 120,
+      "stars": 38642,
+      "forks": 5900,
+      "openIssues": 119,
       "createdAt": "2013-12-09T11:40:58Z",
       "pushedAt": "2026-11-06T09:02:49Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：38,632",
+        "当前观测 Stars：38,642",
         "主要语言：Go",
         "GitHub 主题：docker, docker-compose, go, golang",
         "最近推送：2026-11-06T09:02:49Z（约 1 天前）",
@@ -4156,17 +4708,21 @@
         "编辑选取：本地开发常用"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 10,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4174,6 +4730,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 38632
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 38642
         }
       ]
     },
@@ -4195,35 +4755,39 @@
       ],
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 128887,
-      "forks": 45752,
-      "openIssues": 3231,
+      "stars": 128909,
+      "forks": 45757,
+      "openIssues": 3228,
       "createdAt": "2014-06-06T22:56:04Z",
-      "pushedAt": "2026-11-07T11:59:43Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T04:09:36Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：128,887",
+        "当前观测 Stars：128,909",
         "主要语言：Go",
         "GitHub 主题：cncf, containers, go, kubernetes",
-        "最近推送：2026-11-07T11:59:43Z（约 0 天前）",
+        "最近推送：2026-11-08T04:09:36Z（约 0 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：云原生基础设施核心项目"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 22,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4231,6 +4795,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 128887
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 128909
         }
       ]
     },
@@ -4253,16 +4821,16 @@
       ],
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 30400,
-      "forks": 7958,
-      "openIssues": 505,
+      "stars": 30402,
+      "forks": 7960,
+      "openIssues": 507,
       "createdAt": "2015-10-06T01:07:32Z",
       "pushedAt": "2026-11-07T10:35:27Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：30,400",
+        "当前观测 Stars：30,402",
         "主要语言：Go",
         "GitHub 主题：chart, charts, cncf, helm",
         "最近推送：2026-11-07T10:35:27Z（约 0 天前）",
@@ -4271,17 +4839,21 @@
         "编辑选取：部署流程标准化"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 2,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4289,6 +4861,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 30400
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 30402
         }
       ]
     },
@@ -4313,35 +4889,39 @@
       ],
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 67343,
-      "forks": 10998,
-      "openIssues": 1094,
+      "stars": 67485,
+      "forks": 11011,
+      "openIssues": 1096,
       "createdAt": "2012-11-24T11:14:12Z",
-      "pushedAt": "2026-11-07T11:31:25Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T22:52:23Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：67,343",
+        "当前观测 Stars：67,485",
         "主要语言：Go",
         "GitHub 主题：alerting, graphing, hacktoberfest, metrics",
-        "最近推送：2026-11-07T11:31:25Z（约 0 天前）",
+        "最近推送：2026-11-07T22:52:23Z（约 0 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：可观测性基础组件"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 142,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0021,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4349,6 +4929,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 67343
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 67485
         }
       ]
     },
@@ -4381,35 +4965,39 @@
       ],
       "language": "TypeScript",
       "license": "AGPL-3.0",
-      "stars": 77748,
-      "forks": 14934,
-      "openIssues": 3326,
+      "stars": 77758,
+      "forks": 14944,
+      "openIssues": 3328,
       "createdAt": "2013-12-11T15:59:56Z",
-      "pushedAt": "2026-11-07T13:26:03Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T03:36:43Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：77,748",
+        "当前观测 Stars：77,758",
         "主要语言：TypeScript",
         "GitHub 主题：alerting, analytics, business-intelligence, dashboard",
-        "最近推送：2026-11-07T13:26:03Z（约 0 天前）",
+        "最近推送：2026-11-08T03:36:43Z（约 0 天前）",
         "许可证：AGPL-3.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：仪表盘和数据源覆盖广"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 10,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4417,6 +5005,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 77748
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 77758
         }
       ]
     },
@@ -4448,35 +5040,39 @@
       ],
       "language": "Go",
       "license": "MIT",
-      "stars": 64335,
+      "stars": 64343,
       "forks": 4939,
-      "openIssues": 51,
+      "openIssues": 54,
       "createdAt": "2021-12-08T15:30:18Z",
-      "pushedAt": "2026-11-06T01:33:03Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T01:23:12Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：64,335",
+        "当前观测 Stars：64,343",
         "主要语言：Go",
         "GitHub 主题：docker, foss, go, markdown",
-        "最近推送：2026-11-06T01:33:03Z（约 1 天前）",
+        "最近推送：2026-11-08T01:23:12Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：适合个人知识库"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 8,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4484,6 +5080,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 64335
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 64343
         }
       ]
     },
@@ -4517,16 +5117,16 @@
       ],
       "language": "TypeScript",
       "license": "AGPL-3.0",
-      "stars": 118450,
-      "forks": 7515,
-      "openIssues": 672,
+      "stars": 118487,
+      "forks": 7527,
+      "openIssues": 675,
       "createdAt": "2022-02-03T15:56:27Z",
       "pushedAt": "2026-11-07T09:51:33Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：118,450",
+        "当前观测 Stars：118,487",
         "主要语言：TypeScript",
         "GitHub 主题：backup-tool, flutter, google-photos, google-photos-alternative",
         "最近推送：2026-11-07T09:51:33Z（约 0 天前）",
@@ -4535,17 +5135,21 @@
         "编辑选取：本地数据控制力强"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 37,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4553,6 +5157,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 118450
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 118487
         }
       ]
     },
@@ -4582,35 +5190,39 @@
       ],
       "language": "Python",
       "license": "GPL-3.0",
-      "stars": 47820,
-      "forks": 3360,
+      "stars": 47856,
+      "forks": 3362,
       "openIssues": 7,
       "createdAt": "2022-02-12T21:56:52Z",
-      "pushedAt": "2026-11-07T15:32:29Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T00:36:02Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：47,820",
+        "当前观测 Stars：47,856",
         "主要语言：Python",
         "GitHub 主题：ai, angular, archiving, django",
-        "最近推送：2026-11-07T15:32:29Z（约 0 天前）",
+        "最近推送：2026-11-08T00:36:02Z（约 0 天前）",
         "许可证：GPL-3.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：OCR 和自动归档实用"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 36,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0008,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4618,6 +5230,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 47820
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 47856
         }
       ]
     },
@@ -4642,35 +5258,39 @@
       ],
       "language": "JavaScript",
       "license": "GPL-3.0",
-      "stars": 33548,
-      "forks": 2168,
+      "stars": 33553,
+      "forks": 2165,
       "openIssues": 1,
       "createdAt": "2022-08-24T07:29:42Z",
-      "pushedAt": "2026-11-07T12:15:46Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T00:35:14Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：33,548",
+        "当前观测 Stars：33,553",
         "主要语言：JavaScript",
         "GitHub 主题：docker, homepage, nextjs, node",
-        "最近推送：2026-11-07T12:15:46Z（约 0 天前）",
+        "最近推送：2026-11-08T00:35:14Z（约 0 天前）",
         "许可证：GPL-3.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：配置集中管理常用服务"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 5,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4678,6 +5298,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 33548
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 33553
         }
       ]
     },
@@ -4703,35 +5327,39 @@
       ],
       "language": "Python",
       "license": "Apache-2.0",
-      "stars": 92046,
-      "forks": 39222,
-      "openIssues": 3638,
+      "stars": 92056,
+      "forks": 39227,
+      "openIssues": 3685,
       "createdAt": "2013-09-17T07:29:48Z",
-      "pushedAt": "2026-11-07T15:43:16Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T06:07:57Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：92,046",
+        "当前观测 Stars：92,056",
         "主要语言：Python",
         "GitHub 主题：asyncio, hacktoberfest, home-automation, internet-of-things",
-        "最近推送：2026-11-07T15:43:16Z（约 0 天前）",
+        "最近推送：2026-11-08T06:07:57Z（约 0 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：设备集成数量大"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 10,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4739,6 +5367,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 92046
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 92056
         }
       ]
     },
@@ -4760,35 +5392,39 @@
       ],
       "language": "Go",
       "license": "MPL-2.0",
-      "stars": 90182,
-      "forks": 5579,
-      "openIssues": 399,
+      "stars": 90206,
+      "forks": 5582,
+      "openIssues": 400,
       "createdAt": "2013-11-26T09:48:21Z",
       "pushedAt": "2026-11-05T18:55:51Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：90,182",
+        "当前观测 Stars：90,206",
         "主要语言：Go",
         "GitHub 主题：go, p2p, peer-to-peer, synchronization",
-        "最近推送：2026-11-05T18:55:51Z（约 1 天前）",
+        "最近推送：2026-11-05T18:55:51Z（约 2 天前）",
         "许可证：MPL-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：数据传输自主可控"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 24,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4796,6 +5432,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 90182
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 90206
         }
       ]
     },
@@ -4819,35 +5459,39 @@
       ],
       "language": "Go",
       "license": "BSD-3-Clause",
-      "stars": 38758,
-      "forks": 3438,
-      "openIssues": 4772,
+      "stars": 38780,
+      "forks": 3439,
+      "openIssues": 4774,
       "createdAt": "2020-01-31T22:00:03Z",
-      "pushedAt": "2026-11-07T15:17:58Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T20:29:03Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：38,758",
+        "当前观测 Stars：38,780",
         "主要语言：Go",
         "GitHub 主题：2fa, oauth, sso, tailscale",
-        "最近推送：2026-11-07T15:17:58Z（约 0 天前）",
+        "最近推送：2026-11-07T20:29:03Z（约 0 天前）",
         "许可证：BSD-3-Clause",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：组网体验友好"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 22,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0006,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4855,6 +5499,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 38758
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 38780
         }
       ]
     },
@@ -4877,39 +5525,47 @@
       "license": "NOASSERTION",
       "stars": 1194,
       "forks": 472,
-      "openIssues": 79,
+      "openIssues": 78,
       "createdAt": "2016-09-16T01:12:39Z",
       "pushedAt": "2026-11-03T16:01:18Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
         "当前观测 Stars：1,194",
         "主要语言：C++",
         "GitHub 主题：security, vpn, vpn-client",
-        "最近推送：2026-11-03T16:01:18Z（约 3 天前）",
+        "最近推送：2026-11-03T16:01:18Z（约 4 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：成熟的加密网络方案"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 0,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
       "history": [
         {
           "date": "2026-11-07T15:49:11Z",
+          "stars": 1194
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
           "stars": 1194
         }
       ]
@@ -4932,35 +5588,39 @@
       ],
       "language": "Go",
       "license": "Apache-2.0",
-      "stars": 72360,
-      "forks": 19318,
-      "openIssues": 3944,
+      "stars": 72362,
+      "forks": 19321,
+      "openIssues": 3947,
       "createdAt": "2013-01-18T18:10:57Z",
       "pushedAt": "2026-11-06T02:17:38Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：72,360",
+        "当前观测 Stars：72,362",
         "主要语言：Go",
         "GitHub 主题：containers, docker, go, golang",
-        "最近推送：2026-11-06T02:17:38Z（约 1 天前）",
+        "最近推送：2026-11-06T02:17:38Z（约 2 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：容器生态底层组件"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 2,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -4968,6 +5628,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 72360
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 72362
         }
       ]
     },
@@ -4989,35 +5653,39 @@
       ],
       "language": "Go",
       "license": "MIT",
-      "stars": 61604,
-      "forks": 3773,
+      "stars": 61605,
+      "forks": 3775,
       "openIssues": 1,
       "createdAt": "2022-07-05T06:06:21Z",
       "pushedAt": "2026-10-26T18:07:11Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": true,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：61,604",
+        "当前观测 Stars：61,605",
         "主要语言：Go",
         "GitHub 主题：authentication, backend, golang, realtime",
-        "最近推送：2026-10-26T18:07:11Z（约 11 天前）",
+        "最近推送：2026-10-26T18:07:11Z（约 12 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：适合快速构建小型应用"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 1,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5025,6 +5693,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 61604
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 61605
         }
       ]
     },
@@ -5061,35 +5733,39 @@
       ],
       "language": "TypeScript",
       "license": "Apache-2.0",
-      "stars": 114631,
-      "forks": 15764,
-      "openIssues": 1191,
+      "stars": 114650,
+      "forks": 15770,
+      "openIssues": 1197,
       "createdAt": "2019-10-12T05:56:49Z",
-      "pushedAt": "2026-11-07T05:27:10Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T00:34:41Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：114,631",
+        "当前观测 Stars：114,650",
         "主要语言：TypeScript",
         "GitHub 主题：ai, alternative, auth, database",
-        "最近推送：2026-11-07T05:27:10Z（约 0 天前）",
+        "最近推送：2026-11-08T00:34:41Z（约 0 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：数据库能力完整"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 19,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5097,6 +5773,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 114631
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 114650
         }
       ]
     },
@@ -5134,35 +5814,39 @@
       ],
       "language": "TypeScript",
       "license": "BSD-3-Clause",
-      "stars": 57888,
+      "stars": 57890,
       "forks": 5839,
-      "openIssues": 758,
+      "openIssues": 756,
       "createdAt": "2019-04-08T16:36:25Z",
-      "pushedAt": "2026-11-07T14:17:51Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T05:15:57Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：57,888",
+        "当前观测 Stars：57,890",
         "主要语言：TypeScript",
         "GitHub 主题：android, appwrite, backend, backend-as-a-service",
-        "最近推送：2026-11-07T14:17:51Z（约 0 天前）",
+        "最近推送：2026-11-08T05:15:57Z（约 0 天前）",
         "许可证：BSD-3-Clause",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：认证与存储等基础能力齐全"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 2,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5170,6 +5854,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 57888
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 57890
         }
       ]
     },
@@ -5207,35 +5895,39 @@
       ],
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "stars": 38679,
-      "forks": 4995,
+      "stars": 38688,
+      "forks": 4994,
       "openIssues": 379,
       "createdAt": "2012-12-12T01:35:36Z",
-      "pushedAt": "2026-11-07T12:35:29Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T18:36:16Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：38,679",
+        "当前观测 Stars：38,688",
         "主要语言：TypeScript",
         "GitHub 主题：api, app, cms, composable",
-        "最近推送：2026-11-07T12:35:29Z（约 0 天前）",
+        "最近推送：2026-11-07T18:36:16Z（约 0 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：低代码数据管理灵活"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 9,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5243,6 +5935,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 38679
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 38688
         }
       ]
     },
@@ -5280,35 +5976,39 @@
       ],
       "language": "Python",
       "license": "MIT",
-      "stars": 149154,
-      "forks": 25091,
-      "openIssues": 725,
+      "stars": 149183,
+      "forks": 25089,
+      "openIssues": 727,
       "createdAt": "2022-10-17T02:58:36Z",
-      "pushedAt": "2026-11-07T09:18:20Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T23:47:46Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：149,154",
+        "当前观测 Stars：149,183",
         "主要语言：Python",
         "GitHub 主题：agents, ai, ai-agents, anthropic",
-        "最近推送：2026-11-07T09:18:20Z（约 0 天前）",
+        "最近推送：2026-11-07T23:47:46Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：集成模型和工具的案例多"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 29,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5316,6 +6016,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 149154
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 149183
         }
       ]
     },
@@ -5343,16 +6047,16 @@
       ],
       "language": "Python",
       "license": "CC-BY-4.0",
-      "stars": 61736,
-      "forks": 9380,
-      "openIssues": 1161,
+      "stars": 61744,
+      "forks": 9381,
+      "openIssues": 1165,
       "createdAt": "2023-08-18T11:43:45Z",
       "pushedAt": "2026-10-28T14:45:27Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：61,736",
+        "当前观测 Stars：61,744",
         "主要语言：Python",
         "GitHub 主题：agentic, agentic-agi, agents, ai",
         "最近推送：2026-10-28T14:45:27Z（约 10 天前）",
@@ -5361,17 +6065,21 @@
         "编辑选取：关注智能体编排模式"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 8,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5379,6 +6087,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 61736
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 61744
         }
       ]
     },
@@ -5411,35 +6123,39 @@
       ],
       "language": "Svelte",
       "license": "NOASSERTION",
-      "stars": 158012,
-      "forks": 22968,
-      "openIssues": 176,
+      "stars": 158064,
+      "forks": 22978,
+      "openIssues": 182,
       "createdAt": "2023-10-06T22:08:27Z",
-      "pushedAt": "2026-11-07T15:36:44Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T05:58:58Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：158,012",
+        "当前观测 Stars：158,064",
         "主要语言：Svelte",
         "GitHub 主题：ai, llm, llm-ui, llm-webui",
-        "最近推送：2026-11-07T15:36:44Z（约 0 天前）",
+        "最近推送：2026-11-08T05:58:58Z（约 0 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：本地模型体验完整"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 52,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5447,6 +6163,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 158012
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 158064
         }
       ]
     },
@@ -5478,35 +6198,39 @@
       ],
       "language": "Go",
       "license": "MIT",
-      "stars": 186244,
-      "forks": 18948,
-      "openIssues": 4606,
+      "stars": 186312,
+      "forks": 18962,
+      "openIssues": 4609,
       "createdAt": "2023-06-26T19:39:32Z",
-      "pushedAt": "2026-11-07T02:44:07Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T00:36:55Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：186,244",
+        "当前观测 Stars：186,312",
         "主要语言：Go",
         "GitHub 主题：deepseek, gemma, glm, go",
-        "最近推送：2026-11-07T02:44:07Z（约 0 天前）",
+        "最近推送：2026-11-08T00:36:55Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：本地推理上手快"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 68,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0004,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5514,6 +6238,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 186244
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 186312
         }
       ]
     },
@@ -5537,35 +6265,39 @@
       ],
       "language": "Python",
       "license": "GPL-3.0",
-      "stars": 145548,
-      "forks": 17319,
-      "openIssues": 5454,
+      "stars": 145631,
+      "forks": 17336,
+      "openIssues": 5460,
       "createdAt": "2023-01-17T03:15:56Z",
-      "pushedAt": "2026-11-07T13:56:50Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T05:48:04Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：145,548",
+        "当前观测 Stars：145,631",
         "主要语言：Python",
         "GitHub 主题：ai, comfy, comfyui, python",
-        "最近推送：2026-11-07T13:56:50Z（约 0 天前）",
+        "最近推送：2026-11-08T05:48:04Z（约 0 天前）",
         "许可证：GPL-3.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：工作流可视化且可复用"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 83,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0006,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5573,6 +6305,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 145548
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 145631
         }
       ]
     },
@@ -5606,16 +6342,16 @@
       ],
       "language": "Python",
       "license": "AGPL-3.0",
-      "stars": 165250,
-      "forks": 31887,
+      "stars": 165253,
+      "forks": 31886,
       "openIssues": 2512,
       "createdAt": "2022-08-22T14:05:26Z",
       "pushedAt": "2026-03-02T07:00:53Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：165,250",
+        "当前观测 Stars：165,253",
         "主要语言：Python",
         "GitHub 主题：ai, ai-art, deep-learning, diffusion",
         "最近推送：2026-03-02T07:00:53Z（约 250 天前）",
@@ -5624,17 +6360,21 @@
         "编辑选取：图像生成生态成熟"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 3,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5642,6 +6382,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 165250
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 165253
         }
       ]
     },
@@ -5658,35 +6402,39 @@
       "topics": [],
       "language": "Python",
       "license": "MIT",
-      "stars": 112167,
-      "forks": 13579,
-      "openIssues": 181,
+      "stars": 112207,
+      "forks": 13583,
+      "openIssues": 182,
       "createdAt": "2022-09-16T20:02:54Z",
       "pushedAt": "2026-08-31T17:19:19Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：112,167",
+        "当前观测 Stars：112,207",
         "主要语言：Python",
-        "最近推送：2026-08-31T17:19:19Z（约 67 天前）",
+        "最近推送：2026-08-31T17:19:19Z（约 68 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：语音转写质量和适用面广",
         "编辑选取：研究与应用资料丰富"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 40,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0004,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5694,6 +6442,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 112167
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 112207
         }
       ]
     },
@@ -5712,35 +6464,39 @@
       ],
       "language": "C++",
       "license": "MIT",
-      "stars": 133639,
-      "forks": 25234,
-      "openIssues": 2592,
+      "stars": 133684,
+      "forks": 25249,
+      "openIssues": 2583,
       "createdAt": "2023-03-10T18:58:00Z",
-      "pushedAt": "2026-11-07T15:12:09Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T06:05:21Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：133,639",
+        "当前观测 Stars：133,684",
         "主要语言：C++",
         "GitHub 主题：ggml",
-        "最近推送：2026-11-07T15:12:09Z（约 0 天前）",
+        "最近推送：2026-11-08T06:05:21Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：本地推理基础设施重要"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 45,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5748,6 +6504,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 133639
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 133684
         }
       ]
     },
@@ -5773,35 +6533,39 @@
       ],
       "language": "Python",
       "license": "NOASSERTION",
-      "stars": 105232,
-      "forks": 31315,
-      "openIssues": 18098,
+      "stars": 105245,
+      "forks": 31326,
+      "openIssues": 18112,
       "createdAt": "2016-08-13T05:26:41Z",
-      "pushedAt": "2026-11-07T15:26:27Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T06:08:12Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：105,232",
+        "当前观测 Stars：105,245",
         "主要语言：Python",
         "GitHub 主题：autograd, deep-learning, gpu, machine-learning",
-        "最近推送：2026-11-07T15:26:27Z（约 0 天前）",
+        "最近推送：2026-11-08T06:08:12Z（约 0 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：生态和教程体系完整"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 13,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5809,6 +6573,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 105232
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 105245
         }
       ]
     },
@@ -5845,35 +6613,39 @@
       ],
       "language": "Python",
       "license": "Apache-2.0",
-      "stars": 168622,
-      "forks": 35127,
-      "openIssues": 1058,
+      "stars": 168639,
+      "forks": 35136,
+      "openIssues": 1065,
       "createdAt": "2018-10-29T13:56:00Z",
-      "pushedAt": "2026-11-07T13:43:56Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T00:34:29Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：168,622",
+        "当前观测 Stars：168,639",
         "主要语言：Python",
         "GitHub 主题：audio, deep-learning, deepseek, gemma",
-        "最近推送：2026-11-07T13:43:56Z（约 0 天前）",
+        "最近推送：2026-11-08T00:34:29Z（约 0 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：模型覆盖范围广"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 17,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5881,6 +6653,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 168622
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 168639
         }
       ]
     },
@@ -5900,35 +6676,39 @@
       ],
       "language": "Python",
       "license": "NOASSERTION",
-      "stars": 33383,
+      "stars": 33394,
       "forks": 13092,
-      "openIssues": 2243,
+      "openIssues": 2242,
       "createdAt": "2010-09-13T23:02:39Z",
-      "pushedAt": "2026-11-06T19:17:55Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T21:05:25Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：33,383",
+        "当前观测 Stars：33,394",
         "主要语言：Python",
         "GitHub 主题：numpy, python",
-        "最近推送：2026-11-06T19:17:55Z（约 0 天前）",
+        "最近推送：2026-11-07T21:05:25Z（约 0 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：科学 Python 生态底座"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 11,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5936,6 +6716,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 33383
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 33394
         }
       ]
     },
@@ -5959,35 +6743,39 @@
       ],
       "language": "Python",
       "license": "BSD-3-Clause",
-      "stars": 50516,
-      "forks": 20727,
-      "openIssues": 1985,
+      "stars": 50525,
+      "forks": 20728,
+      "openIssues": 1978,
       "createdAt": "2010-08-24T01:37:33Z",
-      "pushedAt": "2026-11-07T13:00:57Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T04:17:16Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：50,516",
+        "当前观测 Stars：50,525",
         "主要语言：Python",
         "GitHub 主题：alignment, data-analysis, data-science, flexible",
-        "最近推送：2026-11-07T13:00:57Z（约 0 天前）",
+        "最近推送：2026-11-08T04:17:16Z（约 0 天前）",
         "许可证：BSD-3-Clause",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：数据清洗场景覆盖广"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 9,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -5995,6 +6783,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 50516
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 50525
         }
       ]
     },
@@ -6021,36 +6813,44 @@
       "openIssues": 1890,
       "createdAt": "2015-04-09T06:58:03Z",
       "pushedAt": "2026-11-06T17:15:45Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
         "当前观测 Stars：13,461",
         "主要语言：Jupyter Notebook",
         "GitHub 主题：closember, jupyter, jupyter-notebook, notebook",
-        "最近推送：2026-11-06T17:15:45Z（约 0 天前）",
+        "最近推送：2026-11-06T17:15:45Z（约 1 天前）",
         "许可证：BSD-3-Clause",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：探索式工作流成熟"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 0,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
       "history": [
         {
           "date": "2026-11-07T15:49:11Z",
+          "stars": 13461
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
           "stars": 13461
         }
       ]
@@ -6077,35 +6877,39 @@
       ],
       "language": "Python",
       "license": "Apache-2.0",
-      "stars": 46255,
-      "forks": 4450,
+      "stars": 46270,
+      "forks": 4451,
       "openIssues": 1188,
       "createdAt": "2019-08-24T00:14:52Z",
-      "pushedAt": "2026-11-07T15:04:20Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T04:32:37Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：46,255",
+        "当前观测 Stars：46,270",
         "主要语言：Python",
         "GitHub 主题：data-analysis, data-science, data-visualization, deep-learning",
-        "最近推送：2026-11-07T15:04:20Z（约 0 天前）",
+        "最近推送：2026-11-08T04:32:37Z（约 0 天前）",
         "许可证：Apache-2.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：原型开发速度快"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 15,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -6113,6 +6917,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 46255
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 46270
         }
       ]
     },
@@ -6135,16 +6943,16 @@
       ],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 83856,
-      "forks": 9324,
-      "openIssues": 840,
+      "stars": 83867,
+      "forks": 9407,
+      "openIssues": 848,
       "createdAt": "2020-04-21T05:03:57Z",
       "pushedAt": "2026-11-06T11:40:02Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：83,856",
+        "当前观测 Stars：83,867",
         "主要语言：TypeScript",
         "GitHub 主题：build-tool, dev-server, frontend, hmr",
         "最近推送：2026-11-06T11:40:02Z（约 1 天前）",
@@ -6153,17 +6961,21 @@
         "编辑选取：开发反馈速度快"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 11,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -6171,6 +6983,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 83856
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 83867
         }
       ]
     },
@@ -6187,16 +7003,16 @@
       "topics": [],
       "language": "TypeScript",
       "license": "MIT",
-      "stars": 54841,
-      "forks": 9283,
-      "openIssues": 950,
+      "stars": 54856,
+      "forks": 9282,
+      "openIssues": 952,
       "createdAt": "2018-06-12T13:49:36Z",
       "pushedAt": "2026-11-06T14:53:32Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：54,841",
+        "当前观测 Stars：54,856",
         "主要语言：TypeScript",
         "最近推送：2026-11-06T14:53:32Z（约 1 天前）",
         "许可证：MIT",
@@ -6205,17 +7021,21 @@
         "编辑选取：中文社区和文档资源丰富"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 15,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -6223,6 +7043,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 54841
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 54856
         }
       ]
     },
@@ -6243,35 +7067,39 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 88661,
+      "stars": 88666,
       "forks": 6798,
-      "openIssues": 1294,
+      "openIssues": 1300,
       "createdAt": "2016-11-20T18:13:05Z",
-      "pushedAt": "2026-11-07T05:54:09Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T23:08:52Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：88,661",
+        "当前观测 Stars：88,666",
         "主要语言：JavaScript",
         "GitHub 主题：compiler, template, ui",
-        "最近推送：2026-11-07T05:54:09Z（约 0 天前）",
+        "最近推送：2026-11-07T23:08:52Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：运行时开销低"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 5,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -6279,6 +7107,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 88661
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 88666
         }
       ]
     },
@@ -6300,16 +7132,16 @@
       ],
       "language": "Rust",
       "license": "MIT",
-      "stars": 108908,
-      "forks": 6721,
-      "openIssues": 1701,
+      "stars": 108914,
+      "forks": 6784,
+      "openIssues": 1709,
       "createdAt": "2018-05-15T01:34:26Z",
       "pushedAt": "2026-10-29T08:03:10Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：108,908",
+        "当前观测 Stars：108,914",
         "主要语言：Rust",
         "GitHub 主题：deno, javascript, rust, typescript",
         "最近推送：2026-10-29T08:03:10Z（约 9 天前）",
@@ -6318,17 +7150,21 @@
         "编辑选取：开箱即用的开发体验"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 6,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -6336,6 +7172,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 108908
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 108914
         }
       ]
     },
@@ -6365,35 +7205,39 @@
       ],
       "language": "Rust",
       "license": "NOASSERTION",
-      "stars": 96686,
-      "forks": 5271,
-      "openIssues": 9784,
+      "stars": 96701,
+      "forks": 5272,
+      "openIssues": 9858,
       "createdAt": "2021-04-14T00:48:17Z",
-      "pushedAt": "2026-11-07T15:47:33Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T06:08:04Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：96,686",
+        "当前观测 Stars：96,701",
         "主要语言：Rust",
         "GitHub 主题：bun, bundler, javascript, javascriptcore",
-        "最近推送：2026-11-07T15:47:33Z（约 0 天前）",
+        "最近推送：2026-11-08T06:08:04Z（约 0 天前）",
         "许可证：NOASSERTION",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：启动和安装速度快"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 15,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -6401,6 +7245,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 96686
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 96701
         }
       ]
     },
@@ -6432,35 +7280,39 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 143378,
-      "forks": 33551,
-      "openIssues": 3857,
+      "stars": 143401,
+      "forks": 33555,
+      "openIssues": 3858,
       "createdAt": "2016-10-05T23:32:51Z",
-      "pushedAt": "2026-11-07T15:24:54Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T05:55:04Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：143,378",
+        "当前观测 Stars：143,401",
         "主要语言：JavaScript",
         "GitHub 主题：blog, browser, compiler, components",
-        "最近推送：2026-11-07T15:24:54Z（约 0 天前）",
+        "最近推送：2026-11-08T05:55:04Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：渲染和部署能力完整"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 23,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0002,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -6468,6 +7320,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 143378
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 143401
         }
       ]
     },
@@ -6500,16 +7356,16 @@
       ],
       "language": "TypeScript",
       "license": "Apache-2.0",
-      "stars": 99523,
-      "forks": 6811,
+      "stars": 99552,
+      "forks": 6815,
       "openIssues": 33,
       "createdAt": "2019-11-15T18:32:42Z",
       "pushedAt": "2026-11-07T08:36:03Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：99,523",
+        "当前观测 Stars：99,552",
         "主要语言：TypeScript",
         "GitHub 主题：automation, chrome, chromium, e2e-testing",
         "最近推送：2026-11-07T08:36:03Z（约 0 天前）",
@@ -6518,17 +7374,21 @@
         "编辑选取：覆盖现代浏览器"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 29,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0003,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -6536,6 +7396,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 99523
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 99552
         }
       ]
     },
@@ -6560,39 +7424,47 @@
       "license": "MIT",
       "stars": 14670,
       "forks": 3607,
-      "openIssues": 929,
+      "openIssues": 932,
       "createdAt": "2015-06-15T20:28:27Z",
-      "pushedAt": "2026-11-07T06:03:30Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T00:27:42Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
         "当前观测 Stars：14,670",
         "主要语言：Python",
         "GitHub 主题：hacktoberfest, python, test, testing",
-        "最近推送：2026-11-07T06:03:30Z（约 0 天前）",
+        "最近推送：2026-11-08T00:27:42Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：测试表达清晰"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 0,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
       "history": [
         {
           "date": "2026-11-07T15:49:11Z",
+          "stars": 14670
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
           "stars": 14670
         }
       ]
@@ -6617,40 +7489,48 @@
       "language": "JavaScript",
       "license": "MIT",
       "stars": 27603,
-      "forks": 5207,
-      "openIssues": 142,
+      "forks": 5206,
+      "openIssues": 141,
       "createdAt": "2013-06-29T23:59:48Z",
-      "pushedAt": "2026-11-07T15:22:29Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-07T22:15:33Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
         "当前观测 Stars：27,603",
         "主要语言：JavaScript",
         "GitHub 主题：ecmascript, eslint, javascript, linter",
-        "最近推送：2026-11-07T15:22:29Z（约 0 天前）",
+        "最近推送：2026-11-07T22:15:33Z（约 0 天前）",
         "许可证：MIT",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：前端质量门槛常用"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 0,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
       "history": [
         {
           "date": "2026-11-07T15:49:11Z",
+          "stars": 27603
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
           "stars": 27603
         }
       ]
@@ -6687,16 +7567,16 @@
       ],
       "language": "JavaScript",
       "license": "MIT",
-      "stars": 52406,
-      "forks": 5026,
-      "openIssues": 1481,
+      "stars": 52407,
+      "forks": 5029,
+      "openIssues": 1484,
       "createdAt": "2016-11-29T17:13:37Z",
       "pushedAt": "2026-11-06T07:01:21Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：52,406",
+        "当前观测 Stars：52,407",
         "主要语言：JavaScript",
         "GitHub 主题：angular, ast, css, flow",
         "最近推送：2026-11-06T07:01:21Z（约 1 天前）",
@@ -6705,17 +7585,21 @@
         "编辑选取：减少团队格式争议"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 1,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -6723,6 +7607,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 52406
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 52407
         }
       ]
     },
@@ -6751,35 +7639,39 @@
       ],
       "language": "Clojure",
       "license": "AGPL-3.0",
-      "stars": 45507,
-      "forks": 2866,
-      "openIssues": 1028,
+      "stars": 45512,
+      "forks": 2864,
+      "openIssues": 1031,
       "createdAt": "2020-05-23T00:06:06Z",
-      "pushedAt": "2026-11-07T15:43:18Z",
-      "fetchedAt": "2026-11-07T15:49:11Z",
+      "pushedAt": "2026-11-08T06:03:25Z",
+      "fetchedAt": "2026-11-08T06:08:19Z",
       "archived": false,
       "featured": true,
       "reasons": [
-        "当前观测 Stars：45,507",
+        "当前观测 Stars：45,512",
         "主要语言：Clojure",
         "GitHub 主题：clojure, clojurescript, git, graph",
-        "最近推送：2026-11-07T15:43:18Z（约 0 天前）",
+        "最近推送：2026-11-08T06:03:25Z（约 0 天前）",
         "许可证：AGPL-3.0",
         "有 GitHub 项目描述，可直接从 README 继续核验",
         "编辑选取：数据保存在本地"
       ],
       "deltas": {
-        "1d": null,
+        "1d": 5,
         "7d": null,
         "30d": null
       },
       "growthRates": {
-        "1d": null,
+        "1d": 0.0001,
         "7d": null,
         "30d": null
       },
       "deltaWindows": {
-        "1d": null,
+        "1d": {
+          "from": "2026-11-07T15:49:11Z",
+          "to": "2026-11-08T06:08:19Z",
+          "days": 1
+        },
         "7d": null,
         "30d": null
       },
@@ -6787,6 +7679,10 @@
         {
           "date": "2026-11-07T15:49:11Z",
           "stars": 45507
+        },
+        {
+          "date": "2026-11-08T06:08:19Z",
+          "stars": 45512
         }
       ]
     }
@@ -6825,8 +7721,8 @@
       "yt-dlp/yt-dlp",
       "microsoft/vscode",
       "ohmyzsh/ohmyzsh",
-      "ollama/ollama",
       "DietrichGebert/ponytail",
+      "ollama/ollama",
       "huggingface/transformers",
       "AUTOMATIC1111/stable-diffusion-webui",
       "open-webui/open-webui",
@@ -6850,14 +7746,14 @@
       "sveltejs/svelte",
       "junegunn/fzf",
       "vitejs/vite",
-      "grafana/grafana",
       "storytold/photocraft",
+      "grafana/grafana",
       "eternity4719/HowToLiveBetter",
       "moby/moby",
       "BurntSushi/ripgrep",
       "prometheus/prometheus",
-      "Ebony-Vinyl/dsh-our-free-model",
       "cloudflare/security-audit-skill",
+      "Ebony-Vinyl/dsh-our-free-model",
       "usememos/memos",
       "git/git",
       "tldr-pages/tldr",
@@ -6886,8 +7782,8 @@
       "anywhere-labs/dsh-desktop",
       "NandhaKishorM/laya",
       "gethomepage/homepage",
-      "numpy/numpy",
       "vorssaint/vorssaint-utils",
+      "numpy/numpy",
       "yetone/magpie",
       "baidu/Unlimited-OCR",
       "helm/helm",
@@ -6899,14 +7795,126 @@
       "deepseek-ai/DeepInfer",
       "AprilNEA/OpenLogi",
       "browser-use/jev-ultrafast",
-      "awesome-dsh-plugin/awesome-dsh-plugin",
       "KnifeLemon/Filee",
+      "awesome-dsh-plugin/awesome-dsh-plugin",
       "firecrawl/anydoc",
       "pytest-dev/pytest",
       "jupyter/notebook",
       "OpenVPN/openvpn3"
     ],
-    "growth1d": [],
+    "growth1d": [
+      "morluto/rea",
+      "cloudflare/security-audit-skill",
+      "mattpocock/skills",
+      "Ebony-Vinyl/dsh-our-free-model",
+      "sindresorhus/awesome",
+      "deepseek-ai/deepseek-harness",
+      "affaan-m/ECC",
+      "KnifeLemon/Filee",
+      "Gathin23/cleanyourtv",
+      "DietrichGebert/ponytail",
+      "obra/superpowers",
+      "Niko1221/Strata",
+      "yetone/magpie",
+      "awesome-selfhosted/awesome-selfhosted",
+      "boykopovar/AnyPS5",
+      "codecrafters-io/build-your-own-x",
+      "public-apis/public-apis",
+      "NousResearch/hermes-agent",
+      "multica-ai/andrej-karpathy-skills",
+      "astral-sh/ruff",
+      "JustVugg/colibri",
+      "trimstray/the-book-of-secret-knowledge",
+      "prometheus/prometheus",
+      "wheresryan22/anatomy",
+      "anomalyco/opencode",
+      "storytold/photocraft",
+      "vinta/awesome-python",
+      "yt-dlp/yt-dlp",
+      "vorssaint/vorssaint-utils",
+      "bilawalsidhu/gods-eye-view",
+      "awesome-dsh-plugin/awesome-dsh-plugin",
+      "hypit-ai/hypit",
+      "Comfy-Org/ComfyUI",
+      "eternity4719/HowToLiveBetter",
+      "ollama/ollama",
+      "donnemartin/system-design-primer",
+      "torvalds/linux",
+      "DigitalPlatDev/FreeDomain",
+      "anywhere-labs/dsh-desktop",
+      "open-webui/open-webui",
+      "openclaw/openclaw",
+      "ggml-org/llama.cpp",
+      "guillaumemeyer/watermarks-remover",
+      "practical-tutorials/project-based-learning",
+      "openai/whisper",
+      "nilbuild/developer-roadmap",
+      "odysseus-dev/odysseus",
+      "deepseek-ai/DeepInfer",
+      "immich-app/immich",
+      "EbookFoundation/free-programming-books",
+      "paperless-ngx/paperless-ngx",
+      "n8n-io/n8n",
+      "AprilNEA/OpenLogi",
+      "ayghri/i-have-adhd",
+      "microsoft/vscode",
+      "react/react",
+      "langchain-ai/langchain",
+      "microsoft/playwright",
+      "astral-sh/uv",
+      "BurntSushi/ripgrep",
+      "NandhaKishorM/laya",
+      "baidu/Unlimited-OCR",
+      "freeCodeCamp/freeCodeCamp",
+      "ossu/computer-science",
+      "syncthing/syncthing",
+      "vercel/next.js",
+      "kubernetes/kubernetes",
+      "tailscale/tailscale",
+      "alibaba/open-code-review",
+      "zhaoxuya520/reverse-skill",
+      "supabase/supabase",
+      "huggingface/transformers",
+      "junegunn/fzf",
+      "streamlit/streamlit",
+      "vuejs/core",
+      "oven-sh/bun",
+      "browser-use/jev-ultrafast",
+      "git/git",
+      "firecrawl/anydoc",
+      "pytorch/pytorch",
+      "neovim/neovim",
+      "sharkdp/bat",
+      "ohmyzsh/ohmyzsh",
+      "numpy/numpy",
+      "vitejs/vite",
+      "TheAlgorithms/Python",
+      "docker/compose",
+      "grafana/grafana",
+      "home-assistant/core",
+      "jwasham/coding-interview-university",
+      "directus/directus",
+      "pandas-dev/pandas",
+      "usememos/memos",
+      "microsoft/autogen",
+      "denoland/deno",
+      "gethomepage/homepage",
+      "sveltejs/svelte",
+      "logseq/logseq",
+      "AUTOMATIC1111/stable-diffusion-webui",
+      "996icu/996.ICU",
+      "helm/helm",
+      "moby/moby",
+      "appwrite/appwrite",
+      "vuejs/vue",
+      "tldr-pages/tldr",
+      "pocketbase/pocketbase",
+      "prettier/prettier",
+      "OpenVPN/openvpn3",
+      "jupyter/notebook",
+      "pytest-dev/pytest",
+      "eslint/eslint"
+    ],
     "growth7d": [],
     "growth30d": [],
     "featured": [
